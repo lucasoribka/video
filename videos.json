@@ -628,6 +628,15 @@
     "RIO NEGRO-PR": {
       "ARENA MAIDL": {
         "QUADRA": {
+          "13-04-2025": {
+            "10h": [
+              {
+                "nome": "QUADRA_13-04-2025_10-15-44.mp4",
+                "url": "https://drive.google.com/file/d/1wDbz8IvugfzQalla5_KcIJbboNMzJP-T/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1wDbz8IvugfzQalla5_KcIJbboNMzJP-T"
+              }
+            ]
+          },
           "12-04-2025": {
             "19h": [
               {
@@ -1999,8 +2008,24 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "13-04-2025": {
-            "10h": [],
+            "10h": [
+              {
+                "nome": "QUADRA_13-04-2025_10-04-55.mp4",
+                "url": "https://drive.google.com/file/d/1wJN6_N-LHMP5ZEXH8kG3hi9fM5KSiObd/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1wJN6_N-LHMP5ZEXH8kG3hi9fM5KSiObd"
+              },
+              {
+                "nome": "QUADRA_13-04-2025_10-02-53.mp4",
+                "url": "https://drive.google.com/file/d/1wJJ30fwQjm8OhtQPTn7S9RoKTO3ewFr1/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1wJJ30fwQjm8OhtQPTn7S9RoKTO3ewFr1"
+              }
+            ],
             "09h": [
+              {
+                "nome": "QUADRA_13-04-2025_09-58-08.mp4",
+                "url": "https://drive.google.com/file/d/1w7tEAPVAAMMnJDagiCUS7cYohZDpbhG6/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1w7tEAPVAAMMnJDagiCUS7cYohZDpbhG6"
+              },
               {
                 "nome": "QUADRA_13-04-2025_09-46-40.mp4",
                 "url": "https://drive.google.com/file/d/1vz01TVD-OuosVQ7fCdkAXd_TqC7bkWF0/preview",

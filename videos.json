@@ -913,7 +913,13 @@
       "ESCOLA TENNIS ZSPORTS": {
         "TENNIS": {
           "14-04-2025": {
-            "20h": [],
+            "20h": [
+              {
+                "nome": "QUADRA_14-04-2025_20-35-18.mp4",
+                "url": "https://drive.google.com/file/d/16HOqtC-zlIUpjhDiGLFOJlhXO2iSkW9T/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16HOqtC-zlIUpjhDiGLFOJlhXO2iSkW9T"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_14-04-2025_18-54-11.mp4",
@@ -1011,6 +1017,16 @@
         "TRAVE 2": {
           "14-04-2025": {
             "20h": [
+              {
+                "nome": "QUADRA_14-04-2025_20-52-35.mp4",
+                "url": "https://drive.google.com/file/d/16AKiMee7fuFPK1_0LS2IDof_CpRs0D5A/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16AKiMee7fuFPK1_0LS2IDof_CpRs0D5A"
+              },
+              {
+                "nome": "QUADRA_14-04-2025_20-51-25.mp4",
+                "url": "https://drive.google.com/file/d/165bhJB-wvneVAvpw3iEN6ketl3Xy0Qzt/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=165bhJB-wvneVAvpw3iEN6ketl3Xy0Qzt"
+              },
               {
                 "nome": "QUADRA_14-04-2025_20-25-43.mp4",
                 "url": "https://drive.google.com/file/d/15K18H847tU_2p212FPyF1DtoPLSccPEp/preview",
@@ -1125,6 +1141,11 @@
         "TRAVE 1": {
           "14-04-2025": {
             "20h": [
+              {
+                "nome": "QUADRA_14-04-2025_20-54-52.mp4",
+                "url": "https://drive.google.com/file/d/16I1R-gwFQfT-J85QGKL7yKJIjfTeani0/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16I1R-gwFQfT-J85QGKL7yKJIjfTeani0"
+              },
               {
                 "nome": "QUADRA_14-04-2025_20-20-16.mp4",
                 "url": "https://drive.google.com/file/d/155FIJQ4qhjmuZ5mkUes5H6YKRr-XPmuQ/preview",

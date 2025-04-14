@@ -1013,6 +1013,15 @@
           }
         },
         "TRAVE 1": {
+          "14-04-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_14-04-2025_19-10-41.mp4",
+                "url": "https://drive.google.com/file/d/12jHYzWE4i8rE5cx7Hw097uB9saucN9vp/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=12jHYzWE4i8rE5cx7Hw097uB9saucN9vp"
+              }
+            ]
+          },
           "11-04-2025": {
             "22h": [
               {
@@ -1231,6 +1240,9 @@
       },
       "CENTRAL ARENA": {
         "QUADRA": {
+          "14-04-2025": {
+            "19h": []
+          },
           "13-04-2025": {
             "18h": [
               {

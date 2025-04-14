@@ -6,6 +6,16 @@
           "14-04-2025": {
             "19h": [
               {
+                "nome": "QUADRA_14-04-2025_19-24-46.mp4",
+                "url": "https://drive.google.com/file/d/13EBM8FagJVtu9f6sSkaIKSQ0zhjSnlQa/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=13EBM8FagJVtu9f6sSkaIKSQ0zhjSnlQa"
+              },
+              {
+                "nome": "QUADRA_14-04-2025_19-22-47.mp4",
+                "url": "https://drive.google.com/file/d/1376jLcQLbLNArM6v59RkD1Vpmsjrq7aW/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1376jLcQLbLNArM6v59RkD1Vpmsjrq7aW"
+              },
+              {
                 "nome": "QUADRA_14-04-2025_19-15-33.mp4",
                 "url": "https://drive.google.com/file/d/12zjrGdaHGpZOEo76pFKBsoFSpliCVWs2/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=12zjrGdaHGpZOEo76pFKBsoFSpliCVWs2"
@@ -1025,6 +1035,11 @@
           "14-04-2025": {
             "19h": [
               {
+                "nome": "QUADRA_14-04-2025_19-27-07.mp4",
+                "url": "https://drive.google.com/file/d/13EKfAjRAQbBZJUrkjncyskodqHl9trAs/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=13EKfAjRAQbBZJUrkjncyskodqHl9trAs"
+              },
+              {
                 "nome": "QUADRA_14-04-2025_19-21-35.mp4",
                 "url": "https://drive.google.com/file/d/1358NVreATsZ55Ae-wUfh7uPSvpR3CK3O/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1358NVreATsZ55Ae-wUfh7uPSvpR3CK3O"
@@ -1260,7 +1275,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "14-04-2025": {
-            "19h": []
+            "19h": [
+              {
+                "nome": "QUADRA_14-04-2025_19-10-35.mp4",
+                "url": "https://drive.google.com/file/d/13HllKN9CDKRH1SYYJdRJPRxzJvmjToYH/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=13HllKN9CDKRH1SYYJdRJPRxzJvmjToYH"
+              }
+            ]
           },
           "13-04-2025": {
             "18h": [

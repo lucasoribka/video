@@ -846,7 +846,13 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "15-04-2025": {
-            "22h": [],
+            "22h": [
+              {
+                "nome": "QUADRA_15-04-2025_22-03-23.mp4",
+                "url": "https://drive.google.com/file/d/1FfTbL0qrM8ffVs2GTJzUi6davWS8hpvY/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1FfTbL0qrM8ffVs2GTJzUi6davWS8hpvY"
+              }
+            ],
             "21h": [
               {
                 "nome": "QUADRA_15-04-2025_21-46-22.mp4",

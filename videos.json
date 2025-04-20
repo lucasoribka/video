@@ -1136,7 +1136,13 @@
       "ESCOLA TENNIS ZSPORTS": {
         "TENNIS": {
           "20-04-2025": {
-            "09h": []
+            "09h": [
+              {
+                "nome": "QUADRA_20-04-2025_09-19-16.mp4",
+                "url": "https://drive.google.com/file/d/1d0Ef7veQE2-nUYoEi2gkpMqv_RVfMhWX/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1d0Ef7veQE2-nUYoEi2gkpMqv_RVfMhWX"
+              }
+            ]
           },
           "18-04-2025": {
             "17h": [
@@ -1633,7 +1639,20 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "20-04-2025": {
-            "09h": []
+            "10h": [
+              {
+                "nome": "QUADRA_20-04-2025_10-01-06.mp4",
+                "url": "https://drive.google.com/file/d/1d0tXFjvfQjGZBIxFxqLyrJQrKVd8erbP/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1d0tXFjvfQjGZBIxFxqLyrJQrKVd8erbP"
+              }
+            ],
+            "09h": [
+              {
+                "nome": "QUADRA_20-04-2025_09-42-11.mp4",
+                "url": "https://drive.google.com/file/d/1d-L9dP_uuKtSAoihwN5b3S-6zKIhmDUi/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1d-L9dP_uuKtSAoihwN5b3S-6zKIhmDUi"
+              }
+            ]
           },
           "19-04-2025": {
             "18h": [

@@ -491,7 +491,13 @@
       "ESCOLA TENNIS ZSPORTS": {
         "TENNIS": {
           "22-04-2025": {
-            "17h": []
+            "17h": [
+              {
+                "nome": "QUADRA_22-04-2025_17-03-47.mp4",
+                "url": "https://drive.google.com/file/d/1lQYsJlvr4jhXWKNE-oZw2HnnJMuerSlB/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1lQYsJlvr4jhXWKNE-oZw2HnnJMuerSlB"
+              }
+            ]
           },
           "21-04-2025": {
             "15h": [

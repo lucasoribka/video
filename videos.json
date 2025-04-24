@@ -6,6 +6,11 @@
           "23-04-2025": {
             "21h": [
               {
+                "nome": "QUADRA_23-04-2025_21-55-44.mp4",
+                "url": "https://drive.google.com/file/d/1vPmr2i_JAfxhcPC06XasuQVeTFcZWzwu/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1vPmr2i_JAfxhcPC06XasuQVeTFcZWzwu"
+              },
+              {
                 "nome": "QUADRA_23-04-2025_21-45-38.mp4",
                 "url": "https://drive.google.com/file/d/1vKYWuTNVt6ndj7GPN_H5R7ky5uuGfwEN/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1vKYWuTNVt6ndj7GPN_H5R7ky5uuGfwEN"
@@ -975,7 +980,13 @@
       "ESCOLA TENNIS ZSPORTS": {
         "TENNIS": {
           "23-04-2025": {
-            "21h": [],
+            "21h": [
+              {
+                "nome": "QUADRA_23-04-2025_21-38-23.mp4",
+                "url": "https://drive.google.com/file/d/1vfTAk5zsp4n5SJ_nlosJd55Ce8izZWX2/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1vfTAk5zsp4n5SJ_nlosJd55Ce8izZWX2"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_23-04-2025_18-59-32.mp4",
@@ -1498,6 +1509,21 @@
         "QUADRA": {
           "23-04-2025": {
             "21h": [
+              {
+                "nome": "QUADRA_23-04-2025_21-56-39.mp4",
+                "url": "https://drive.google.com/file/d/1viJlCeUXthz9Xn_r8k6YkbWPLk682MRX/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1viJlCeUXthz9Xn_r8k6YkbWPLk682MRX"
+              },
+              {
+                "nome": "QUADRA_23-04-2025_21-55-52.mp4",
+                "url": "https://drive.google.com/file/d/1vZB_wHcEeX0hhXPHTyCf2OOxVQQwJaRo/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1vZB_wHcEeX0hhXPHTyCf2OOxVQQwJaRo"
+              },
+              {
+                "nome": "QUADRA_23-04-2025_21-55-13.mp4",
+                "url": "https://drive.google.com/file/d/1vKkJEmE7vS0yLsCUuOuHn_nBjXsnZBUG/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1vKkJEmE7vS0yLsCUuOuHn_nBjXsnZBUG"
+              },
               {
                 "nome": "QUADRA_23-04-2025_21-35-36.mp4",
                 "url": "https://drive.google.com/file/d/1ug_sCandqraqRCerdvwzMLO1DkXLfNmC/preview",

@@ -6,6 +6,21 @@
           "26-04-2025": {
             "15h": [
               {
+                "nome": "QUADRA_26-04-2025_15-02-25.mp4",
+                "url": "https://drive.google.com/file/d/1FNqER0bt_cMJcqZV5TtYFEduOew8MmRn/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1FNqER0bt_cMJcqZV5TtYFEduOew8MmRn"
+              },
+              {
+                "nome": "QUADRA_26-04-2025_15-01-05.mp4",
+                "url": "https://drive.google.com/file/d/1Ez4_NnRj92twcGkT-m0WyLoiJbrar5cY/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Ez4_NnRj92twcGkT-m0WyLoiJbrar5cY"
+              },
+              {
+                "nome": "QUADRA_26-04-2025_15-00-31.mp4",
+                "url": "https://drive.google.com/file/d/1EsLYDfND_58B6qv_6XEwdVkOha4ld-wn/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1EsLYDfND_58B6qv_6XEwdVkOha4ld-wn"
+              },
+              {
                 "nome": "QUADRA_26-04-2025_15-00-09.mp4",
                 "url": "https://drive.google.com/file/d/1EnNv7yAFMsV8e4BA9NoK7hw4MQkPcNZd/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1EnNv7yAFMsV8e4BA9NoK7hw4MQkPcNZd"
@@ -675,6 +690,13 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "26-04-2025": {
+            "15h": [
+              {
+                "nome": "QUADRA_26-04-2025_15-03-38.mp4",
+                "url": "https://drive.google.com/file/d/1FGSd2u6sFediTYst_asXXtR7VPdpzf3H/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1FGSd2u6sFediTYst_asXXtR7VPdpzf3H"
+              }
+            ],
             "14h": [
               {
                 "nome": "QUADRA_26-04-2025_14-58-46.mp4",
@@ -1134,6 +1156,15 @@
       },
       "PAIOL": {
         "TRAVE 2": {
+          "26-04-2025": {
+            "15h": [
+              {
+                "nome": "QUADRA_26-04-2025_15-03-15.mp4",
+                "url": "https://drive.google.com/file/d/1FG5mgS1ZN_ZalXADky_rycB3809pJzLn/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1FG5mgS1ZN_ZalXADky_rycB3809pJzLn"
+              }
+            ]
+          },
           "25-04-2025": {
             "22h": [
               {

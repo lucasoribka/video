@@ -4,7 +4,13 @@
       "RAVENNA": {
         "QUADRA": {
           "27-04-2025": {
-            "16h": [],
+            "16h": [
+              {
+                "nome": "QUADRA_27-04-2025_16-34-03.mp4",
+                "url": "https://drive.google.com/file/d/1Of-7bD-q4_t14x166xYn7vZF3Tkwtvss/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Of-7bD-q4_t14x166xYn7vZF3Tkwtvss"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_27-04-2025_15-51-16.mp4",

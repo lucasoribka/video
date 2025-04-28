@@ -1420,6 +1420,16 @@
           "28-04-2025": {
             "20h": [
               {
+                "nome": "QUADRA_28-04-2025_20-36-12.mp4",
+                "url": "https://drive.google.com/file/d/11N3YSxPkW1OVB6w6xFyp9to1uAW7Qrou/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=11N3YSxPkW1OVB6w6xFyp9to1uAW7Qrou"
+              },
+              {
+                "nome": "QUADRA_28-04-2025_20-29-41.mp4",
+                "url": "https://drive.google.com/file/d/119zXPVxHhRd5SjyxS6jF2vYPsnQrBSGR/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=119zXPVxHhRd5SjyxS6jF2vYPsnQrBSGR"
+              },
+              {
                 "nome": "QUADRA_28-04-2025_20-29-41.mp4",
                 "url": "https://drive.google.com/file/d/1UQ-xRr6uqCeXVv4K2drC80swy_mxz7Dl/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1UQ-xRr6uqCeXVv4K2drC80swy_mxz7Dl"
@@ -2158,6 +2168,11 @@
           "28-04-2025": {
             "20h": [
               {
+                "nome": "QUADRA_28-04-2025_20-31-12.mp4",
+                "url": "https://drive.google.com/file/d/11E8GWAlyhwAGfoXAqzA30CSZ5OFWLlhN/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=11E8GWAlyhwAGfoXAqzA30CSZ5OFWLlhN"
+              },
+              {
                 "nome": "QUADRA_28-04-2025_20-11-00.mp4",
                 "url": "https://drive.google.com/file/d/10UtWEFIDgeZ4v6cEcztfCk1R-bW_kqdO/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=10UtWEFIDgeZ4v6cEcztfCk1R-bW_kqdO"
@@ -2506,6 +2521,15 @@
           }
         },
         "TRAVE 1": {
+          "28-04-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_28-04-2025_20-35-04.mp4",
+                "url": "https://drive.google.com/file/d/11H4MNdPL1WCkynFaR00bDni7r3XkRJu6/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=11H4MNdPL1WCkynFaR00bDni7r3XkRJu6"
+              }
+            ]
+          },
           "26-04-2025": {
             "17h": [
               {

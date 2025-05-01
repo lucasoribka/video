@@ -6,6 +6,11 @@
           "01-05-2025": {
             "10h": [
               {
+                "nome": "QUADRA_01-05-2025_10-40-01.mp4",
+                "url": "https://drive.google.com/file/d/1FihQMCczCWHkLM6OBit9eb80nt19h0ek/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1FihQMCczCWHkLM6OBit9eb80nt19h0ek"
+              },
+              {
                 "nome": "QUADRA_01-05-2025_10-30-22.mp4",
                 "url": "https://drive.google.com/file/d/1FbYQQNbJE6byZ2y4-4sQbRSE5xWBRk2q/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1FbYQQNbJE6byZ2y4-4sQbRSE5xWBRk2q"
@@ -1601,6 +1606,15 @@
       },
       "CENTRAL ARENA": {
         "QUADRA": {
+          "01-05-2025": {
+            "10h": [
+              {
+                "nome": "QUADRA_01-05-2025_10-36-35.mp4",
+                "url": "https://drive.google.com/file/d/1FiQFXKOosmfayEFqPIUv6Q5qnKNfVBSQ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1FiQFXKOosmfayEFqPIUv6Q5qnKNfVBSQ"
+              }
+            ]
+          },
           "30-04-2025": {
             "21h": [
               {

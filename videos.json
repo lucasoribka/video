@@ -1943,6 +1943,26 @@
           "06-05-2025": {
             "20h": [
               {
+                "nome": "QUADRA_06-05-2025_20-55-10.mp4",
+                "url": "https://drive.google.com/file/d/1uIQvZdWUJIiX7GB8XRu26fST0IyV4xJh/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1uIQvZdWUJIiX7GB8XRu26fST0IyV4xJh"
+              },
+              {
+                "nome": "QUADRA_06-05-2025_20-53-40.mp4",
+                "url": "https://drive.google.com/file/d/1uHa-iestAC5s9pPbCqmu1xuAll2TRRKI/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1uHa-iestAC5s9pPbCqmu1xuAll2TRRKI"
+              },
+              {
+                "nome": "QUADRA_06-05-2025_20-52-17.mp4",
+                "url": "https://drive.google.com/file/d/1uFN2sKjDEbq23lgmeC8IBkXM936rlWgn/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1uFN2sKjDEbq23lgmeC8IBkXM936rlWgn"
+              },
+              {
+                "nome": "QUADRA_06-05-2025_20-51-17.mp4",
+                "url": "https://drive.google.com/file/d/1uEntK_riJg4c7lheT2yQfylLS32DqDOB/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1uEntK_riJg4c7lheT2yQfylLS32DqDOB"
+              },
+              {
                 "nome": "QUADRA_06-05-2025_20-39-10.mp4",
                 "url": "https://drive.google.com/file/d/1twKRLcBJP6aAJ3wi2ulpHSW2FpAVsva8/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1twKRLcBJP6aAJ3wi2ulpHSW2FpAVsva8"
@@ -3002,7 +3022,13 @@
       "ESCOLA TENNIS ZSPORTS": {
         "TENNIS": {
           "06-05-2025": {
-            "20h": [],
+            "20h": [
+              {
+                "nome": "QUADRA_06-05-2025_20-49-17.mp4",
+                "url": "https://drive.google.com/file/d/1u7dQmmK-wWOgzCupIPWgWV1zSkWTodfH/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1u7dQmmK-wWOgzCupIPWgWV1zSkWTodfH"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_06-05-2025_19-46-05.mp4",

@@ -4,6 +4,23 @@
       "RAVENNA": {
         "QUADRA": {
           "08-05-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_08-05-2025_20-08-13.mp4",
+                "url": "https://drive.google.com/file/d/17UEDSXb0joDpm2XfmahSQF10JpLul3GL/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=17UEDSXb0joDpm2XfmahSQF10JpLul3GL"
+              },
+              {
+                "nome": "QUADRA_08-05-2025_20-06-12.mp4",
+                "url": "https://drive.google.com/file/d/17E024VEm2MhjDY7rxAYQK_XQsZAbJSp7/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=17E024VEm2MhjDY7rxAYQK_XQsZAbJSp7"
+              },
+              {
+                "nome": "QUADRA_08-05-2025_20-03-54.mp4",
+                "url": "https://drive.google.com/file/d/177tLUH6wl3fdth1TJvjSg_VgmgqMmfji/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=177tLUH6wl3fdth1TJvjSg_VgmgqMmfji"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_08-05-2025_19-59-42.mp4",
@@ -960,6 +977,13 @@
       "ESCOLA TENNIS ZSPORTS": {
         "TENNIS": {
           "08-05-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_08-05-2025_20-07-34.mp4",
+                "url": "https://drive.google.com/file/d/17Re1vnuh6hvO-LKOy6kK7CySxAZRnzNv/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=17Re1vnuh6hvO-LKOy6kK7CySxAZRnzNv"
+              }
+            ],
             "16h": [
               {
                 "nome": "QUADRA_08-05-2025_16-51-03.mp4",
@@ -1197,7 +1221,13 @@
         },
         "TRAVE 1": {
           "08-05-2025": {
-            "20h": [],
+            "20h": [
+              {
+                "nome": "QUADRA_08-05-2025_20-02-26.mp4",
+                "url": "https://drive.google.com/file/d/173lpXADR1ukyHwqBjYeOf4mfIGgkX5GN/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=173lpXADR1ukyHwqBjYeOf4mfIGgkX5GN"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_08-05-2025_19-49-52.mp4",

@@ -6,6 +6,16 @@
           "08-05-2025": {
             "19h": [
               {
+                "nome": "QUADRA_08-05-2025_19-51-32.mp4",
+                "url": "https://drive.google.com/file/d/16o7HqwPOJOiMVHfS3f65gJOsn2UPBIR0/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16o7HqwPOJOiMVHfS3f65gJOsn2UPBIR0"
+              },
+              {
+                "nome": "QUADRA_08-05-2025_19-45-28.mp4",
+                "url": "https://drive.google.com/file/d/16jf3X7YQVH7on_3DloIBtzQmZnJGd_PL/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16jf3X7YQVH7on_3DloIBtzQmZnJGd_PL"
+              },
+              {
                 "nome": "QUADRA_08-05-2025_19-44-47.mp4",
                 "url": "https://drive.google.com/file/d/16WC3EVGTeT1_xNKt97YjhDiOOmDEPJWG/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16WC3EVGTeT1_xNKt97YjhDiOOmDEPJWG"
@@ -1166,6 +1176,15 @@
           }
         },
         "TRAVE 1": {
+          "08-05-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_08-05-2025_19-49-52.mp4",
+                "url": "https://drive.google.com/file/d/16nuTwVAxC_xkOimWus7z5jQqL2jTIrpa/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16nuTwVAxC_xkOimWus7z5jQqL2jTIrpa"
+              }
+            ]
+          },
           "07-05-2025": {
             "21h": [
               {
@@ -1278,6 +1297,11 @@
         "QUADRA": {
           "08-05-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_08-05-2025_19-45-52.mp4",
+                "url": "https://drive.google.com/file/d/16Yoj6IZZM1F6aq0JDDD1UiVhs00SUcEC/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16Yoj6IZZM1F6aq0JDDD1UiVhs00SUcEC"
+              },
               {
                 "nome": "QUADRA_08-05-2025_19-35-21.mp4",
                 "url": "https://drive.google.com/file/d/16JX_lzqu3rzwxBpXkkGlZtrkXSwAWjUI/preview",

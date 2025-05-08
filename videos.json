@@ -1147,7 +1147,18 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "08-05-2025": {
-            "16h": [],
+            "16h": [
+              {
+                "nome": "QUADRA_08-05-2025_16-42-49.mp4",
+                "url": "https://drive.google.com/file/d/148q4RDEY-my6gkFYWNaHC8cpmSe8gdz5/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=148q4RDEY-my6gkFYWNaHC8cpmSe8gdz5"
+              },
+              {
+                "nome": "QUADRA_08-05-2025_16-41-57.mp4",
+                "url": "https://drive.google.com/file/d/146PSRZKXc3X4uGeAU5yaOF08M5shoSOa/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=146PSRZKXc3X4uGeAU5yaOF08M5shoSOa"
+              }
+            ],
             "08h": [
               {
                 "nome": "QUADRA_08-05-2025_08-43-00.mp4",

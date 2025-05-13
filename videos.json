@@ -3,6 +3,9 @@
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
+          "13-05-2025": {
+            "19h": []
+          },
           "12-05-2025": {
             "22h": [
               {
@@ -1266,6 +1269,15 @@
     "RIO NEGRO-PR": {
       "ARENA MAIDL": {
         "QUADRA": {
+          "13-05-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_13-05-2025_19-10-18.mp4",
+                "url": "https://drive.google.com/file/d/1iOvxfpomDyxVNMN_l8e7i8YxrYMBpQ8e/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1iOvxfpomDyxVNMN_l8e7i8YxrYMBpQ8e"
+              }
+            ]
+          },
           "12-05-2025": {
             "21h": [
               {

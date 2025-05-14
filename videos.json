@@ -2410,7 +2410,25 @@
       "ESCOLA TENNIS ZSPORTS": {
         "TENNIS": {
           "14-05-2025": {
-            "07h": []
+            "08h": [
+              {
+                "nome": "QUADRA_14-05-2025_08-02-14.mp4",
+                "url": "https://drive.google.com/file/d/1ocSkNWIy7eztygt-MIKbm0Tf9qEsitZb/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ocSkNWIy7eztygt-MIKbm0Tf9qEsitZb"
+              }
+            ],
+            "07h": [
+              {
+                "nome": "QUADRA_14-05-2025_07-59-30.mp4",
+                "url": "https://drive.google.com/file/d/1oXufGs0bUvwpSoVYR1_Q0o3WDI5WGTdl/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1oXufGs0bUvwpSoVYR1_Q0o3WDI5WGTdl"
+              },
+              {
+                "nome": "QUADRA_14-05-2025_07-56-41.mp4",
+                "url": "https://drive.google.com/file/d/1oXH1qhAuFlh-hbngMTmFS4OzlZOgCHFK/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1oXH1qhAuFlh-hbngMTmFS4OzlZOgCHFK"
+              }
+            ]
           },
           "10-05-2025": {
             "12h": [

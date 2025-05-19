@@ -6,6 +6,11 @@
           "19-05-2025": {
             "19h": [
               {
+                "nome": "QUADRA_19-05-2025_19-50-58.mp4",
+                "url": "https://drive.google.com/file/d/1M7JZbyOsIgdOHy82-8VAbaAp9JqDX7nh/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1M7JZbyOsIgdOHy82-8VAbaAp9JqDX7nh"
+              },
+              {
                 "nome": "QUADRA_19-05-2025_19-05-20.mp4",
                 "url": "https://drive.google.com/file/d/1LDfV9Pt6YA0GM-w7iUJ3rWcx22i01-4-/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1LDfV9Pt6YA0GM-w7iUJ3rWcx22i01-4-"
@@ -177,6 +182,25 @@
     "RIO NEGRO-PR": {
       "ARENA MAIDL": {
         "QUADRA": {
+          "19-05-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_19-05-2025_19-53-32.mp4",
+                "url": "https://drive.google.com/file/d/1MJ3c-xxOl5Fswlr8szQhF2CdzyqDladY/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1MJ3c-xxOl5Fswlr8szQhF2CdzyqDladY"
+              },
+              {
+                "nome": "QUADRA_19-05-2025_19-52-21.mp4",
+                "url": "https://drive.google.com/file/d/1MIEEMGKg5NXVBedka0JQIrcnZgD3bq1K/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1MIEEMGKg5NXVBedka0JQIrcnZgD3bq1K"
+              },
+              {
+                "nome": "QUADRA_19-05-2025_19-51-08.mp4",
+                "url": "https://drive.google.com/file/d/1MFfPzKHlcL6SzwJ4FvfF1jTUIy4V-xEp/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1MFfPzKHlcL6SzwJ4FvfF1jTUIy4V-xEp"
+              }
+            ]
+          },
           "18-05-2025": {
             "17h": [
               {

@@ -1,9 +1,21 @@
 {
   "SC": {
-    "ITAIÓPOLIS-SC": {},
+    "ITAIÓPOLIS-SC": {
+      "ITA PADEL": {
+        "QUADRA 2": {},
+        "QUADRA 1": {}
+      }
+    },
     "MAFRA-SC": {
+      "RIOMAFRA PADEL": {
+        "QUADRA 4": {},
+        "QUADRA 3": {},
+        "QUADRA 2": {},
+        "QUADRA 1": {}
+      },
       "JR03 - RAFINHA": {
-        "BEACH": {},
+        "AREIA 3": {},
+        "AREIA 1": {},
         "SOCIETY": {}
       }
     },
@@ -336,8 +348,17 @@
   },
   "PR": {
     "RIO NEGRO-PR": {
-      "STALL BEACH - CENTRO": {},
-      "STALL BEACH - BAIRRO": {},
+      "STALL BEACH - CENTRO": {
+        "AREIA 3": {},
+        "AREIA 2": {},
+        "AREIA 1": {}
+      },
+      "STALL BEACH - BAIRRO": {
+        "AREIA 4": {},
+        "AREIA 3": {},
+        "AREIA 2": {},
+        "AREIA 1": {}
+      },
       "ARENA MAIDL": {
         "QUADRA": {
           "20-05-2025": {

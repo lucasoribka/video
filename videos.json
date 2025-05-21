@@ -1,5 +1,12 @@
 {
   "SC": {
+    "ITAIÓPOLIS-SC": {},
+    "MAFRA-SC": {
+      "JR03 - RAFINHA": {
+        "BEACH": {},
+        "SOCIETY": {}
+      }
+    },
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
@@ -329,6 +336,8 @@
   },
   "PR": {
     "RIO NEGRO-PR": {
+      "STALL BEACH - CENTRO": {},
+      "STALL BEACH - BAIRRO": {},
       "ARENA MAIDL": {
         "QUADRA": {
           "20-05-2025": {

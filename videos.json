@@ -25,6 +25,11 @@
           "21-05-2025": {
             "21h": [
               {
+                "nome": "QUADRA_21-05-2025_21-10-21.mp4",
+                "url": "https://drive.google.com/file/d/1Zl3LIDVS9_AmK-q8mWQbAxs3rLR8rpqL/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Zl3LIDVS9_AmK-q8mWQbAxs3rLR8rpqL"
+              },
+              {
                 "nome": "QUADRA_21-05-2025_21-04-47.mp4",
                 "url": "https://drive.google.com/file/d/1ZSOElPyERwutH9lHKj5t6EXls8kqRYed/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ZSOElPyERwutH9lHKj5t6EXls8kqRYed"
@@ -406,6 +411,16 @@
         "QUADRA": {
           "21-05-2025": {
             "21h": [
+              {
+                "nome": "QUADRA_21-05-2025_21-11-21.mp4",
+                "url": "https://drive.google.com/file/d/1_-HdJxootkKYd0q2m6wMmWwt4zsbX1hh/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1_-HdJxootkKYd0q2m6wMmWwt4zsbX1hh"
+              },
+              {
+                "nome": "QUADRA_21-05-2025_21-10-35.mp4",
+                "url": "https://drive.google.com/file/d/1Zj8onnAWJKWiV8IfXEpjuDKoR3Lk1lLI/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Zj8onnAWJKWiV8IfXEpjuDKoR3Lk1lLI"
+              },
               {
                 "nome": "QUADRA_21-05-2025_21-06-14.mp4",
                 "url": "https://drive.google.com/file/d/1ZTo2mPFsZQynvW4H8yZwxxXma7XvwQ4X/preview",
@@ -1087,6 +1102,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "21-05-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_21-05-2025_21-10-32.mp4",
+                "url": "https://drive.google.com/file/d/1ZyrjSgo9C-mfa0hqtCiidZyHof5rQfzC/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ZyrjSgo9C-mfa0hqtCiidZyHof5rQfzC"
+              }
+            ],
             "20h": [
               {
                 "nome": "QUADRA_21-05-2025_20-41-45.mp4",

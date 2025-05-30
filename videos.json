@@ -650,6 +650,20 @@
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
+          "30-05-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_30-05-2025_20-29-09.mp4",
+                "url": "https://drive.google.com/file/d/1HAf4gJOFfsCFha8EOFWzo7GnIYg8jABy/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1HAf4gJOFfsCFha8EOFWzo7GnIYg8jABy"
+              },
+              {
+                "nome": "QUADRA_30-05-2025_20-27-34.mp4",
+                "url": "https://drive.google.com/file/d/1HAAIrnG7LRweeoea8-_1HZFypM0BTebS/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1HAAIrnG7LRweeoea8-_1HZFypM0BTebS"
+              }
+            ]
+          },
           "29-05-2025": {
             "20h": [
               {
@@ -2050,7 +2064,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "30-05-2025": {
-            "20h": [],
+            "20h": [
+              {
+                "nome": "QUADRA_30-05-2025_20-25-35.mp4",
+                "url": "https://drive.google.com/file/d/1H44ooq0c_R_-vT_ezLCt0RMM_ZzNJghS/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1H44ooq0c_R_-vT_ezLCt0RMM_ZzNJghS"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_30-05-2025_19-44-28.mp4",

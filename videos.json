@@ -1576,7 +1576,13 @@
       "ESCOLA TENNIS ZSPORTS": {
         "TENNIS": {
           "01-06-2025": {
-            "11h": []
+            "11h": [
+              {
+                "nome": "QUADRA_01-06-2025_11-30-01.mp4",
+                "url": "https://drive.google.com/file/d/1JsjGBs3BWkP8ninurXxLqIzUJAP9ktx6/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1JsjGBs3BWkP8ninurXxLqIzUJAP9ktx6"
+              }
+            ]
           },
           "31-05-2025": {
             "18h": [
@@ -2123,6 +2129,16 @@
         "QUADRA": {
           "01-06-2025": {
             "11h": [
+              {
+                "nome": "QUADRA_01-06-2025_11-32-46.mp4",
+                "url": "https://drive.google.com/file/d/1JvKt2Wnooc-c66vQvyMLx9womJhSX2G9/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1JvKt2Wnooc-c66vQvyMLx9womJhSX2G9"
+              },
+              {
+                "nome": "QUADRA_01-06-2025_11-30-23.mp4",
+                "url": "https://drive.google.com/file/d/1JvCN5aEI9JYnWGKfVDbUAMLu86K9xfnZ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1JvCN5aEI9JYnWGKfVDbUAMLu86K9xfnZ"
+              },
               {
                 "nome": "QUADRA_01-06-2025_11-23-05.mp4",
                 "url": "https://drive.google.com/file/d/1JmL4hXiP2AsfJRNg0zHmhZoqzGRoOVtm/preview",

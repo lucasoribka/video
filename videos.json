@@ -571,6 +571,9 @@
     "RIO NEGRO-PR": {
       "STALL BEACH - BOM JESUS": {
         "QUADRA 5": {
+          "02-06-2025": {
+            "20h": []
+          },
           "01-06-2025": {
             "21h": [
               {
@@ -773,6 +776,13 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "02-06-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_02-06-2025_20-07-23.mp4",
+                "url": "https://drive.google.com/file/d/1t7XnTpSwoDwXTmxAcmlVcpZIW--VnEbi/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1t7XnTpSwoDwXTmxAcmlVcpZIW--VnEbi"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_02-06-2025_19-58-23.mp4",

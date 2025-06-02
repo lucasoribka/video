@@ -274,6 +274,11 @@
           "02-06-2025": {
             "20h": [
               {
+                "nome": "QUADRA_02-06-2025_20-28-49.mp4",
+                "url": "https://drive.google.com/file/d/1aCXZlztLkQ2Nt5kLcjgI6F-pHReFEzVU/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1aCXZlztLkQ2Nt5kLcjgI6F-pHReFEzVU"
+              },
+              {
                 "nome": "QUADRA_02-06-2025_20-14-06.mp4",
                 "url": "https://drive.google.com/file/d/1toSmqzs1Dxe-0m8aAHpF3jtYl6tNU8ji/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1toSmqzs1Dxe-0m8aAHpF3jtYl6tNU8ji"
@@ -793,6 +798,21 @@
           "02-06-2025": {
             "20h": [
               {
+                "nome": "QUADRA_02-06-2025_20-30-40.mp4",
+                "url": "https://drive.google.com/file/d/1j5sGlCqQklZA3wP0rs1-LbqN-YsbRuym/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1j5sGlCqQklZA3wP0rs1-LbqN-YsbRuym"
+              },
+              {
+                "nome": "QUADRA_02-06-2025_20-27-29.mp4",
+                "url": "https://drive.google.com/file/d/1mRhuedZfYJ5WDlh2QoogTcfhJrHCdU26/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1mRhuedZfYJ5WDlh2QoogTcfhJrHCdU26"
+              },
+              {
+                "nome": "QUADRA_02-06-2025_20-26-06.mp4",
+                "url": "https://drive.google.com/file/d/1lcYs-YzpR91jjFBEurjA3NjhrgM-OPpt/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1lcYs-YzpR91jjFBEurjA3NjhrgM-OPpt"
+              },
+              {
                 "nome": "QUADRA_02-06-2025_20-25-28.mp4",
                 "url": "https://drive.google.com/file/d/1M21b21XqNrstv1LdEY8Zo2PtF3XNCCnG/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1M21b21XqNrstv1LdEY8Zo2PtF3XNCCnG"
@@ -1006,6 +1026,9 @@
       },
       "PAIOL": {
         "TRAVE 2": {
+          "02-06-2025": {
+            "20h": []
+          },
           "31-05-2025": {
             "15h": [
               {

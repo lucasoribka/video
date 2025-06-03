@@ -27,8 +27,30 @@
             "07h": []
           },
           "29-05-2025": {
-            "22h": [],
-            "21h": [],
+            "22h": [
+              {
+                "nome": "QUADRA_29-05-2025_22-03-44.mp4",
+                "url": "https://drive.google.com/file/d/1xXhqesokocO3FECG81Q01YWd0od3henp/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1xXhqesokocO3FECG81Q01YWd0od3henp"
+              }
+            ],
+            "21h": [
+              {
+                "nome": "QUADRA_29-05-2025_21-57-11.mp4",
+                "url": "https://drive.google.com/file/d/1gczG9Bf5_hgeS_isyyPhScKKe3gFg2ko/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1gczG9Bf5_hgeS_isyyPhScKKe3gFg2ko"
+              },
+              {
+                "nome": "QUADRA_29-05-2025_21-53-19.mp4",
+                "url": "https://drive.google.com/file/d/1yYw5bP1zJOWt4KbDkzoMLVk9XpS2YNGD/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1yYw5bP1zJOWt4KbDkzoMLVk9XpS2YNGD"
+              },
+              {
+                "nome": "QUADRA_29-05-2025_21-17-04.mp4",
+                "url": "https://drive.google.com/file/d/1f2IesfQSgTQWv-0NcPCtgdFhhWgoONpY/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1f2IesfQSgTQWv-0NcPCtgdFhhWgoONpY"
+              }
+            ],
             "20h": [
               {
                 "nome": "QUADRA_29-05-2025_20-58-52.mp4",
@@ -1575,6 +1597,11 @@
         "QUADRA": {
           "03-06-2025": {
             "18h": [
+              {
+                "nome": "QUADRA_03-06-2025_18-39-22.mp4",
+                "url": "https://drive.google.com/file/d/1B0Q4_Urb58rp3_7OIItkoh9GuGTeSSVu/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1B0Q4_Urb58rp3_7OIItkoh9GuGTeSSVu"
+              },
               {
                 "nome": "QUADRA_03-06-2025_18-22-47.mp4",
                 "url": "https://drive.google.com/file/d/1wmJgZeDdhv7qJTfuT9ZwjAMPehXBv7Vl/preview",

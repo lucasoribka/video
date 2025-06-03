@@ -812,7 +812,13 @@
       "STALL BEACH - BOM JESUS": {
         "QUADRA 5": {
           "03-06-2025": {
-            "18h": [],
+            "18h": [
+              {
+                "nome": "QUADRA_03-06-2025_18-09-56.mp4",
+                "url": "https://drive.google.com/file/d/1_hA5V8mmGVojrAlIsNkm7PF5tCyO2BwY/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1_hA5V8mmGVojrAlIsNkm7PF5tCyO2BwY"
+              }
+            ],
             "17h": [
               {
                 "nome": "QUADRA_03-06-2025_17-33-12.mp4",

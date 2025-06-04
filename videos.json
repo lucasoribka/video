@@ -1856,7 +1856,18 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "04-06-2025": {
-            "18h": []
+            "18h": [
+              {
+                "nome": "QUADRA_04-06-2025_18-09-31.mp4",
+                "url": "https://drive.google.com/file/d/1M7x_vE3PgYkA_HXzx-GDRF_meKAIQPG0/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1M7x_vE3PgYkA_HXzx-GDRF_meKAIQPG0"
+              },
+              {
+                "nome": "QUADRA_04-06-2025_18-07-36.mp4",
+                "url": "https://drive.google.com/file/d/1KLb-ULhU6qquaj2VCaGYwa30OUqA0F5B/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1KLb-ULhU6qquaj2VCaGYwa30OUqA0F5B"
+              }
+            ]
           },
           "03-06-2025": {
             "20h": [
@@ -2490,6 +2501,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "04-06-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_04-06-2025_18-12-40.mp4",
+                "url": "https://drive.google.com/file/d/1HtyMqsXvp4ZlVApBs92VwYAlLebcRu_d/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1HtyMqsXvp4ZlVApBs92VwYAlLebcRu_d"
+              }
+            ],
             "17h": [
               {
                 "nome": "QUADRA_04-06-2025_17-45-14.mp4",

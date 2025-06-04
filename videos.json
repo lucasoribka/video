@@ -2125,6 +2125,7 @@
       "ESCOLA TENNIS ZSPORTS": {
         "TENNIS": {
           "04-06-2025": {
+            "09h": [],
             "07h": [
               {
                 "nome": "QUADRA_04-06-2025_07-58-55.mp4",
@@ -2377,7 +2378,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "04-06-2025": {
-            "09h": [],
+            "09h": [
+              {
+                "nome": "QUADRA_04-06-2025_09-01-08.mp4",
+                "url": "https://drive.google.com/file/d/1wjrme8w1SVqy2eCIUC2yHGUHdqw8EESG/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1wjrme8w1SVqy2eCIUC2yHGUHdqw8EESG"
+              }
+            ],
             "08h": [
               {
                 "nome": "QUADRA_04-06-2025_08-58-22.mp4",

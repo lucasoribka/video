@@ -276,6 +276,15 @@
           }
         },
         "AREIA 1": {
+          "04-06-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_04-06-2025_20-01-23.mp4",
+                "url": "https://drive.google.com/file/d/1BpR5AeFiXVWHCRFtsF5vj4BKcC9W7joG/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1BpR5AeFiXVWHCRFtsF5vj4BKcC9W7joG"
+              }
+            ]
+          },
           "03-06-2025": {
             "19h": [
               {
@@ -922,6 +931,11 @@
           "04-06-2025": {
             "19h": [
               {
+                "nome": "QUADRA_04-06-2025_19-59-52.mp4",
+                "url": "https://drive.google.com/file/d/1DecUsGaKvMjxWas1YY-p1ktnbyvu-1Ey/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1DecUsGaKvMjxWas1YY-p1ktnbyvu-1Ey"
+              },
+              {
                 "nome": "QUADRA_04-06-2025_19-46-33.mp4",
                 "url": "https://drive.google.com/file/d/1ewjewHcrPAo2RNgBVRJWqTqfFTFAH51W/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ewjewHcrPAo2RNgBVRJWqTqfFTFAH51W"
@@ -1118,6 +1132,18 @@
         },
         "TRAVE 1": {
           "04-06-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_04-06-2025_20-02-33.mp4",
+                "url": "https://drive.google.com/file/d/1hgBITbCgqFf_V0s4MSRE94SEn32yUzL3/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1hgBITbCgqFf_V0s4MSRE94SEn32yUzL3"
+              },
+              {
+                "nome": "QUADRA_04-06-2025_20-01-39.mp4",
+                "url": "https://drive.google.com/file/d/1-fm5jyUGZ9YRSuXVM19m0kVamuVFNEXj/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1-fm5jyUGZ9YRSuXVM19m0kVamuVFNEXj"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_04-06-2025_19-58-09.mp4",

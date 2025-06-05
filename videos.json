@@ -157,6 +157,13 @@
         },
         "TRAVE 2": {
           "05-06-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_05-06-2025_19-22-33.mp4",
+                "url": "https://drive.google.com/file/d/1NXjqiVRGAb5kA993QO7Z1Mdon2an25w7/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1NXjqiVRGAb5kA993QO7Z1Mdon2an25w7"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_05-06-2025_15-14-43.mp4",
@@ -1197,6 +1204,15 @@
       },
       "ARENA MAIDL": {
         "QUADRA": {
+          "05-06-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_05-06-2025_19-25-04.mp4",
+                "url": "https://drive.google.com/file/d/16Ha5eYy8atjrXk4hf9l2Go9gdOGl7Wzs/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16Ha5eYy8atjrXk4hf9l2Go9gdOGl7Wzs"
+              }
+            ]
+          },
           "04-06-2025": {
             "20h": [
               {

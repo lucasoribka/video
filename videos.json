@@ -665,6 +665,7 @@
         },
         "AREIA 1": {
           "06-06-2025": {
+            "20h": [],
             "19h": [
               {
                 "nome": "QUADRA_06-06-2025_19-47-08.mp4",
@@ -1542,6 +1543,13 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "06-06-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_06-06-2025_20-03-42.mp4",
+                "url": "https://drive.google.com/file/d/16z9p1uLXf0ABqBkIud9BBdd3c-8eGgvb/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16z9p1uLXf0ABqBkIud9BBdd3c-8eGgvb"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_06-06-2025_19-47-06.mp4",

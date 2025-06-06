@@ -665,6 +665,18 @@
         },
         "AREIA 1": {
           "06-06-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_06-06-2025_19-47-08.mp4",
+                "url": "https://drive.google.com/file/d/1K4Gvj69WWlr4zKsAaHN9DjXzohm0V1bI/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1K4Gvj69WWlr4zKsAaHN9DjXzohm0V1bI"
+              },
+              {
+                "nome": "QUADRA_06-06-2025_19-44-35.mp4",
+                "url": "https://drive.google.com/file/d/1gA2ZfOUyTwk4FxJNhRSSpyHgV8iNpZup/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1gA2ZfOUyTwk4FxJNhRSSpyHgV8iNpZup"
+              }
+            ],
             "11h": [
               {
                 "nome": "QUADRA_06-06-2025_11-58-03.mp4",
@@ -1531,6 +1543,21 @@
         "QUADRA": {
           "06-06-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_06-06-2025_19-47-06.mp4",
+                "url": "https://drive.google.com/file/d/1lzACQsYcZNvbO5do-cCgkU7aBm3d3lK3/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1lzACQsYcZNvbO5do-cCgkU7aBm3d3lK3"
+              },
+              {
+                "nome": "QUADRA_06-06-2025_19-44-32.mp4",
+                "url": "https://drive.google.com/file/d/1zk1UsQMctMSmiSJEoJTxRLrMMXBKsTtY/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1zk1UsQMctMSmiSJEoJTxRLrMMXBKsTtY"
+              },
+              {
+                "nome": "QUADRA_06-06-2025_19-43-35.mp4",
+                "url": "https://drive.google.com/file/d/1McRf2JqKKduCKKYnuKgNSLsKJ4B_kxu1/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1McRf2JqKKduCKKYnuKgNSLsKJ4B_kxu1"
+              },
               {
                 "nome": "QUADRA_06-06-2025_19-40-08.mp4",
                 "url": "https://drive.google.com/file/d/1LG6GkiDq2WeORYKcnW7pYHdqyD-gYtJF/preview",

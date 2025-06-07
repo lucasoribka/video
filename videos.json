@@ -2288,7 +2288,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "07-06-2025": {
-            "11h": [],
+            "11h": [
+              {
+                "nome": "QUADRA_07-06-2025_11-41-07.mp4",
+                "url": "https://drive.google.com/file/d/1aniTdRImzucqjvqgt8FD0zt-_XLEbZSX/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1aniTdRImzucqjvqgt8FD0zt-_XLEbZSX"
+              }
+            ],
             "10h": [
               {
                 "nome": "QUADRA_07-06-2025_10-59-23.mp4",

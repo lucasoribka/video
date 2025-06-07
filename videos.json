@@ -896,6 +896,7 @@
       "RAVENNA": {
         "QUADRA": {
           "07-06-2025": {
+            "16h": [],
             "15h": [
               {
                 "nome": "QUADRA_07-06-2025_15-41-16.mp4",
@@ -2352,6 +2353,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "07-06-2025": {
+            "16h": [
+              {
+                "nome": "QUADRA_07-06-2025_16-29-15.mp4",
+                "url": "https://drive.google.com/file/d/1RPzMGVDTXuqaoVuelutDQ3QSeizakwJV/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1RPzMGVDTXuqaoVuelutDQ3QSeizakwJV"
+              }
+            ],
             "15h": [],
             "14h": [],
             "13h": [],

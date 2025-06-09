@@ -1760,7 +1760,13 @@
         },
         "QUADRA 4": {
           "09-06-2025": {
-            "18h": []
+            "18h": [
+              {
+                "nome": "QUADRA_09-06-2025_18-20-09.mp4",
+                "url": "https://drive.google.com/file/d/1H-CraUPkGChLzfhIQxVzIdhfgYRYthjk/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1H-CraUPkGChLzfhIQxVzIdhfgYRYthjk"
+              }
+            ]
           },
           "08-06-2025": {
             "11h": [
@@ -1880,6 +1886,26 @@
         "QUADRA": {
           "09-06-2025": {
             "18h": [
+              {
+                "nome": "QUADRA_09-06-2025_18-24-38.mp4",
+                "url": "https://drive.google.com/file/d/1X84aruvpAL-pBxM-knmg9U5XYeuVm-yR/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1X84aruvpAL-pBxM-knmg9U5XYeuVm-yR"
+              },
+              {
+                "nome": "QUADRA_09-06-2025_18-23-32.mp4",
+                "url": "https://drive.google.com/file/d/1PuVk8utlqFh7qa0O_UqWdql64x5yCKeU/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1PuVk8utlqFh7qa0O_UqWdql64x5yCKeU"
+              },
+              {
+                "nome": "QUADRA_09-06-2025_18-22-25.mp4",
+                "url": "https://drive.google.com/file/d/175QlAs-kBBY6tpCcXjPmJWslOWMp6q6-/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=175QlAs-kBBY6tpCcXjPmJWslOWMp6q6-"
+              },
+              {
+                "nome": "QUADRA_09-06-2025_18-20-02.mp4",
+                "url": "https://drive.google.com/file/d/1NgAwbqdguyCGnwK3uuQRanhVPkUHEWj7/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1NgAwbqdguyCGnwK3uuQRanhVPkUHEWj7"
+              },
               {
                 "nome": "QUADRA_09-06-2025_18-09-37.mp4",
                 "url": "https://drive.google.com/file/d/1uKgzsB5tOhYHyncykW6l6YeOVi_B-Vru/preview",

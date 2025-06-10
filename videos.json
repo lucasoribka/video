@@ -616,6 +616,21 @@
           "09-06-2025": {
             "21h": [
               {
+                "nome": "QUADRA_09-06-2025_21-04-53.mp4",
+                "url": "https://drive.google.com/file/d/15aTzYYUBa8doREEkpHQgKT83Bkza4RBL/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=15aTzYYUBa8doREEkpHQgKT83Bkza4RBL"
+              },
+              {
+                "nome": "QUADRA_09-06-2025_21-03-38.mp4",
+                "url": "https://drive.google.com/file/d/1H_6fGDpXiOvDMUhfzE1pRikojMuOeMtS/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1H_6fGDpXiOvDMUhfzE1pRikojMuOeMtS"
+              },
+              {
+                "nome": "QUADRA_09-06-2025_21-03-05.mp4",
+                "url": "https://drive.google.com/file/d/1RTZhx8ZiKbJhNgI9kfawYS-GSti0HWoa/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1RTZhx8ZiKbJhNgI9kfawYS-GSti0HWoa"
+              },
+              {
                 "nome": "QUADRA_09-06-2025_21-02-17.mp4",
                 "url": "https://drive.google.com/file/d/1oyzyQT8EYwprStnbzvN-5MC8IPaIDwg2/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1oyzyQT8EYwprStnbzvN-5MC8IPaIDwg2"
@@ -1913,6 +1928,9 @@
     "RIO NEGRO-PR": {
       "STALL BEACH - BOM JESUS": {
         "QUADRA 5": {
+          "09-06-2025": {
+            "21h": []
+          },
           "08-06-2025": {
             "10h": [
               {
@@ -2980,6 +2998,18 @@
         },
         "TRAVE 1": {
           "09-06-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_09-06-2025_21-04-33.mp4",
+                "url": "https://drive.google.com/file/d/1PJUV7p4L40zh4tQk-x_Rx4W9wtc1dalR/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1PJUV7p4L40zh4tQk-x_Rx4W9wtc1dalR"
+              },
+              {
+                "nome": "QUADRA_09-06-2025_21-03-07.mp4",
+                "url": "https://drive.google.com/file/d/1o7QhmbENU5bwQIshq5pdiK9oLFGgtSDD/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1o7QhmbENU5bwQIshq5pdiK9oLFGgtSDD"
+              }
+            ],
             "20h": [
               {
                 "nome": "QUADRA_09-06-2025_20-54-05.mp4",

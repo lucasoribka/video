@@ -16,8 +16,30 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "10-06-2025": {
-            "10h": [],
-            "09h": [],
+            "10h": [
+              {
+                "nome": "QUADRA_10-06-2025_10-13-30.mp4",
+                "url": "https://drive.google.com/file/d/1zrbKCW0WnfQOXvkUUmkutYK3ZuAtQlrF/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1zrbKCW0WnfQOXvkUUmkutYK3ZuAtQlrF"
+              },
+              {
+                "nome": "QUADRA_10-06-2025_10-11-16.mp4",
+                "url": "https://drive.google.com/file/d/1JCeQOY1aUYN0CaKnmaKHuvhxMYcGrheb/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1JCeQOY1aUYN0CaKnmaKHuvhxMYcGrheb"
+              },
+              {
+                "nome": "QUADRA_10-06-2025_10-08-32.mp4",
+                "url": "https://drive.google.com/file/d/1jSWZlPlea6FLpMeXwkQ2oo5yVAbAPvCV/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1jSWZlPlea6FLpMeXwkQ2oo5yVAbAPvCV"
+              }
+            ],
+            "09h": [
+              {
+                "nome": "QUADRA_10-06-2025_09-43-15.mp4",
+                "url": "https://drive.google.com/file/d/1_CugAeuxWMzU5tRAfFs61sENozBLTtm6/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1_CugAeuxWMzU5tRAfFs61sENozBLTtm6"
+              }
+            ],
             "08h": [
               {
                 "nome": "QUADRA_10-06-2025_08-10-55.mp4",
@@ -2741,6 +2763,11 @@
         "TENNIS": {
           "10-06-2025": {
             "10h": [
+              {
+                "nome": "QUADRA_10-06-2025_10-37-08.mp4",
+                "url": "https://drive.google.com/file/d/138VMnG2lVgeNrYIjPjWdPMJhrYa1ymPe/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=138VMnG2lVgeNrYIjPjWdPMJhrYa1ymPe"
+              },
               {
                 "nome": "QUADRA_10-06-2025_10-07-13.mp4",
                 "url": "https://drive.google.com/file/d/1pEl6ARiHUW_cjvmGqvBGhr7xeXz0ZmTd/preview",

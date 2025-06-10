@@ -1367,6 +1367,13 @@
         },
         "AREIA 1": {
           "10-06-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_10-06-2025_19-10-23.mp4",
+                "url": "https://drive.google.com/file/d/1aVrbwv6eCBYKPhN9bQAsSjr9m5oJ0NE6/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1aVrbwv6eCBYKPhN9bQAsSjr9m5oJ0NE6"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_10-06-2025_18-59-41.mp4",
@@ -1613,6 +1620,11 @@
         "QUADRA": {
           "10-06-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_10-06-2025_19-08-11.mp4",
+                "url": "https://drive.google.com/file/d/1NT2lyBTOyYOAtoKYThVXLXvchy_fLjnu/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1NT2lyBTOyYOAtoKYThVXLXvchy_fLjnu"
+              },
               {
                 "nome": "QUADRA_10-06-2025_19-00-52.mp4",
                 "url": "https://drive.google.com/file/d/1AWuHgPz1HzmyHV4v5uHTPwna-Lv1O7YP/preview",
@@ -2197,6 +2209,9 @@
     "RIO NEGRO-PR": {
       "STALL BEACH - BOM JESUS": {
         "QUADRA 5": {
+          "10-06-2025": {
+            "19h": []
+          },
           "09-06-2025": {
             "21h": [
               {
@@ -3332,6 +3347,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "10-06-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_10-06-2025_19-10-26.mp4",
+                "url": "https://drive.google.com/file/d/1UcgLw-8Cv1srH9djy5Q6Rn-3ha3F78Zr/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1UcgLw-8Cv1srH9djy5Q6Rn-3ha3F78Zr"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_10-06-2025_18-23-07.mp4",

@@ -1621,6 +1621,26 @@
           "10-06-2025": {
             "19h": [
               {
+                "nome": "QUADRA_10-06-2025_19-15-37.mp4",
+                "url": "https://drive.google.com/file/d/1Rxz3Q6Onl-8f1xsHeCkMnh4cGmD74OHh/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Rxz3Q6Onl-8f1xsHeCkMnh4cGmD74OHh"
+              },
+              {
+                "nome": "QUADRA_10-06-2025_19-12-52.mp4",
+                "url": "https://drive.google.com/file/d/14I9Fw8fMNk80NjLhFsKWE9V2qqjh9gop/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=14I9Fw8fMNk80NjLhFsKWE9V2qqjh9gop"
+              },
+              {
+                "nome": "QUADRA_10-06-2025_19-12-20.mp4",
+                "url": "https://drive.google.com/file/d/1yGHHFGXW5WaC4lgxLi38KNDr0nEe8ZXF/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1yGHHFGXW5WaC4lgxLi38KNDr0nEe8ZXF"
+              },
+              {
+                "nome": "QUADRA_10-06-2025_19-09-27.mp4",
+                "url": "https://drive.google.com/file/d/1QSrJgOflMFyelrcjvWUrX2nlwKM4h2FG/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1QSrJgOflMFyelrcjvWUrX2nlwKM4h2FG"
+              },
+              {
                 "nome": "QUADRA_10-06-2025_19-08-11.mp4",
                 "url": "https://drive.google.com/file/d/1NT2lyBTOyYOAtoKYThVXLXvchy_fLjnu/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1NT2lyBTOyYOAtoKYThVXLXvchy_fLjnu"
@@ -2210,7 +2230,13 @@
       "STALL BEACH - BOM JESUS": {
         "QUADRA 5": {
           "10-06-2025": {
-            "19h": []
+            "19h": [
+              {
+                "nome": "QUADRA_10-06-2025_19-12-58.mp4",
+                "url": "https://drive.google.com/file/d/1fWPKbtVI2u-b8kZRMA3kpNTiZDkU0_F0/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1fWPKbtVI2u-b8kZRMA3kpNTiZDkU0_F0"
+              }
+            ]
           },
           "09-06-2025": {
             "21h": [

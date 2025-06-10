@@ -9,8 +9,35 @@
     "MAFRA-SC": {
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
+          "10-06-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_10-06-2025_18-39-20.mp4",
+                "url": "https://drive.google.com/file/d/1bQkw62P3hwbq4QkfRetu6ugQImTL2ZSA/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1bQkw62P3hwbq4QkfRetu6ugQImTL2ZSA"
+              }
+            ]
+          },
           "09-06-2025": {
-            "19h": []
+            "21h": [
+              {
+                "nome": "QUADRA_09-06-2025_21-46-22.mp4",
+                "url": "https://drive.google.com/file/d/1SHTv2dBaifXMX3wL5xUuBOyY3WhHnydA/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1SHTv2dBaifXMX3wL5xUuBOyY3WhHnydA"
+              }
+            ],
+            "19h": [
+              {
+                "nome": "QUADRA_09-06-2025_19-41-35.mp4",
+                "url": "https://drive.google.com/file/d/1ZiYEfczCi7QjPer1xR7HR9418YgELNfH/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ZiYEfczCi7QjPer1xR7HR9418YgELNfH"
+              },
+              {
+                "nome": "QUADRA_09-06-2025_19-23-34.mp4",
+                "url": "https://drive.google.com/file/d/1ryqXlI3agxLyB356UB5TlWafxDt9Qrev/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ryqXlI3agxLyB356UB5TlWafxDt9Qrev"
+              }
+            ]
           }
         },
         "QUADRA 3": {
@@ -1342,6 +1369,11 @@
           "10-06-2025": {
             "18h": [
               {
+                "nome": "QUADRA_10-06-2025_18-59-41.mp4",
+                "url": "https://drive.google.com/file/d/1q3FMsPW6HkNKxkv7s7Cg8Aj9IMZ3mY6A/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1q3FMsPW6HkNKxkv7s7Cg8Aj9IMZ3mY6A"
+              },
+              {
                 "nome": "QUADRA_10-06-2025_18-49-07.mp4",
                 "url": "https://drive.google.com/file/d/1vPcO9uylYcExCtuK-23CawazebQN_l17/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1vPcO9uylYcExCtuK-23CawazebQN_l17"
@@ -1580,6 +1612,13 @@
       "RAVENNA": {
         "QUADRA": {
           "10-06-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_10-06-2025_19-00-52.mp4",
+                "url": "https://drive.google.com/file/d/1AWuHgPz1HzmyHV4v5uHTPwna-Lv1O7YP/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1AWuHgPz1HzmyHV4v5uHTPwna-Lv1O7YP"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_10-06-2025_18-51-54.mp4",

@@ -16,6 +16,8 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "10-06-2025": {
+            "10h": [],
+            "09h": [],
             "08h": [
               {
                 "nome": "QUADRA_10-06-2025_08-10-55.mp4",
@@ -2737,6 +2739,27 @@
       },
       "ESCOLA TENNIS ZSPORTS": {
         "TENNIS": {
+          "10-06-2025": {
+            "10h": [
+              {
+                "nome": "QUADRA_10-06-2025_10-07-13.mp4",
+                "url": "https://drive.google.com/file/d/1pEl6ARiHUW_cjvmGqvBGhr7xeXz0ZmTd/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1pEl6ARiHUW_cjvmGqvBGhr7xeXz0ZmTd"
+              }
+            ],
+            "09h": [
+              {
+                "nome": "QUADRA_10-06-2025_09-32-01.mp4",
+                "url": "https://drive.google.com/file/d/1-d7-p4pR7m1DbzibAz2tCeL004FxPw1i/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1-d7-p4pR7m1DbzibAz2tCeL004FxPw1i"
+              },
+              {
+                "nome": "QUADRA_10-06-2025_09-23-58.mp4",
+                "url": "https://drive.google.com/file/d/1Xb0O3v150-ejCHRFr36ibU3c6BMQTlxj/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Xb0O3v150-ejCHRFr36ibU3c6BMQTlxj"
+              }
+            ]
+          },
           "07-06-2025": {
             "11h": [
               {
@@ -3320,6 +3343,15 @@
       },
       "CENTRAL ARENA": {
         "QUADRA": {
+          "10-06-2025": {
+            "09h": [
+              {
+                "nome": "QUADRA_10-06-2025_09-58-47.mp4",
+                "url": "https://drive.google.com/file/d/1dZf7O6S16zktvw28xvfA_7oo5w2DKJEV/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1dZf7O6S16zktvw28xvfA_7oo5w2DKJEV"
+              }
+            ]
+          },
           "09-06-2025": {
             "21h": [
               {

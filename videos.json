@@ -2090,6 +2090,9 @@
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
+          "11-06-2025": {
+            "18h": []
+          },
           "10-06-2025": {
             "21h": [
               {
@@ -3212,6 +3215,15 @@
       },
       "ESCOLA TENNIS ZSPORTS": {
         "TENNIS": {
+          "11-06-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_11-06-2025_18-46-43.mp4",
+                "url": "https://drive.google.com/file/d/1zgv9Hacw_1p4qG5euGf5gSvUR52-DNHR/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1zgv9Hacw_1p4qG5euGf5gSvUR52-DNHR"
+              }
+            ]
+          },
           "10-06-2025": {
             "20h": [
               {

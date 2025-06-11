@@ -164,7 +164,13 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "10-06-2025": {
-            "21h": [],
+            "21h": [
+              {
+                "nome": "QUADRA_10-06-2025_21-28-49.mp4",
+                "url": "https://drive.google.com/file/d/1eYbsI6JxIcguufbYmFjYMoT0hXsBKkQO/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1eYbsI6JxIcguufbYmFjYMoT0hXsBKkQO"
+              }
+            ],
             "20h": [
               {
                 "nome": "QUADRA_10-06-2025_20-39-52.mp4",
@@ -2526,6 +2532,11 @@
           "10-06-2025": {
             "21h": [
               {
+                "nome": "QUADRA_10-06-2025_21-29-02.mp4",
+                "url": "https://drive.google.com/file/d/1fbaBHG5pvAosPMTyqK3NvKetSReVPKyP/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1fbaBHG5pvAosPMTyqK3NvKetSReVPKyP"
+              },
+              {
                 "nome": "QUADRA_10-06-2025_21-28-19.mp4",
                 "url": "https://drive.google.com/file/d/1fhxOB3BW3uC1q1usAoDC1Hha1vNOxUih/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1fhxOB3BW3uC1q1usAoDC1Hha1vNOxUih"
@@ -3802,6 +3813,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "10-06-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_10-06-2025_21-29-35.mp4",
+                "url": "https://drive.google.com/file/d/15W1G3wHwwc2WLv5doosz0krnYTcaVNes/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=15W1G3wHwwc2WLv5doosz0krnYTcaVNes"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_10-06-2025_19-10-26.mp4",

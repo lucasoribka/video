@@ -461,7 +461,13 @@
         },
         "QUADRA 1": {
           "13-06-2025": {
-            "20h": [],
+            "20h": [
+              {
+                "nome": "QUADRA_13-06-2025_20-01-25.mp4",
+                "url": "https://drive.google.com/file/d/1tnJkR8ULMHw3zYnCrSj3taBiiJP-ljeD/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1tnJkR8ULMHw3zYnCrSj3taBiiJP-ljeD"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_13-06-2025_19-38-03.mp4",
@@ -692,6 +698,13 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "13-06-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_13-06-2025_20-04-11.mp4",
+                "url": "https://drive.google.com/file/d/1JidlJ5XtuoUyvN-cyFvHwsdqzztGa3Ao/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1JidlJ5XtuoUyvN-cyFvHwsdqzztGa3Ao"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_13-06-2025_19-56-15.mp4",
@@ -3817,6 +3830,13 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "13-06-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_13-06-2025_20-02-09.mp4",
+                "url": "https://drive.google.com/file/d/123cGRNwFi26ST7fEdde5oFV8qixWbAgX/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=123cGRNwFi26ST7fEdde5oFV8qixWbAgX"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_13-06-2025_19-26-41.mp4",

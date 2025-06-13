@@ -463,6 +463,11 @@
           "13-06-2025": {
             "20h": [
               {
+                "nome": "QUADRA_13-06-2025_20-07-25.mp4",
+                "url": "https://drive.google.com/file/d/1m_waRJ8e6XD5n0zx9gl1PnQ-M9z26Urm/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1m_waRJ8e6XD5n0zx9gl1PnQ-M9z26Urm"
+              },
+              {
                 "nome": "QUADRA_13-06-2025_20-01-25.mp4",
                 "url": "https://drive.google.com/file/d/1tnJkR8ULMHw3zYnCrSj3taBiiJP-ljeD/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1tnJkR8ULMHw3zYnCrSj3taBiiJP-ljeD"
@@ -1406,6 +1411,18 @@
         },
         "TRAVE 2": {
           "13-06-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_13-06-2025_20-12-29.mp4",
+                "url": "https://drive.google.com/file/d/1JTvIhc-4yfNV8G5GOk5YBLmc24BOV1PB/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1JTvIhc-4yfNV8G5GOk5YBLmc24BOV1PB"
+              },
+              {
+                "nome": "QUADRA_13-06-2025_20-11-06.mp4",
+                "url": "https://drive.google.com/file/d/18iuFZ0oLguPMtZ-xVwEEudhRKI4I9I3y/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=18iuFZ0oLguPMtZ-xVwEEudhRKI4I9I3y"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_13-06-2025_19-30-54.mp4",
@@ -2809,6 +2826,13 @@
       "RAVENNA": {
         "QUADRA": {
           "13-06-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_13-06-2025_20-09-31.mp4",
+                "url": "https://drive.google.com/file/d/1Bqg4095yH8Br-7ewOYsLXneXzweKP1me/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Bqg4095yH8Br-7ewOYsLXneXzweKP1me"
+              }
+            ],
             "17h": [
               {
                 "nome": "QUADRA_13-06-2025_17-11-02.mp4",
@@ -3831,6 +3855,11 @@
         "QUADRA": {
           "13-06-2025": {
             "20h": [
+              {
+                "nome": "QUADRA_13-06-2025_20-10-26.mp4",
+                "url": "https://drive.google.com/file/d/1koA8j_EyKXNY22uC5jY00DPpY_BoeYXn/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1koA8j_EyKXNY22uC5jY00DPpY_BoeYXn"
+              },
               {
                 "nome": "QUADRA_13-06-2025_20-02-09.mp4",
                 "url": "https://drive.google.com/file/d/123cGRNwFi26ST7fEdde5oFV8qixWbAgX/preview",

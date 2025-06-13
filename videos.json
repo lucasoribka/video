@@ -686,6 +686,11 @@
           "13-06-2025": {
             "19h": [
               {
+                "nome": "QUADRA_13-06-2025_19-27-11.mp4",
+                "url": "https://drive.google.com/file/d/1QzqsjdjCd2WjK5Wp2ophkKZlDVjZqPli/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1QzqsjdjCd2WjK5Wp2ophkKZlDVjZqPli"
+              },
+              {
                 "nome": "QUADRA_13-06-2025_19-14-52.mp4",
                 "url": "https://drive.google.com/file/d/1myggW7gfthoCg5ilSF_bG9xkOvYeT-l8/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1myggW7gfthoCg5ilSF_bG9xkOvYeT-l8"
@@ -3786,6 +3791,16 @@
           "13-06-2025": {
             "19h": [
               {
+                "nome": "QUADRA_13-06-2025_19-26-41.mp4",
+                "url": "https://drive.google.com/file/d/1bEYlK8Tec1i0AwpYkKWBrersP-Xmsbns/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1bEYlK8Tec1i0AwpYkKWBrersP-Xmsbns"
+              },
+              {
+                "nome": "QUADRA_13-06-2025_19-24-14.mp4",
+                "url": "https://drive.google.com/file/d/19gZamNcGTbznz3OMmKou6wKuZgk2o1Ye/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=19gZamNcGTbznz3OMmKou6wKuZgk2o1Ye"
+              },
+              {
                 "nome": "QUADRA_13-06-2025_19-19-08.mp4",
                 "url": "https://drive.google.com/file/d/1j0iPgZqmwmfnSMfKbnlOetsobrHsSQ13/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1j0iPgZqmwmfnSMfKbnlOetsobrHsSQ13"
@@ -4919,6 +4934,20 @@
       },
       "CENTRAL ARENA": {
         "QUADRA": {
+          "13-06-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_13-06-2025_19-26-29.mp4",
+                "url": "https://drive.google.com/file/d/1SOsQdV0wxT4Fu-mRY_xuw0w58489zp5a/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1SOsQdV0wxT4Fu-mRY_xuw0w58489zp5a"
+              },
+              {
+                "nome": "QUADRA_13-06-2025_19-25-09.mp4",
+                "url": "https://drive.google.com/file/d/1msK6HDCh5q8Qujvzu3-GyM279jFjt_MA/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1msK6HDCh5q8Qujvzu3-GyM279jFjt_MA"
+              }
+            ]
+          },
           "12-06-2025": {
             "07h": [
               {

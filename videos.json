@@ -1197,6 +1197,21 @@
           "15-06-2025": {
             "16h": [
               {
+                "nome": "QUADRA_15-06-2025_16-12-46.mp4",
+                "url": "https://drive.google.com/file/d/19_nP_lXNwDvLAjty4y9mfJUeND7dsWL5/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=19_nP_lXNwDvLAjty4y9mfJUeND7dsWL5"
+              },
+              {
+                "nome": "QUADRA_15-06-2025_16-12-27.mp4",
+                "url": "https://drive.google.com/file/d/18kq1SB1ygiWSxgAi3sPt0PExkhfy52VK/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=18kq1SB1ygiWSxgAi3sPt0PExkhfy52VK"
+              },
+              {
+                "nome": "QUADRA_15-06-2025_16-11-58.mp4",
+                "url": "https://drive.google.com/file/d/1eocxivo1yxzdv_jqfbN27G-yjKyT509l/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1eocxivo1yxzdv_jqfbN27G-yjKyT509l"
+              },
+              {
                 "nome": "QUADRA_15-06-2025_16-00-58.mp4",
                 "url": "https://drive.google.com/file/d/1CbC0iJguqjeDlpyGa73nto2xkTFpwwCb/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1CbC0iJguqjeDlpyGa73nto2xkTFpwwCb"
@@ -1496,7 +1511,13 @@
       "STALL BEACH - BOM JESUS": {
         "QUADRA 5": {
           "15-06-2025": {
-            "16h": [],
+            "16h": [
+              {
+                "nome": "QUADRA_15-06-2025_16-09-26.mp4",
+                "url": "https://drive.google.com/file/d/1v3DL-Zmljw15o_vxoc5Yd4bnWLYyTZs_/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1v3DL-Zmljw15o_vxoc5Yd4bnWLYyTZs_"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_15-06-2025_15-47-05.mp4",

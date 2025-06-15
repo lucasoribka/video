@@ -2956,7 +2956,13 @@
       "PAIOL": {
         "TRAVE 2": {
           "15-06-2025": {
-            "12h": []
+            "12h": [
+              {
+                "nome": "QUADRA_15-06-2025_12-02-06.mp4",
+                "url": "https://drive.google.com/file/d/1JnIHSFMkbdKVfAppZVVhoBQzUmrVAG8j/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1JnIHSFMkbdKVfAppZVVhoBQzUmrVAG8j"
+              }
+            ]
           },
           "14-06-2025": {
             "17h": [

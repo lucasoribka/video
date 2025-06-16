@@ -341,6 +341,13 @@
         },
         "QUADRA 1": {
           "16-06-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_16-06-2025_19-06-19.mp4",
+                "url": "https://drive.google.com/file/d/1s0JJYaPdkY6zGR7qcwMAbqfbF_YQ9xJq/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1s0JJYaPdkY6zGR7qcwMAbqfbF_YQ9xJq"
+              }
+            ],
             "17h": [
               {
                 "nome": "QUADRA_16-06-2025_17-03-16.mp4",
@@ -449,6 +456,21 @@
         "TRAVE 1": {
           "16-06-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_16-06-2025_19-08-39.mp4",
+                "url": "https://drive.google.com/file/d/11cJ3ezeHo7n1ZsvxMVfznQhkwJxMxW2b/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=11cJ3ezeHo7n1ZsvxMVfznQhkwJxMxW2b"
+              },
+              {
+                "nome": "QUADRA_16-06-2025_19-06-36.mp4",
+                "url": "https://drive.google.com/file/d/18C4GAvA2i1zC41rHnpZC-6p8eU7w4_l3/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=18C4GAvA2i1zC41rHnpZC-6p8eU7w4_l3"
+              },
+              {
+                "nome": "QUADRA_16-06-2025_19-02-46.mp4",
+                "url": "https://drive.google.com/file/d/1nFbPE_Aha2UPwIFuWM2I8ONZzvfzlzIv/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1nFbPE_Aha2UPwIFuWM2I8ONZzvfzlzIv"
+              },
               {
                 "nome": "QUADRA_16-06-2025_19-01-21.mp4",
                 "url": "https://drive.google.com/file/d/1dHP13VT5WqS4m55ahvflaCLm5jNcSXOe/preview",
@@ -742,7 +764,15 @@
           }
         },
         "AREIA 3": {
-          "16-06-2025": {},
+          "16-06-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_16-06-2025_19-05-16.mp4",
+                "url": "https://drive.google.com/file/d/1OIrwyb6RogyklkBn9KzJBNls6WLzmX68/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1OIrwyb6RogyklkBn9KzJBNls6WLzmX68"
+              }
+            ]
+          },
           "14-06-2025": {
             "17h": [
               {

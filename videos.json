@@ -553,6 +553,18 @@
         },
         "TRAVE 2": {
           "16-06-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_16-06-2025_18-32-42.mp4",
+                "url": "https://drive.google.com/file/d/1fv0QpGWPm03n-hRgFGV8RMcdzHBMh1ap/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1fv0QpGWPm03n-hRgFGV8RMcdzHBMh1ap"
+              },
+              {
+                "nome": "QUADRA_16-06-2025_18-31-32.mp4",
+                "url": "https://drive.google.com/file/d/1JO2j70wsDtimk2-3SvVBlGCqf2iF1PFn/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1JO2j70wsDtimk2-3SvVBlGCqf2iF1PFn"
+              }
+            ],
             "16h": [
               {
                 "nome": "QUADRA_16-06-2025_16-44-50.mp4",
@@ -1076,6 +1088,21 @@
         "QUADRA": {
           "16-06-2025": {
             "18h": [
+              {
+                "nome": "QUADRA_16-06-2025_18-30-24.mp4",
+                "url": "https://drive.google.com/file/d/1urT5ml6t7gwzfKveYxlEyzTayfA3L7L4/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1urT5ml6t7gwzfKveYxlEyzTayfA3L7L4"
+              },
+              {
+                "nome": "QUADRA_16-06-2025_18-29-35.mp4",
+                "url": "https://drive.google.com/file/d/1hesWb37wXo3qEq8zvJoIyJm_9TeX5DGs/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1hesWb37wXo3qEq8zvJoIyJm_9TeX5DGs"
+              },
+              {
+                "nome": "QUADRA_16-06-2025_18-28-34.mp4",
+                "url": "https://drive.google.com/file/d/1CIrhDzlXmZ4j2sKFl-0yIOZZ4CriRoKd/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1CIrhDzlXmZ4j2sKFl-0yIOZZ4CriRoKd"
+              },
               {
                 "nome": "QUADRA_16-06-2025_18-20-19.mp4",
                 "url": "https://drive.google.com/file/d/1_NHV4LR3MCmtp2GeyLRmV1rFt5G9SmDA/preview",

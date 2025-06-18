@@ -627,7 +627,18 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "17-06-2025": {
-            "23h": [],
+            "23h": [
+              {
+                "nome": "QUADRA_17-06-2025_23-10-01.mp4",
+                "url": "https://drive.google.com/file/d/1fdTqZHIYVO7zHLGxhO4BY_LMVyHFhkhE/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1fdTqZHIYVO7zHLGxhO4BY_LMVyHFhkhE"
+              },
+              {
+                "nome": "QUADRA_17-06-2025_23-05-57.mp4",
+                "url": "https://drive.google.com/file/d/1BLzTX4z-4DrmuL9MurzHAQIqQDQ8i55G/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1BLzTX4z-4DrmuL9MurzHAQIqQDQ8i55G"
+              }
+            ],
             "22h": [
               {
                 "nome": "QUADRA_17-06-2025_22-48-10.mp4",
@@ -915,6 +926,18 @@
         },
         "TRAVE 2": {
           "17-06-2025": {
+            "23h": [
+              {
+                "nome": "QUADRA_17-06-2025_23-11-04.mp4",
+                "url": "https://drive.google.com/file/d/1rYiF6LVprn34CDqyBRtr9tbAwXFUlRc1/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1rYiF6LVprn34CDqyBRtr9tbAwXFUlRc1"
+              },
+              {
+                "nome": "QUADRA_17-06-2025_23-10-04.mp4",
+                "url": "https://drive.google.com/file/d/1SuTnN16Fv5ixGXrD1uujWPkWmafqCUB7/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1SuTnN16Fv5ixGXrD1uujWPkWmafqCUB7"
+              }
+            ],
             "22h": [
               {
                 "nome": "QUADRA_17-06-2025_22-59-34.mp4",

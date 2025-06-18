@@ -3415,7 +3415,13 @@
         },
         "TRAVE 1": {
           "17-06-2025": {
-            "20h": []
+            "20h": [
+              {
+                "nome": "QUADRA_17-06-2025_20-59-52.mp4",
+                "url": "https://drive.google.com/file/d/1ABCRLt5ikwpPNspTbL5hI66YlaQ93oJB/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ABCRLt5ikwpPNspTbL5hI66YlaQ93oJB"
+              }
+            ]
           },
           "16-06-2025": {
             "22h": [

@@ -242,6 +242,11 @@
           "19-06-2025": {
             "14h": [
               {
+                "nome": "QUADRA_19-06-2025_14-46-15.mp4",
+                "url": "https://drive.google.com/file/d/1pgeLMnseHVuWpUItLTNbAxyfWOhPG5aL/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1pgeLMnseHVuWpUItLTNbAxyfWOhPG5aL"
+              },
+              {
                 "nome": "QUADRA_19-06-2025_14-44-46.mp4",
                 "url": "https://drive.google.com/file/d/1P92F8vxfo56v5bBrJl2mFBFKx8LGj0d2/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1P92F8vxfo56v5bBrJl2mFBFKx8LGj0d2"
@@ -5228,7 +5233,13 @@
       "ESCOLA TENNIS ZSPORTS": {
         "TENNIS": {
           "19-06-2025": {
-            "14h": [],
+            "14h": [
+              {
+                "nome": "QUADRA_19-06-2025_14-47-42.mp4",
+                "url": "https://drive.google.com/file/d/1qvJaDpv3x5rx2l1X3I0ql01TogZiWvNu/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1qvJaDpv3x5rx2l1X3I0ql01TogZiWvNu"
+              }
+            ],
             "07h": [
               {
                 "nome": "QUADRA_19-06-2025_07-50-54.mp4",

@@ -5556,7 +5556,13 @@
       "ESCOLA TENNIS ZSPORTS": {
         "TENNIS": {
           "19-06-2025": {
-            "18h": [],
+            "18h": [
+              {
+                "nome": "QUADRA_19-06-2025_18-35-33.mp4",
+                "url": "https://drive.google.com/file/d/1sRIhqqpJi_6vgtt-J_4C5f62emp8mTLj/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1sRIhqqpJi_6vgtt-J_4C5f62emp8mTLj"
+              }
+            ],
             "17h": [
               {
                 "nome": "QUADRA_19-06-2025_17-48-45.mp4",

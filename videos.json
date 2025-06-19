@@ -10,6 +10,7 @@
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
           "19-06-2025": {
+            "15h": [],
             "12h": [
               {
                 "nome": "QUADRA_19-06-2025_12-10-17.mp4",
@@ -2391,6 +2392,11 @@
         "AREIA 1": {
           "19-06-2025": {
             "15h": [
+              {
+                "nome": "QUADRA_19-06-2025_15-33-44.mp4",
+                "url": "https://drive.google.com/file/d/1O3pRjgbOLuq_YFZVKld6d1m4mjBoNiVj/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1O3pRjgbOLuq_YFZVKld6d1m4mjBoNiVj"
+              },
               {
                 "nome": "QUADRA_19-06-2025_15-18-14.mp4",
                 "url": "https://drive.google.com/file/d/1SrSvW4pk4lItG9LlERgUZTGetTKM4I1T/preview",

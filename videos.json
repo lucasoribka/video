@@ -2418,6 +2418,11 @@
           "19-06-2025": {
             "15h": [
               {
+                "nome": "QUADRA_19-06-2025_15-57-23.mp4",
+                "url": "https://drive.google.com/file/d/1q692s8A_787ic8q4smpsB38ugqrxUote/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1q692s8A_787ic8q4smpsB38ugqrxUote"
+              },
+              {
                 "nome": "QUADRA_19-06-2025_15-53-52.mp4",
                 "url": "https://drive.google.com/file/d/12wGFE2LnvWywgpexoVO1qd_6HVxYXC52/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=12wGFE2LnvWywgpexoVO1qd_6HVxYXC52"
@@ -3073,6 +3078,16 @@
         "QUADRA": {
           "19-06-2025": {
             "15h": [
+              {
+                "nome": "QUADRA_19-06-2025_15-58-43.mp4",
+                "url": "https://drive.google.com/file/d/19og5MplyuV0PrTfYf1WpZT9oEEJXeu1n/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=19og5MplyuV0PrTfYf1WpZT9oEEJXeu1n"
+              },
+              {
+                "nome": "QUADRA_19-06-2025_15-58-05.mp4",
+                "url": "https://drive.google.com/file/d/13gfXdTUORVVfELowX0EWf1MIBuJlh-YV/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=13gfXdTUORVVfELowX0EWf1MIBuJlh-YV"
+              },
               {
                 "nome": "QUADRA_19-06-2025_15-10-05.mp4",
                 "url": "https://drive.google.com/file/d/1aD7RZo1tY-7va66VLIp9o_qO2ZSuIqGJ/preview",
@@ -5654,6 +5669,15 @@
           }
         },
         "TRAVE 1": {
+          "19-06-2025": {
+            "16h": [
+              {
+                "nome": "QUADRA_19-06-2025_16-02-51.mp4",
+                "url": "https://drive.google.com/file/d/1qZqQfPXGO5VgD1nZqWPh4-oy91xJyh7r/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1qZqQfPXGO5VgD1nZqWPh4-oy91xJyh7r"
+              }
+            ]
+          },
           "18-06-2025": {
             "21h": [
               {

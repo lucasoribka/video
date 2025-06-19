@@ -4444,7 +4444,13 @@
         },
         "QUADRA 4": {
           "19-06-2025": {
-            "13h": [],
+            "13h": [
+              {
+                "nome": "QUADRA_19-06-2025_13-11-54.mp4",
+                "url": "https://drive.google.com/file/d/1DOo2kCrq7oikHG6CAg5egiloXiF7uTmc/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1DOo2kCrq7oikHG6CAg5egiloXiF7uTmc"
+              }
+            ],
             "12h": [
               {
                 "nome": "QUADRA_19-06-2025_12-54-12.mp4",

@@ -1237,6 +1237,11 @@
           "18-06-2025": {
             "21h": [
               {
+                "nome": "QUADRA_18-06-2025_21-17-17.mp4",
+                "url": "https://drive.google.com/file/d/15GLsASA2F4pmgoRzI8TnHTv1p3S788r9/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=15GLsASA2F4pmgoRzI8TnHTv1p3S788r9"
+              },
+              {
                 "nome": "QUADRA_18-06-2025_21-09-31.mp4",
                 "url": "https://drive.google.com/file/d/1kTsMxLwDHYx1f0TAdzW6lKRZDElEe3Wp/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1kTsMxLwDHYx1f0TAdzW6lKRZDElEe3Wp"
@@ -2230,6 +2235,13 @@
         },
         "AREIA 1": {
           "18-06-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_18-06-2025_21-18-13.mp4",
+                "url": "https://drive.google.com/file/d/1WLQBzuN5A22D5lgUBDWoRC3LWMHORd2w/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1WLQBzuN5A22D5lgUBDWoRC3LWMHORd2w"
+              }
+            ],
             "20h": [
               {
                 "nome": "QUADRA_18-06-2025_20-38-46.mp4",
@@ -2462,6 +2474,16 @@
         "QUADRA": {
           "18-06-2025": {
             "21h": [
+              {
+                "nome": "QUADRA_18-06-2025_21-19-34.mp4",
+                "url": "https://drive.google.com/file/d/1E1fVbNuiXKJsvCOQlonU21WnIHpuoMId/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1E1fVbNuiXKJsvCOQlonU21WnIHpuoMId"
+              },
+              {
+                "nome": "QUADRA_18-06-2025_21-17-43.mp4",
+                "url": "https://drive.google.com/file/d/1kLh2SpLMV63UxtvsYy0CTgppARjFn9Ns/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1kLh2SpLMV63UxtvsYy0CTgppARjFn9Ns"
+              },
               {
                 "nome": "QUADRA_18-06-2025_21-13-20.mp4",
                 "url": "https://drive.google.com/file/d/1W6dxe6kThMAHIqa-PUZzzw9q8Xo_W9XV/preview",
@@ -3497,6 +3519,15 @@
     "RIO NEGRO-PR": {
       "STALL BEACH - BOM JESUS": {
         "QUADRA 5": {
+          "18-06-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_18-06-2025_21-18-06.mp4",
+                "url": "https://drive.google.com/file/d/1cHIzpqmXCeaVZ-Px9ILxDpl193mw2kEH/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1cHIzpqmXCeaVZ-Px9ILxDpl193mw2kEH"
+              }
+            ]
+          },
           "16-06-2025": {
             "21h": [
               {

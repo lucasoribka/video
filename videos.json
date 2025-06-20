@@ -142,6 +142,20 @@
           }
         },
         "QUADRA 3": {
+          "20-06-2025": {
+            "09h": [
+              {
+                "nome": "QUADRA_20-06-2025_09-37-11.mp4",
+                "url": "https://drive.google.com/file/d/1ew8AvMdZm5XES1d9Y3DgOeLIG3ZhDzdH/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ew8AvMdZm5XES1d9Y3DgOeLIG3ZhDzdH"
+              },
+              {
+                "nome": "QUADRA_20-06-2025_09-36-35.mp4",
+                "url": "https://drive.google.com/file/d/1vahSZeEcOy649UVqmE4pnaNsIVlrzQEP/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1vahSZeEcOy649UVqmE4pnaNsIVlrzQEP"
+              }
+            ]
+          },
           "19-06-2025": {
             "20h": [
               {

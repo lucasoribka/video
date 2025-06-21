@@ -1019,6 +1019,11 @@
           "21-06-2025": {
             "16h": [
               {
+                "nome": "QUADRA_21-06-2025_16-32-30.mp4",
+                "url": "https://drive.google.com/file/d/1zWFqH5gfzHMdVeQcSS4HV1V21rXKDSo8/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1zWFqH5gfzHMdVeQcSS4HV1V21rXKDSo8"
+              },
+              {
                 "nome": "QUADRA_21-06-2025_16-28-58.mp4",
                 "url": "https://drive.google.com/file/d/140Z71jKHfcbA7eABl1aUg17FjdGINXpH/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=140Z71jKHfcbA7eABl1aUg17FjdGINXpH"
@@ -3242,6 +3247,15 @@
       },
       "ARENA MAIDL": {
         "QUADRA": {
+          "21-06-2025": {
+            "16h": [
+              {
+                "nome": "QUADRA_21-06-2025_16-36-30.mp4",
+                "url": "https://drive.google.com/file/d/1KjLH4d53BpT0v3Jhj0wIJ2Wy7fiPb9xu/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1KjLH4d53BpT0v3Jhj0wIJ2Wy7fiPb9xu"
+              }
+            ]
+          },
           "20-06-2025": {
             "21h": [
               {

@@ -577,6 +577,11 @@
           "24-06-2025": {
             "16h": [
               {
+                "nome": "QUADRA_24-06-2025_16-09-41.mp4",
+                "url": "https://drive.google.com/file/d/10znJ8_3pZ5jhCtkNmMXtH2ocRZXoMAH2/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=10znJ8_3pZ5jhCtkNmMXtH2ocRZXoMAH2"
+              },
+              {
                 "nome": "QUADRA_24-06-2025_16-05-26.mp4",
                 "url": "https://drive.google.com/file/d/1rm2Okg_LxRM8M92n0_sO2BJGbl_1WNvn/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1rm2Okg_LxRM8M92n0_sO2BJGbl_1WNvn"
@@ -1840,6 +1845,15 @@
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
+          "24-06-2025": {
+            "16h": [
+              {
+                "nome": "QUADRA_24-06-2025_16-10-59.mp4",
+                "url": "https://drive.google.com/file/d/1Xitn60TZH_Ny7bM6rWPzLOF5INvKZkOn/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Xitn60TZH_Ny7bM6rWPzLOF5INvKZkOn"
+              }
+            ]
+          },
           "23-06-2025": {
             "21h": [
               {

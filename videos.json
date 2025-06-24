@@ -286,7 +286,19 @@
         },
         "QUADRA 2": {
           "24-06-2025": {
+            "16h": [
+              {
+                "nome": "QUADRA_24-06-2025_16-00-39.mp4",
+                "url": "https://drive.google.com/file/d/1DeeKu9H_h0a8YECd3QsZZhNtTjW_eck9/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1DeeKu9H_h0a8YECd3QsZZhNtTjW_eck9"
+              }
+            ],
             "15h": [
+              {
+                "nome": "QUADRA_24-06-2025_15-59-28.mp4",
+                "url": "https://drive.google.com/file/d/1isHaTVp0k-qGWBMpr6ObLuLRw6DgaSBG/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1isHaTVp0k-qGWBMpr6ObLuLRw6DgaSBG"
+              },
               {
                 "nome": "QUADRA_24-06-2025_15-35-41.mp4",
                 "url": "https://drive.google.com/file/d/1AeQrLk40j0Gd2wOareNlTnKkzsysG-wz/preview",

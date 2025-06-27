@@ -1425,6 +1425,9 @@
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
+          "27-06-2025": {
+            "18h": []
+          },
           "25-06-2025": {
             "20h": [
               {
@@ -2479,6 +2482,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "27-06-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_27-06-2025_18-07-04.mp4",
+                "url": "https://drive.google.com/file/d/1HxjCEvw8ZkwN-7bVjkzB201xknL6IPtc/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1HxjCEvw8ZkwN-7bVjkzB201xknL6IPtc"
+              }
+            ],
             "09h": [
               {
                 "nome": "QUADRA_27-06-2025_09-03-05.mp4",

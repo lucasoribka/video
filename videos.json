@@ -1767,6 +1767,16 @@
           "28-06-2025": {
             "16h": [
               {
+                "nome": "QUADRA_28-06-2025_16-39-05.mp4",
+                "url": "https://drive.google.com/file/d/1gvViRCLHMySDC-cVdnIb44NgnUFpB2FG/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1gvViRCLHMySDC-cVdnIb44NgnUFpB2FG"
+              },
+              {
+                "nome": "QUADRA_28-06-2025_16-37-31.mp4",
+                "url": "https://drive.google.com/file/d/18nul0Ar_n4sk7Ybebm6fyKwFv0TEfUJ0/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=18nul0Ar_n4sk7Ybebm6fyKwFv0TEfUJ0"
+              },
+              {
                 "nome": "QUADRA_28-06-2025_16-17-43.mp4",
                 "url": "https://drive.google.com/file/d/1eLRuyX2LYN7B8urfDs2Qf3Si3dK0vyfA/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1eLRuyX2LYN7B8urfDs2Qf3Si3dK0vyfA"
@@ -3205,6 +3215,11 @@
           "28-06-2025": {
             "16h": [
               {
+                "nome": "QUADRA_28-06-2025_16-38-19.mp4",
+                "url": "https://drive.google.com/file/d/1NZZgEYCDOkAe7aukTuSoqP_d1kRx9qqi/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1NZZgEYCDOkAe7aukTuSoqP_d1kRx9qqi"
+              },
+              {
                 "nome": "QUADRA_28-06-2025_16-35-02.mp4",
                 "url": "https://drive.google.com/file/d/1VpQzmooBxLdYRI2sUBcPpfyVlaBbwFRE/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1VpQzmooBxLdYRI2sUBcPpfyVlaBbwFRE"
@@ -3330,6 +3345,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "28-06-2025": {
+            "16h": [
+              {
+                "nome": "QUADRA_28-06-2025_16-41-15.mp4",
+                "url": "https://drive.google.com/file/d/1kKxTrUgf43SFXe2fidOLsPbeDuTq29uw/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1kKxTrUgf43SFXe2fidOLsPbeDuTq29uw"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_28-06-2025_15-55-27.mp4",

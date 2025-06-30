@@ -328,6 +328,18 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "30-06-2025": {
+            "15h": [
+              {
+                "nome": "QUADRA_30-06-2025_15-40-52.mp4",
+                "url": "https://drive.google.com/file/d/1M9HEfAM_4uOQVMy8bf3Gto63G3veJILE/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1M9HEfAM_4uOQVMy8bf3Gto63G3veJILE"
+              },
+              {
+                "nome": "QUADRA_30-06-2025_15-39-58.mp4",
+                "url": "https://drive.google.com/file/d/1N8JoOqjrTpPKY1IVGENypJmiSEnPipV5/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1N8JoOqjrTpPKY1IVGENypJmiSEnPipV5"
+              }
+            ],
             "14h": [
               {
                 "nome": "QUADRA_30-06-2025_14-45-56.mp4",
@@ -582,6 +594,11 @@
         "TRAVE 2": {
           "30-06-2025": {
             "15h": [
+              {
+                "nome": "QUADRA_30-06-2025_15-38-06.mp4",
+                "url": "https://drive.google.com/file/d/1wMFm9A6ZBbs0eWSurwgQxQBdKwUCmnDB/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1wMFm9A6ZBbs0eWSurwgQxQBdKwUCmnDB"
+              },
               {
                 "nome": "QUADRA_30-06-2025_15-01-27.mp4",
                 "url": "https://drive.google.com/file/d/1OiVsbUE59EgA1BBNTGSiH8nR879RVE_t/preview",
@@ -1488,6 +1505,15 @@
     "RIO NEGRO-PR": {
       "STALL BEACH - BOM JESUS": {
         "QUADRA 5": {
+          "30-06-2025": {
+            "15h": [
+              {
+                "nome": "QUADRA_30-06-2025_15-41-03.mp4",
+                "url": "https://drive.google.com/file/d/13eFTlDkhlEvPvB0LmsmV1Ql-DTQl_nNA/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=13eFTlDkhlEvPvB0LmsmV1Ql-DTQl_nNA"
+              }
+            ]
+          },
           "27-06-2025": {
             "20h": [
               {

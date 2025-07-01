@@ -408,6 +408,11 @@
           "30-06-2025": {
             "21h": [
               {
+                "nome": "QUADRA_30-06-2025_21-34-19.mp4",
+                "url": "https://drive.google.com/file/d/1dpOY2Kyf8u65hqDUf1LXb5xt5yn44isY/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1dpOY2Kyf8u65hqDUf1LXb5xt5yn44isY"
+              },
+              {
                 "nome": "QUADRA_30-06-2025_21-23-57.mp4",
                 "url": "https://drive.google.com/file/d/1RTmb3kUWEnx3kK3p-m82sQQTqJgrPQ8u/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1RTmb3kUWEnx3kK3p-m82sQQTqJgrPQ8u"
@@ -761,7 +766,13 @@
         },
         "TRAVE 2": {
           "30-06-2025": {
-            "21h": [],
+            "21h": [
+              {
+                "nome": "QUADRA_30-06-2025_21-32-38.mp4",
+                "url": "https://drive.google.com/file/d/183ZQ__je6jWQB1JPv87LoFlBK7dbYdAv/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=183ZQ__je6jWQB1JPv87LoFlBK7dbYdAv"
+              }
+            ],
             "20h": [
               {
                 "nome": "QUADRA_30-06-2025_20-47-57.mp4",
@@ -1228,6 +1239,11 @@
         "AREIA 3": {
           "30-06-2025": {
             "21h": [
+              {
+                "nome": "QUADRA_30-06-2025_21-33-13.mp4",
+                "url": "https://drive.google.com/file/d/1FC1q61sSotwYfrJsGuO3k3woy8uE3fsR/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1FC1q61sSotwYfrJsGuO3k3woy8uE3fsR"
+              },
               {
                 "nome": "QUADRA_30-06-2025_21-23-39.mp4",
                 "url": "https://drive.google.com/file/d/14Rt245mnZ5dPhzQ0NkURrDrfOuO12-Ms/preview",
@@ -1939,6 +1955,13 @@
       "STALL BEACH - BOM JESUS": {
         "QUADRA 5": {
           "30-06-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_30-06-2025_21-36-01.mp4",
+                "url": "https://drive.google.com/file/d/1uY8_02XmRAQGTG--5t2iju_Tq641SBMp/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1uY8_02XmRAQGTG--5t2iju_Tq641SBMp"
+              }
+            ],
             "20h": [
               {
                 "nome": "QUADRA_30-06-2025_20-51-33.mp4",

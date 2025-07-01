@@ -818,7 +818,13 @@
         },
         "TRAVE 2": {
           "01-07-2025": {
-            "20h": [],
+            "20h": [
+              {
+                "nome": "QUADRA_01-07-2025_20-11-29.mp4",
+                "url": "https://drive.google.com/file/d/1OFCcM1gAias5f3O83scFB-HlLhMLoQOa/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1OFCcM1gAias5f3O83scFB-HlLhMLoQOa"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_01-07-2025_19-34-03.mp4",
@@ -2540,6 +2546,26 @@
         "QUADRA": {
           "01-07-2025": {
             "20h": [
+              {
+                "nome": "QUADRA_01-07-2025_20-39-57.mp4",
+                "url": "https://drive.google.com/file/d/1AtbALunmH7VwHHqIuO_KPoAZxViuLA8q/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1AtbALunmH7VwHHqIuO_KPoAZxViuLA8q"
+              },
+              {
+                "nome": "QUADRA_01-07-2025_20-39-16.mp4",
+                "url": "https://drive.google.com/file/d/1NFobrZVBnEyeeKFj3qWFG94-Vn8DqaZR/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1NFobrZVBnEyeeKFj3qWFG94-Vn8DqaZR"
+              },
+              {
+                "nome": "QUADRA_01-07-2025_20-38-27.mp4",
+                "url": "https://drive.google.com/file/d/1nuUjC37EQ3HY_0FfSYyT8-L_Y7JhUDsf/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1nuUjC37EQ3HY_0FfSYyT8-L_Y7JhUDsf"
+              },
+              {
+                "nome": "QUADRA_01-07-2025_20-35-44.mp4",
+                "url": "https://drive.google.com/file/d/1a6tcNzPH5UOWmVYhticXgZJPuOzfipJI/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1a6tcNzPH5UOWmVYhticXgZJPuOzfipJI"
+              },
               {
                 "nome": "QUADRA_01-07-2025_20-21-46.mp4",
                 "url": "https://drive.google.com/file/d/1atJo7ujNOxilQ7mL1yxTLg0MZV-0SdTS/preview",

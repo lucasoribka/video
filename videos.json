@@ -1642,7 +1642,13 @@
         },
         "AREIA 3": {
           "02-07-2025": {
-            "10h": [],
+            "10h": [
+              {
+                "nome": "QUADRA_02-07-2025_10-03-36.mp4",
+                "url": "https://drive.google.com/file/d/1YzDaLJAOsHw9PQSkWg_dRDwhQKb0XDMn/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1YzDaLJAOsHw9PQSkWg_dRDwhQKb0XDMn"
+              }
+            ],
             "09h": [
               {
                 "nome": "QUADRA_02-07-2025_09-21-01.mp4",

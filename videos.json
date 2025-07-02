@@ -1853,6 +1853,11 @@
           "02-07-2025": {
             "19h": [
               {
+                "nome": "QUADRA_02-07-2025_19-32-21.mp4",
+                "url": "https://drive.google.com/file/d/1_x9Wvc_Uub0UvZBJNsa9CXqxCRt-GyIH/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1_x9Wvc_Uub0UvZBJNsa9CXqxCRt-GyIH"
+              },
+              {
                 "nome": "QUADRA_02-07-2025_19-16-21.mp4",
                 "url": "https://drive.google.com/file/d/1-cK56TeFDT4Z57hTxQEAN9VgYsObUW8j/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1-cK56TeFDT4Z57hTxQEAN9VgYsObUW8j"
@@ -2286,6 +2291,13 @@
         },
         "AREIA 1": {
           "02-07-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_02-07-2025_19-29-47.mp4",
+                "url": "https://drive.google.com/file/d/1MpIL7RDlOwfI40otXu-_2DKskK1uH8AR/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1MpIL7RDlOwfI40otXu-_2DKskK1uH8AR"
+              }
+            ],
             "17h": [
               {
                 "nome": "QUADRA_02-07-2025_17-39-31.mp4",
@@ -3255,6 +3267,9 @@
       },
       "ARENA MAIDL": {
         "QUADRA": {
+          "02-07-2025": {
+            "19h": []
+          },
           "01-07-2025": {
             "21h": [
               {
@@ -3681,6 +3696,11 @@
           "02-07-2025": {
             "19h": [
               {
+                "nome": "QUADRA_02-07-2025_19-31-49.mp4",
+                "url": "https://drive.google.com/file/d/13d9xLa_aVskD3fbZcoabrOZsUEDi2yTh/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=13d9xLa_aVskD3fbZcoabrOZsUEDi2yTh"
+              },
+              {
                 "nome": "QUADRA_02-07-2025_19-26-42.mp4",
                 "url": "https://drive.google.com/file/d/1PO8jzqJZ4CfIadtbE2vvHUpugw5PWoXC/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1PO8jzqJZ4CfIadtbE2vvHUpugw5PWoXC"
@@ -3814,6 +3834,11 @@
         "TRAVE 1": {
           "02-07-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_02-07-2025_19-32-50.mp4",
+                "url": "https://drive.google.com/file/d/1vkMLT5uTUV4_4RusMZE_yYlsopSpbwrv/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1vkMLT5uTUV4_4RusMZE_yYlsopSpbwrv"
+              },
               {
                 "nome": "QUADRA_02-07-2025_19-25-18.mp4",
                 "url": "https://drive.google.com/file/d/1OnzHWx2tf2TzhLMmOzFyyx7UXnOWIr3w/preview",

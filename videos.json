@@ -9,6 +9,20 @@
     "MAFRA-SC": {
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
+          "02-07-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_02-07-2025_19-05-35.mp4",
+                "url": "https://drive.google.com/file/d/1jwMPBiB_AwvPSnDhvypQ3Pi2mUG1xE8_/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1jwMPBiB_AwvPSnDhvypQ3Pi2mUG1xE8_"
+              },
+              {
+                "nome": "QUADRA_02-07-2025_19-04-06.mp4",
+                "url": "https://drive.google.com/file/d/1gphVUUQ6OwyjSejv1EWS4QAS9G-AOuTL/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1gphVUUQ6OwyjSejv1EWS4QAS9G-AOuTL"
+              }
+            ]
+          },
           "01-07-2025": {
             "20h": [
               {
@@ -2438,6 +2452,13 @@
       "RAVENNA": {
         "QUADRA": {
           "02-07-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_02-07-2025_19-02-59.mp4",
+                "url": "https://drive.google.com/file/d/1X32B3bJBSIg0zf26NArUddiHDmq9GU11/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1X32B3bJBSIg0zf26NArUddiHDmq9GU11"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_02-07-2025_18-41-15.mp4",

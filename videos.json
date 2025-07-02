@@ -3008,7 +3008,13 @@
         },
         "QUADRA 4": {
           "02-07-2025": {
-            "18h": [],
+            "18h": [
+              {
+                "nome": "QUADRA_02-07-2025_18-10-15.mp4",
+                "url": "https://drive.google.com/file/d/16c8Bz6I2GK87YYPmn3kT4egEwsi2PxPi/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16c8Bz6I2GK87YYPmn3kT4egEwsi2PxPi"
+              }
+            ],
             "17h": [
               {
                 "nome": "QUADRA_02-07-2025_17-57-46.mp4",

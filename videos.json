@@ -1335,6 +1335,13 @@
         },
         "TRAVE 2": {
           "03-07-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_03-07-2025_20-00-44.mp4",
+                "url": "https://drive.google.com/file/d/1uGu2K4WvHc-b_loUB219gheo8sDEQfAt/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1uGu2K4WvHc-b_loUB219gheo8sDEQfAt"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_03-07-2025_19-49-22.mp4",
@@ -2207,7 +2214,29 @@
         },
         "AREIA 3": {
           "03-07-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_03-07-2025_20-05-02.mp4",
+                "url": "https://drive.google.com/file/d/10Evw-_7AQy52WNX2xH_Bt8ODbQCl9C69/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=10Evw-_7AQy52WNX2xH_Bt8ODbQCl9C69"
+              },
+              {
+                "nome": "QUADRA_03-07-2025_20-03-53.mp4",
+                "url": "https://drive.google.com/file/d/1pokcHbKM1rpI4M-f2naejCdd6_y5EIVA/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1pokcHbKM1rpI4M-f2naejCdd6_y5EIVA"
+              },
+              {
+                "nome": "QUADRA_03-07-2025_20-01-04.mp4",
+                "url": "https://drive.google.com/file/d/1GvmWXPVZGRjZAiav_3okxrFYbu_ReVQp/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1GvmWXPVZGRjZAiav_3okxrFYbu_ReVQp"
+              }
+            ],
             "19h": [
+              {
+                "nome": "QUADRA_03-07-2025_19-59-17.mp4",
+                "url": "https://drive.google.com/file/d/1Wp2CtZdmLxqILq70v8kgKSau0eXhKo4O/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Wp2CtZdmLxqILq70v8kgKSau0eXhKo4O"
+              },
               {
                 "nome": "QUADRA_03-07-2025_19-28-03.mp4",
                 "url": "https://drive.google.com/file/d/1Y6I1iZQdIuQQ8BD3YV3sEbaYWOGp5-xA/preview",
@@ -3474,6 +3503,13 @@
       "STALL BEACH - BOM JESUS": {
         "QUADRA 5": {
           "03-07-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_03-07-2025_20-02-19.mp4",
+                "url": "https://drive.google.com/file/d/1VmPyU4tccpvV3s-JHpMS4SlARUpswmvn/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1VmPyU4tccpvV3s-JHpMS4SlARUpswmvn"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_03-07-2025_19-56-56.mp4",
@@ -4063,6 +4099,13 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "03-07-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_03-07-2025_20-00-43.mp4",
+                "url": "https://drive.google.com/file/d/1VX8KK8mVvZlPg1gPvP-fSZmua17LPhl_/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1VX8KK8mVvZlPg1gPvP-fSZmua17LPhl_"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_03-07-2025_19-53-29.mp4",
@@ -4545,7 +4588,18 @@
       "PAIOL": {
         "TRAVE 2": {
           "03-07-2025": {
-            "20h": [],
+            "20h": [
+              {
+                "nome": "QUADRA_03-07-2025_20-00-47.mp4",
+                "url": "https://drive.google.com/file/d/12A7joXgWwcZU6V_fQk3XNPPKeZrnqAGc/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=12A7joXgWwcZU6V_fQk3XNPPKeZrnqAGc"
+              },
+              {
+                "nome": "QUADRA_03-07-2025_20-00-11.mp4",
+                "url": "https://drive.google.com/file/d/1fQXg-WhDUFCBTTj6X_d-H0f_yEa9eNjR/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1fQXg-WhDUFCBTTj6X_d-H0f_yEa9eNjR"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_03-07-2025_19-55-01.mp4",

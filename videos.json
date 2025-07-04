@@ -514,7 +514,24 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "04-07-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_04-07-2025_19-02-44.mp4",
+                "url": "https://drive.google.com/file/d/1Hn7xXzumPycpAXFqjy-ezV33LAnqkup8/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Hn7xXzumPycpAXFqjy-ezV33LAnqkup8"
+              },
+              {
+                "nome": "QUADRA_04-07-2025_19-00-02.mp4",
+                "url": "https://drive.google.com/file/d/1Fk6UedjzTnE4kDwY2rJ8_jnlWE9mzLRr/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Fk6UedjzTnE4kDwY2rJ8_jnlWE9mzLRr"
+              }
+            ],
             "18h": [
+              {
+                "nome": "QUADRA_04-07-2025_18-59-22.mp4",
+                "url": "https://drive.google.com/file/d/1wFEvx51O6vbPLNhYSFEeU2F1IULFaSu5/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1wFEvx51O6vbPLNhYSFEeU2F1IULFaSu5"
+              },
               {
                 "nome": "QUADRA_04-07-2025_18-49-12.mp4",
                 "url": "https://drive.google.com/file/d/1GIYr9FViUaPBJeTFlHkBERZlXHzTS_cD/preview",
@@ -2480,6 +2497,7 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "04-07-2025": {
+            "19h": [],
             "18h": [
               {
                 "nome": "QUADRA_04-07-2025_18-58-51.mp4",

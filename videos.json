@@ -875,6 +875,18 @@
         },
         "TRAVE 2": {
           "04-07-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_04-07-2025_19-09-42.mp4",
+                "url": "https://drive.google.com/file/d/1fscvfP1qWIYyMN8-bDca3oakJcf8ROQH/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1fscvfP1qWIYyMN8-bDca3oakJcf8ROQH"
+              },
+              {
+                "nome": "QUADRA_04-07-2025_19-06-44.mp4",
+                "url": "https://drive.google.com/file/d/1U6QacBo4wJDDPCTtfi2gL32vjdBL3m3x/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1U6QacBo4wJDDPCTtfi2gL32vjdBL3m3x"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_04-07-2025_18-48-50.mp4",
@@ -2497,7 +2509,23 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "04-07-2025": {
-            "19h": [],
+            "19h": [
+              {
+                "nome": "QUADRA_04-07-2025_19-10-59.mp4",
+                "url": "https://drive.google.com/file/d/16I6MKBeCsnxUz71jIdb2Tc030Ka4pWNN/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16I6MKBeCsnxUz71jIdb2Tc030Ka4pWNN"
+              },
+              {
+                "nome": "QUADRA_04-07-2025_19-09-39.mp4",
+                "url": "https://drive.google.com/file/d/1PfPDW28xi9G1VBXO_4R9VfzB34-LjoQV/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1PfPDW28xi9G1VBXO_4R9VfzB34-LjoQV"
+              },
+              {
+                "nome": "QUADRA_04-07-2025_19-06-58.mp4",
+                "url": "https://drive.google.com/file/d/1-DAMtEUqYoqVPMcl6C5K9db4gGOAKwSS/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1-DAMtEUqYoqVPMcl6C5K9db4gGOAKwSS"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_04-07-2025_18-58-51.mp4",

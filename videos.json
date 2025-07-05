@@ -92,6 +92,9 @@
           }
         },
         "QUADRA 3": {
+          "05-07-2025": {
+            "12h": []
+          },
           "04-07-2025": {
             "20h": [
               {
@@ -1167,6 +1170,11 @@
         "TRAVE 2": {
           "05-07-2025": {
             "12h": [
+              {
+                "nome": "QUADRA_05-07-2025_12-23-16.mp4",
+                "url": "https://drive.google.com/file/d/1v43t1IGWjNzK0U5OZ0WC3ichuMY7PxMM/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1v43t1IGWjNzK0U5OZ0WC3ichuMY7PxMM"
+              },
               {
                 "nome": "QUADRA_05-07-2025_12-21-44.mp4",
                 "url": "https://drive.google.com/file/d/1sLa-SU_mr3ZKnUX78KmW6-hxi-f-lqWG/preview",

@@ -1278,6 +1278,11 @@
           "05-07-2025": {
             "18h": [
               {
+                "nome": "QUADRA_05-07-2025_18-47-10.mp4",
+                "url": "https://drive.google.com/file/d/19oDLxTU4LJB2Bfy9KKOBz0NK8GlJi8vX/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=19oDLxTU4LJB2Bfy9KKOBz0NK8GlJi8vX"
+              },
+              {
                 "nome": "QUADRA_05-07-2025_18-41-34.mp4",
                 "url": "https://drive.google.com/file/d/16RZ6UCQfeIG9PJwVvww7EMF8l1x6Jlni/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16RZ6UCQfeIG9PJwVvww7EMF8l1x6Jlni"
@@ -3560,6 +3565,7 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "05-07-2025": {
+            "18h": [],
             "15h": [
               {
                 "nome": "QUADRA_05-07-2025_15-25-43.mp4",

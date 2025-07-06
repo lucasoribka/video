@@ -4020,7 +4020,18 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "06-07-2025": {
-            "17h": [],
+            "17h": [
+              {
+                "nome": "QUADRA_06-07-2025_17-11-30.mp4",
+                "url": "https://drive.google.com/file/d/1tO8UZTVbyvSSYDsSY1ZSsbJTouBGpATl/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1tO8UZTVbyvSSYDsSY1ZSsbJTouBGpATl"
+              },
+              {
+                "nome": "QUADRA_06-07-2025_17-09-26.mp4",
+                "url": "https://drive.google.com/file/d/172_-60g0rlgDcVWDjEHVKdivfm65UlT7/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=172_-60g0rlgDcVWDjEHVKdivfm65UlT7"
+              }
+            ],
             "16h": [
               {
                 "nome": "QUADRA_06-07-2025_16-49-29.mp4",

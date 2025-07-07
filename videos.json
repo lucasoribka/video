@@ -10,7 +10,13 @@
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
           "07-07-2025": {
-            "10h": [],
+            "10h": [
+              {
+                "nome": "QUADRA_07-07-2025_10-15-32.mp4",
+                "url": "https://drive.google.com/file/d/1npKTUmZyUBjbdpd_-zDp9sFSIZdG_lCV/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1npKTUmZyUBjbdpd_-zDp9sFSIZdG_lCV"
+              }
+            ],
             "09h": [
               {
                 "nome": "QUADRA_07-07-2025_09-28-05.mp4",
@@ -783,6 +789,16 @@
         "TRAVE 1": {
           "07-07-2025": {
             "10h": [
+              {
+                "nome": "QUADRA_07-07-2025_10-19-05.mp4",
+                "url": "https://drive.google.com/file/d/1iputoinXOvCy3DisFiwBRjgWdKzhjKVv/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1iputoinXOvCy3DisFiwBRjgWdKzhjKVv"
+              },
+              {
+                "nome": "QUADRA_07-07-2025_10-17-37.mp4",
+                "url": "https://drive.google.com/file/d/1Bn79SbAkkFriwNh-l_jrktyLkaEfgRaq/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Bn79SbAkkFriwNh-l_jrktyLkaEfgRaq"
+              },
               {
                 "nome": "QUADRA_07-07-2025_10-14-12.mp4",
                 "url": "https://drive.google.com/file/d/1CdRhlHTSekeUKFd_sxP9AdjVtZdfl8lB/preview",

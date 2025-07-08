@@ -90,6 +90,13 @@
         },
         "QUADRA 3": {
           "08-07-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_08-07-2025_18-22-38.mp4",
+                "url": "https://drive.google.com/file/d/1uLeNNtqbdnCLtaEehjUh8uJ0r2HDE_7J/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1uLeNNtqbdnCLtaEehjUh8uJ0r2HDE_7J"
+              }
+            ],
             "16h": [
               {
                 "nome": "QUADRA_08-07-2025_16-54-37.mp4",
@@ -1774,6 +1781,28 @@
       "RAVENNA": {
         "QUADRA": {
           "08-07-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_08-07-2025_18-24-46.mp4",
+                "url": "https://drive.google.com/file/d/1cRhAY-wA6y8QZF345EtKIVJOxf62zD7O/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1cRhAY-wA6y8QZF345EtKIVJOxf62zD7O"
+              },
+              {
+                "nome": "QUADRA_08-07-2025_18-19-10.mp4",
+                "url": "https://drive.google.com/file/d/1HZBi64YiFjsZtJ4NzaKD52Bu6V8WqKxD/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1HZBi64YiFjsZtJ4NzaKD52Bu6V8WqKxD"
+              },
+              {
+                "nome": "QUADRA_08-07-2025_18-16-57.mp4",
+                "url": "https://drive.google.com/file/d/1D7o_JPxJWOlu4at-3C0Acbgii2gmuJl6/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1D7o_JPxJWOlu4at-3C0Acbgii2gmuJl6"
+              },
+              {
+                "nome": "QUADRA_08-07-2025_18-04-04.mp4",
+                "url": "https://drive.google.com/file/d/1425MFJ7uW3FcBtE9AL4TmeYYwqqDx6Ya/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1425MFJ7uW3FcBtE9AL4TmeYYwqqDx6Ya"
+              }
+            ],
             "17h": [
               {
                 "nome": "QUADRA_08-07-2025_17-53-35.mp4",
@@ -3380,8 +3409,8 @@
             "16h": [
               {
                 "nome": "QUADRA_08-07-2025_16-22-46.mp4",
-                "url": "https://f002.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/08-07-2025/16h/QUADRA_08-07-2025_16-22-46.mp4",
-                "thumbnail": "https://f002.backblazeb2.com/file/gravaainet/PR/RIO NEGRO-PR/CENTRAL ARENA/QUADRA/08-07-2025/16h/QUADRA_08-07-2025_16-22-46.jpg"
+                "url": "https://drive.google.com/file/d/1MwKbSrIYirKNfZjztY8n2z2vJP8hafT1/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1MwKbSrIYirKNfZjztY8n2z2vJP8hafT1"
               }
             ]
           },

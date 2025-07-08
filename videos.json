@@ -1408,6 +1408,11 @@
           "08-07-2025": {
             "20h": [
               {
+                "nome": "QUADRA_08-07-2025_20-56-01.mp4",
+                "url": "https://drive.google.com/file/d/1I86mvinU1lag27MjiHK94MuiYw1spPlu/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1I86mvinU1lag27MjiHK94MuiYw1spPlu"
+              },
+              {
                 "nome": "QUADRA_08-07-2025_20-33-45.mp4",
                 "url": "https://drive.google.com/file/d/1Fgt8B_HjAmB1vz_2Q1zpVxYnIaJyMTFI/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Fgt8B_HjAmB1vz_2Q1zpVxYnIaJyMTFI"
@@ -3485,6 +3490,9 @@
       },
       "ESCOLA TENNIS ZSPORTS": {
         "TENNIS": {
+          "08-07-2025": {
+            "20h": []
+          },
           "07-07-2025": {
             "17h": [
               {

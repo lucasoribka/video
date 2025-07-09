@@ -609,6 +609,11 @@
           "08-07-2025": {
             "20h": [
               {
+                "nome": "QUADRA_08-07-2025_20-58-31.mp4",
+                "url": "https://drive.google.com/file/d/1kU5oPFE1CEtOjnsP58pOjy_Qg-6bTjIj/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1kU5oPFE1CEtOjnsP58pOjy_Qg-6bTjIj"
+              },
+              {
                 "nome": "QUADRA_08-07-2025_20-17-29.mp4",
                 "url": "https://drive.google.com/file/d/1wYYtNQ6G1Q2UkmfZp5o8WEtxFHtifsLh/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1wYYtNQ6G1Q2UkmfZp5o8WEtxFHtifsLh"
@@ -1937,6 +1942,13 @@
       "RAVENNA": {
         "QUADRA": {
           "08-07-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_08-07-2025_21-01-33.mp4",
+                "url": "https://drive.google.com/file/d/1X2hEQzkV_2I71-o2Gyb3zjU8_-tG6WCM/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1X2hEQzkV_2I71-o2Gyb3zjU8_-tG6WCM"
+              }
+            ],
             "20h": [
               {
                 "nome": "QUADRA_08-07-2025_20-49-33.mp4",
@@ -3491,7 +3503,13 @@
       "ESCOLA TENNIS ZSPORTS": {
         "TENNIS": {
           "08-07-2025": {
-            "20h": []
+            "20h": [
+              {
+                "nome": "QUADRA_08-07-2025_20-58-03.mp4",
+                "url": "https://drive.google.com/file/d/1sZIg3lHsg199HxHG66X2CWxDJ14dOTiU/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1sZIg3lHsg199HxHG66X2CWxDJ14dOTiU"
+              }
+            ]
           },
           "07-07-2025": {
             "17h": [
@@ -3534,6 +3552,15 @@
       },
       "PAIOL": {
         "TRAVE 2": {
+          "08-07-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_08-07-2025_21-03-54.mp4",
+                "url": "https://drive.google.com/file/d/1aYzJ347wGBqSPoFA5aFt36UFA9USSLru/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1aYzJ347wGBqSPoFA5aFt36UFA9USSLru"
+              }
+            ]
+          },
           "07-07-2025": {
             "20h": [
               {
@@ -3608,6 +3635,7 @@
         },
         "TRAVE 1": {
           "08-07-2025": {
+            "21h": [],
             "20h": [
               {
                 "nome": "QUADRA_08-07-2025_20-50-21.mp4",

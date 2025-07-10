@@ -720,7 +720,18 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "10-07-2025": {
-            "20h": [],
+            "20h": [
+              {
+                "nome": "QUADRA_10-07-2025_20-12-36.mp4",
+                "url": "https://drive.google.com/file/d/1EB6HyOjbdJTjtYza8b9DFmNreAerKG0m/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1EB6HyOjbdJTjtYza8b9DFmNreAerKG0m"
+              },
+              {
+                "nome": "QUADRA_10-07-2025_20-07-39.mp4",
+                "url": "https://drive.google.com/file/d/1aG_evOJERrc_4Se9xqoQblV5_NUIR5gb/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1aG_evOJERrc_4Se9xqoQblV5_NUIR5gb"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_10-07-2025_19-35-16.mp4",
@@ -2006,6 +2017,11 @@
           "10-07-2025": {
             "20h": [
               {
+                "nome": "QUADRA_10-07-2025_20-12-53.mp4",
+                "url": "https://drive.google.com/file/d/1zv-SXQdPYa_pQuYbZn1HycX_cX-YRNDL/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1zv-SXQdPYa_pQuYbZn1HycX_cX-YRNDL"
+              },
+              {
                 "nome": "QUADRA_10-07-2025_20-06-27.mp4",
                 "url": "https://drive.google.com/file/d/1wVsTNX3XNU7GQtq56N3nCubGXYfpvebC/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1wVsTNX3XNU7GQtq56N3nCubGXYfpvebC"
@@ -2324,6 +2340,11 @@
         "AREIA 1": {
           "10-07-2025": {
             "20h": [
+              {
+                "nome": "QUADRA_10-07-2025_20-07-29.mp4",
+                "url": "https://drive.google.com/file/d/1fKTyRlETrMNWKqiJNJtfczmmSfaxhcqq/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1fKTyRlETrMNWKqiJNJtfczmmSfaxhcqq"
+              },
               {
                 "nome": "QUADRA_10-07-2025_20-06-52.mp4",
                 "url": "https://drive.google.com/file/d/1maVdV1QLmAQmdziNE2SUBkfXnJt69Z11/preview",

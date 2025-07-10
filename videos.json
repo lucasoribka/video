@@ -708,7 +708,13 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "10-07-2025": {
-            "19h": [],
+            "19h": [
+              {
+                "nome": "QUADRA_10-07-2025_19-26-13.mp4",
+                "url": "https://drive.google.com/file/d/1jJYH3KaFSH2kPoOY__LkoVI5KC8KhNLV/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1jJYH3KaFSH2kPoOY__LkoVI5KC8KhNLV"
+              }
+            ],
             "16h": [
               {
                 "nome": "QUADRA_10-07-2025_16-17-50.mp4",
@@ -1975,6 +1981,7 @@
         },
         "AREIA 3": {
           "10-07-2025": {
+            "19h": [],
             "17h": [
               {
                 "nome": "QUADRA_10-07-2025_17-57-21.mp4",
@@ -3838,6 +3845,15 @@
       },
       "ARENA MAIDL": {
         "QUADRA": {
+          "10-07-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_10-07-2025_19-32-12.mp4",
+                "url": "https://drive.google.com/file/d/1s_I0DjrX56Dw1HKv-KPt-VOsliccHa7A/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1s_I0DjrX56Dw1HKv-KPt-VOsliccHa7A"
+              }
+            ]
+          },
           "09-07-2025": {
             "20h": [
               {

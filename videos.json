@@ -722,6 +722,11 @@
           "10-07-2025": {
             "20h": [
               {
+                "nome": "QUADRA_10-07-2025_20-13-32.mp4",
+                "url": "https://drive.google.com/file/d/1qNQEZ41zt2zCdRORMt-Np0kwRQtWz9nR/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1qNQEZ41zt2zCdRORMt-Np0kwRQtWz9nR"
+              },
+              {
                 "nome": "QUADRA_10-07-2025_20-12-36.mp4",
                 "url": "https://drive.google.com/file/d/1EB6HyOjbdJTjtYza8b9DFmNreAerKG0m/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1EB6HyOjbdJTjtYza8b9DFmNreAerKG0m"
@@ -1258,6 +1263,18 @@
         },
         "TRAVE 2": {
           "10-07-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_10-07-2025_20-19-38.mp4",
+                "url": "https://drive.google.com/file/d/1wENef7JowLjG8U_w1IYJGhZSeBC7DKnA/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1wENef7JowLjG8U_w1IYJGhZSeBC7DKnA"
+              },
+              {
+                "nome": "QUADRA_10-07-2025_20-18-37.mp4",
+                "url": "https://drive.google.com/file/d/1EJVTggIAm2QNCIClHEYxTp5v_6n8y8lI/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1EJVTggIAm2QNCIClHEYxTp5v_6n8y8lI"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_10-07-2025_19-52-54.mp4",
@@ -2669,6 +2686,13 @@
       "RAVENNA": {
         "QUADRA": {
           "10-07-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_10-07-2025_20-21-06.mp4",
+                "url": "https://drive.google.com/file/d/1J0r7RUjQ-B95J7R4cP3GIQwk1tQmh-65/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1J0r7RUjQ-B95J7R4cP3GIQwk1tQmh-65"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_10-07-2025_19-47-34.mp4",

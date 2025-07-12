@@ -641,6 +641,9 @@
           }
         },
         "TRAVE 2": {
+          "12-07-2025": {
+            "09h": []
+          },
           "11-07-2025": {
             "22h": [
               {
@@ -2634,6 +2637,15 @@
       },
       "CENTRAL ARENA": {
         "QUADRA": {
+          "12-07-2025": {
+            "09h": [
+              {
+                "nome": "QUADRA_12-07-2025_09-50-01.mp4",
+                "url": "https://drive.google.com/file/d/1a0V66uleDqjXadWw72c2LfdIGDvqyWK4/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1a0V66uleDqjXadWw72c2LfdIGDvqyWK4"
+              }
+            ]
+          },
           "11-07-2025": {
             "22h": [
               {

@@ -661,6 +661,13 @@
         },
         "TRAVE 2": {
           "12-07-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_12-07-2025_18-17-46.mp4",
+                "url": "https://drive.google.com/file/d/1tNuQcevq_Mw0_GD8ggL2pccmLuER-hUk/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1tNuQcevq_Mw0_GD8ggL2pccmLuER-hUk"
+              }
+            ],
             "16h": [
               {
                 "nome": "QUADRA_12-07-2025_16-05-59.mp4",
@@ -2241,6 +2248,7 @@
         },
         "TRAVE 1": {
           "12-07-2025": {
+            "18h": [],
             "17h": [
               {
                 "nome": "QUADRA_12-07-2025_17-12-50.mp4",
@@ -2469,6 +2477,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "12-07-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_12-07-2025_18-15-15.mp4",
+                "url": "https://drive.google.com/file/d/1dSnwbbXYvpqKGR-g4sw8dVJTRYlnUxoj/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1dSnwbbXYvpqKGR-g4sw8dVJTRYlnUxoj"
+              }
+            ],
             "16h": [
               {
                 "nome": "QUADRA_12-07-2025_16-46-04.mp4",

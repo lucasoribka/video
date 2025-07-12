@@ -1296,6 +1296,9 @@
           }
         },
         "AREIA 1": {
+          "12-07-2025": {
+            "10h": []
+          },
           "11-07-2025": {
             "21h": [
               {
@@ -2666,6 +2669,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "12-07-2025": {
+            "10h": [
+              {
+                "nome": "QUADRA_12-07-2025_10-18-08.mp4",
+                "url": "https://drive.google.com/file/d/1GwonIZh1z7176Rew0UmZ7PO3QkWbq_wD/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1GwonIZh1z7176Rew0UmZ7PO3QkWbq_wD"
+              }
+            ],
             "09h": [
               {
                 "nome": "QUADRA_12-07-2025_09-50-01.mp4",

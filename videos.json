@@ -410,6 +410,15 @@
       },
       "JR03 - RAFINHA": {
         "TRAVE 1": {
+          "13-07-2025": {
+            "11h": [
+              {
+                "nome": "QUADRA_13-07-2025_11-07-26.mp4",
+                "url": "https://drive.google.com/file/d/1222Sxiz2gZGg6IXrB5CpjDfnZlvQ9-b0/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1222Sxiz2gZGg6IXrB5CpjDfnZlvQ9-b0"
+              }
+            ]
+          },
           "12-07-2025": {
             "18h": [
               {
@@ -668,7 +677,13 @@
         },
         "TRAVE 2": {
           "13-07-2025": {
-            "11h": [],
+            "11h": [
+              {
+                "nome": "QUADRA_13-07-2025_11-05-11.mp4",
+                "url": "https://drive.google.com/file/d/1rlTqh0cuGA5LUYngXi4N2o3I4axWr-ZX/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1rlTqh0cuGA5LUYngXi4N2o3I4axWr-ZX"
+              }
+            ],
             "10h": [
               {
                 "nome": "QUADRA_13-07-2025_10-53-30.mp4",
@@ -2120,6 +2135,16 @@
           "13-07-2025": {
             "11h": [
               {
+                "nome": "QUADRA_13-07-2025_11-10-40.mp4",
+                "url": "https://drive.google.com/file/d/1uhj3tErD94YHbARmJ668GMWpc85J_LKu/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1uhj3tErD94YHbARmJ668GMWpc85J_LKu"
+              },
+              {
+                "nome": "QUADRA_13-07-2025_11-10-09.mp4",
+                "url": "https://drive.google.com/file/d/1LJ-t9mTS16e6UsY2JJ11vgGKqmkQkw0J/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1LJ-t9mTS16e6UsY2JJ11vgGKqmkQkw0J"
+              },
+              {
                 "nome": "QUADRA_13-07-2025_11-02-51.mp4",
                 "url": "https://drive.google.com/file/d/1Plgl-fYKjqhSiKknLO-WZpC2P2-q4qFx/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Plgl-fYKjqhSiKknLO-WZpC2P2-q4qFx"
@@ -2829,6 +2854,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "13-07-2025": {
+            "11h": [
+              {
+                "nome": "QUADRA_13-07-2025_11-12-02.mp4",
+                "url": "https://drive.google.com/file/d/16Iy3CfNeYlwN2q-ZmFlP0QTlubtUHVBL/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16Iy3CfNeYlwN2q-ZmFlP0QTlubtUHVBL"
+              }
+            ],
             "10h": [
               {
                 "nome": "QUADRA_13-07-2025_10-41-31.mp4",

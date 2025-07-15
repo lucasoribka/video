@@ -801,7 +801,13 @@
         },
         "TRAVE 2": {
           "14-07-2025": {
-            "21h": [],
+            "21h": [
+              {
+                "nome": "QUADRA_14-07-2025_21-00-16.mp4",
+                "url": "https://drive.google.com/file/d/15h9LPyUt60zqMOwS772XsbxMWwLPZEjc/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=15h9LPyUt60zqMOwS772XsbxMWwLPZEjc"
+              }
+            ],
             "20h": [
               {
                 "nome": "QUADRA_14-07-2025_20-28-37.mp4",
@@ -1562,6 +1568,13 @@
         },
         "AREIA 1": {
           "14-07-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_14-07-2025_21-04-56.mp4",
+                "url": "https://drive.google.com/file/d/1Al5ZuMYj2wmig1X-c_sdcnzKuok4iIEm/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Al5ZuMYj2wmig1X-c_sdcnzKuok4iIEm"
+              }
+            ],
             "20h": [
               {
                 "nome": "QUADRA_14-07-2025_20-45-39.mp4",
@@ -1762,7 +1775,19 @@
       "RAVENNA": {
         "QUADRA": {
           "14-07-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_14-07-2025_21-05-08.mp4",
+                "url": "https://drive.google.com/file/d/1rSp_9r9B3XnUS3gOBnlaNydPApX443Dk/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1rSp_9r9B3XnUS3gOBnlaNydPApX443Dk"
+              }
+            ],
             "20h": [
+              {
+                "nome": "QUADRA_14-07-2025_20-59-58.mp4",
+                "url": "https://drive.google.com/file/d/1307Xqs4Z9X6xvEDGI4djUTgc3bIoLzvl/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1307Xqs4Z9X6xvEDGI4djUTgc3bIoLzvl"
+              },
               {
                 "nome": "QUADRA_14-07-2025_20-57-33.mp4",
                 "url": "https://drive.google.com/file/d/1hGBktCTvdY9M6z6hYSH5gnuPyNUSI51j/preview",
@@ -2535,7 +2560,13 @@
       "STALL BEACH - BOM JESUS": {
         "QUADRA 5": {
           "14-07-2025": {
-            "21h": [],
+            "21h": [
+              {
+                "nome": "QUADRA_14-07-2025_21-00-20.mp4",
+                "url": "https://drive.google.com/file/d/1UzqCGcsut9E0EF9xU1FWjdjOjVxVLWfO/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1UzqCGcsut9E0EF9xU1FWjdjOjVxVLWfO"
+              }
+            ],
             "20h": [
               {
                 "nome": "QUADRA_14-07-2025_20-48-25.mp4",
@@ -3627,6 +3658,18 @@
         },
         "TRAVE 1": {
           "14-07-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_14-07-2025_21-05-34.mp4",
+                "url": "https://drive.google.com/file/d/1Al38Cxeoxn15bxP2i5dswDFfFgfpdiiP/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Al38Cxeoxn15bxP2i5dswDFfFgfpdiiP"
+              },
+              {
+                "nome": "QUADRA_14-07-2025_21-04-47.mp4",
+                "url": "https://drive.google.com/file/d/141gA-UstULk35_nURdo3Gi8dfwyLOp7z/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=141gA-UstULk35_nURdo3Gi8dfwyLOp7z"
+              }
+            ],
             "20h": [
               {
                 "nome": "QUADRA_14-07-2025_20-48-23.mp4",
@@ -3764,6 +3807,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "14-07-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_14-07-2025_21-07-19.mp4",
+                "url": "https://drive.google.com/file/d/15oBy95wr3lj2NQOwuwg55dukd26PqxP7/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=15oBy95wr3lj2NQOwuwg55dukd26PqxP7"
+              }
+            ],
             "20h": [
               {
                 "nome": "QUADRA_14-07-2025_20-56-51.mp4",

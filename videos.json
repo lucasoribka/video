@@ -531,6 +531,13 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "16-07-2025": {
+            "09h": [
+              {
+                "nome": "QUADRA_16-07-2025_09-06-50.mp4",
+                "url": "https://drive.google.com/file/d/1lfmLFT2f6Q1_PtnwMOYvOAw_4fF6XmUJ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1lfmLFT2f6Q1_PtnwMOYvOAw_4fF6XmUJ"
+              }
+            ],
             "08h": [
               {
                 "nome": "QUADRA_16-07-2025_08-27-15.mp4",
@@ -1598,6 +1605,15 @@
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
+          "16-07-2025": {
+            "09h": [
+              {
+                "nome": "QUADRA_16-07-2025_09-07-59.mp4",
+                "url": "https://drive.google.com/file/d/1xtx6HLmlU6f7ayYdFvleFch7WC-V2lkD/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1xtx6HLmlU6f7ayYdFvleFch7WC-V2lkD"
+              }
+            ]
+          },
           "15-07-2025": {
             "22h": [
               {

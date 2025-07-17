@@ -10,7 +10,18 @@
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
           "16-07-2025": {
-            "21h": [],
+            "21h": [
+              {
+                "nome": "QUADRA_16-07-2025_21-37-36.mp4",
+                "url": "https://drive.google.com/file/d/1ws6F1Ho5QOFBheHy7S1PtjvwBf5umnT0/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ws6F1Ho5QOFBheHy7S1PtjvwBf5umnT0"
+              },
+              {
+                "nome": "QUADRA_16-07-2025_21-36-47.mp4",
+                "url": "https://drive.google.com/file/d/1x_byalDzMl_VHp_3iH4OW-y2vxX52DJl/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1x_byalDzMl_VHp_3iH4OW-y2vxX52DJl"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_16-07-2025_19-37-44.mp4",
@@ -3371,6 +3382,7 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "16-07-2025": {
+            "21h": [],
             "17h": [
               {
                 "nome": "QUADRA_16-07-2025_17-57-55.mp4",

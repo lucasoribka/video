@@ -342,6 +342,7 @@
         },
         "QUADRA 2": {
           "17-07-2025": {
+            "09h": [],
             "07h": [
               {
                 "nome": "QUADRA_17-07-2025_07-17-56.mp4",
@@ -1619,6 +1620,31 @@
         "QUADRA": {
           "17-07-2025": {
             "09h": [
+              {
+                "nome": "QUADRA_17-07-2025_09-24-33.mp4",
+                "url": "https://drive.google.com/file/d/1A4SWjskMKeAaHp0Ac391mcoa5wyHSB4D/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1A4SWjskMKeAaHp0Ac391mcoa5wyHSB4D"
+              },
+              {
+                "nome": "QUADRA_17-07-2025_09-23-41.mp4",
+                "url": "https://drive.google.com/file/d/1yjQYq977Aao6uHep2m2i_F0DUjSv5paB/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1yjQYq977Aao6uHep2m2i_F0DUjSv5paB"
+              },
+              {
+                "nome": "QUADRA_17-07-2025_09-21-48.mp4",
+                "url": "https://drive.google.com/file/d/1h1sV5cHrQPvHnea9jjwqeL5PCQd8p02u/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1h1sV5cHrQPvHnea9jjwqeL5PCQd8p02u"
+              },
+              {
+                "nome": "QUADRA_17-07-2025_09-21-20.mp4",
+                "url": "https://drive.google.com/file/d/1t1U6lbZGY6VN1vKIKzZjEIXWoioy2K43/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1t1U6lbZGY6VN1vKIKzZjEIXWoioy2K43"
+              },
+              {
+                "nome": "QUADRA_17-07-2025_09-20-19.mp4",
+                "url": "https://drive.google.com/file/d/1BBebiuIG1O-J7MWovd00wT53CI6rQpDj/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1BBebiuIG1O-J7MWovd00wT53CI6rQpDj"
+              },
               {
                 "nome": "QUADRA_17-07-2025_09-16-37.mp4",
                 "url": "https://drive.google.com/file/d/1scQ9n4ETGGzKfjPInQoUaVtxauV_VlaW/preview",

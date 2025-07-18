@@ -883,6 +883,11 @@
           "18-07-2025": {
             "19h": [
               {
+                "nome": "QUADRA_18-07-2025_19-12-53.mp4",
+                "url": "https://drive.google.com/file/d/1bAY6RA44ekAr7RdlVL32lKpv-GsGpMDE/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1bAY6RA44ekAr7RdlVL32lKpv-GsGpMDE"
+              },
+              {
                 "nome": "QUADRA_18-07-2025_19-04-47.mp4",
                 "url": "https://drive.google.com/file/d/1EZfYddGFBgGiFw7Oabo0egH09nFoIQqU/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1EZfYddGFBgGiFw7Oabo0egH09nFoIQqU"
@@ -2457,6 +2462,15 @@
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
+          "18-07-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_18-07-2025_19-11-35.mp4",
+                "url": "https://drive.google.com/file/d/1Xm-YcakUzjYdhcyZIjqGmO1GpbFTBIke/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Xm-YcakUzjYdhcyZIjqGmO1GpbFTBIke"
+              }
+            ]
+          },
           "17-07-2025": {
             "21h": [
               {
@@ -3301,6 +3315,13 @@
         },
         "QUADRA 4": {
           "18-07-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_18-07-2025_19-15-27.mp4",
+                "url": "https://drive.google.com/file/d/12cU4E4klFFRSAZjAJPcRaGTJirjepE0w/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=12cU4E4klFFRSAZjAJPcRaGTJirjepE0w"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_18-07-2025_18-50-17.mp4",
@@ -3576,6 +3597,15 @@
       },
       "ARENA MAIDL": {
         "QUADRA": {
+          "18-07-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_18-07-2025_19-11-15.mp4",
+                "url": "https://drive.google.com/file/d/16JxTZ8j3JXS6TJdcETJNkjEx4gu8S4wr/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16JxTZ8j3JXS6TJdcETJNkjEx4gu8S4wr"
+              }
+            ]
+          },
           "17-07-2025": {
             "20h": [
               {

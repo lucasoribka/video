@@ -1786,7 +1786,13 @@
       "STALL BEACH - BOM JESUS": {
         "QUADRA 5": {
           "21-07-2025": {
-            "18h": []
+            "18h": [
+              {
+                "nome": "QUADRA_21-07-2025_18-28-13.mp4",
+                "url": "https://drive.google.com/file/d/1rmykD16aZTbHykA160hy9W_ll0Rs44bv/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1rmykD16aZTbHykA160hy9W_ll0Rs44bv"
+              }
+            ]
           },
           "18-07-2025": {
             "22h": [
@@ -2039,6 +2045,15 @@
       },
       "ARENA MAIDL": {
         "QUADRA": {
+          "21-07-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_21-07-2025_18-33-49.mp4",
+                "url": "https://drive.google.com/file/d/1Oz92v1GdBXhzGviqrn9s1br9x95pxnPa/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Oz92v1GdBXhzGviqrn9s1br9x95pxnPa"
+              }
+            ]
+          },
           "20-07-2025": {
             "19h": [
               {

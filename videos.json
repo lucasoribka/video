@@ -318,6 +318,21 @@
           }
         },
         "QUADRA 1": {
+          "21-07-2025": {
+            "20h": [],
+            "19h": [
+              {
+                "nome": "QUADRA_21-07-2025_19-58-35.mp4",
+                "url": "https://drive.google.com/file/d/1GoOBB_k92XKywIZPch4QeUs6fz67ugB4/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1GoOBB_k92XKywIZPch4QeUs6fz67ugB4"
+              },
+              {
+                "nome": "QUADRA_21-07-2025_19-56-24.mp4",
+                "url": "https://drive.google.com/file/d/1AaSu12w2ibRFCjq94HphCgKHxwjomyq5/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1AaSu12w2ibRFCjq94HphCgKHxwjomyq5"
+              }
+            ]
+          },
           "19-07-2025": {
             "16h": [
               {
@@ -986,6 +1001,11 @@
         "AREIA 1": {
           "21-07-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_21-07-2025_19-59-29.mp4",
+                "url": "https://drive.google.com/file/d/18DaE9fm4hz3usvLXSMAZt5pXiY2eOFoW/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=18DaE9fm4hz3usvLXSMAZt5pXiY2eOFoW"
+              },
               {
                 "nome": "QUADRA_21-07-2025_19-50-00.mp4",
                 "url": "https://drive.google.com/file/d/1wUgBXV7z4u85DJSA5v7DjjyESCdPscVZ/preview",
@@ -1998,6 +2018,11 @@
           "21-07-2025": {
             "19h": [
               {
+                "nome": "QUADRA_21-07-2025_19-56-11.mp4",
+                "url": "https://drive.google.com/file/d/1gZNZPv9ir6RIptslFXkrd2M-b1IE7R5R/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1gZNZPv9ir6RIptslFXkrd2M-b1IE7R5R"
+              },
+              {
                 "nome": "QUADRA_21-07-2025_19-16-33.mp4",
                 "url": "https://drive.google.com/file/d/1KgaRisCvFxIGOgJwwoC99i56nUSjGoHo/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1KgaRisCvFxIGOgJwwoC99i56nUSjGoHo"
@@ -2319,7 +2344,19 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "21-07-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_21-07-2025_20-01-30.mp4",
+                "url": "https://drive.google.com/file/d/1UOYpAuAe0pRGpCSG7AyVytoNPO9fKvfb/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1UOYpAuAe0pRGpCSG7AyVytoNPO9fKvfb"
+              }
+            ],
             "19h": [
+              {
+                "nome": "QUADRA_21-07-2025_19-57-16.mp4",
+                "url": "https://drive.google.com/file/d/1CyZXYi6Sv1NHMr67Ap0BS9hFXCzEoTPa/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1CyZXYi6Sv1NHMr67Ap0BS9hFXCzEoTPa"
+              },
               {
                 "nome": "QUADRA_21-07-2025_19-27-09.mp4",
                 "url": "https://drive.google.com/file/d/1mcdI9fe-Z3yloObD32MtpF71hUqPAfyc/preview",
@@ -2868,6 +2905,13 @@
         },
         "TRAVE 1": {
           "21-07-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_21-07-2025_20-01-04.mp4",
+                "url": "https://drive.google.com/file/d/11QhV1ROF2XEDXoCudwiF5EnXJ2qYBQdl/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=11QhV1ROF2XEDXoCudwiF5EnXJ2qYBQdl"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_21-07-2025_19-55-45.mp4",

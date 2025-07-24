@@ -1065,7 +1065,13 @@
         },
         "AREIA 3": {
           "24-07-2025": {
-            "13h": [],
+            "13h": [
+              {
+                "nome": "QUADRA_24-07-2025_13-08-58.mp4",
+                "url": "https://drive.google.com/file/d/10oV3SLHGP0boQI2NVra7L9jdd57EajjG/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=10oV3SLHGP0boQI2NVra7L9jdd57EajjG"
+              }
+            ],
             "12h": [
               {
                 "nome": "QUADRA_24-07-2025_12-26-31.mp4",

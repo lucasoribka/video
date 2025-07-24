@@ -12,6 +12,11 @@
           "24-07-2025": {
             "17h": [
               {
+                "nome": "QUADRA_24-07-2025_17-41-37.mp4",
+                "url": "https://drive.google.com/file/d/1BkJr9zF6LLDqaIWwp1lyFYqSNlvI6glf/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1BkJr9zF6LLDqaIWwp1lyFYqSNlvI6glf"
+              },
+              {
                 "nome": "QUADRA_24-07-2025_17-30-22.mp4",
                 "url": "https://drive.google.com/file/d/1RgfW5Rt3q4LXAiIYIyOORSfW5YR79xA9/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1RgfW5Rt3q4LXAiIYIyOORSfW5YR79xA9"
@@ -2113,6 +2118,35 @@
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
+          "24-07-2025": {
+            "17h": [
+              {
+                "nome": "QUADRA_24-07-2025_17-44-30.mp4",
+                "url": "https://drive.google.com/file/d/1N4gQLtNoKyGfZheP5O75ePzZo1W9ddPD/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1N4gQLtNoKyGfZheP5O75ePzZo1W9ddPD"
+              },
+              {
+                "nome": "QUADRA_24-07-2025_17-43-36.mp4",
+                "url": "https://drive.google.com/file/d/1Ise2O-7PGlwoNROjaWKU6R48qDOJPWFT/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Ise2O-7PGlwoNROjaWKU6R48qDOJPWFT"
+              },
+              {
+                "nome": "QUADRA_24-07-2025_17-42-22.mp4",
+                "url": "https://drive.google.com/file/d/12f4dxTrgzTW98aroq-oGMNBHcLBiLi0h/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=12f4dxTrgzTW98aroq-oGMNBHcLBiLi0h"
+              },
+              {
+                "nome": "QUADRA_24-07-2025_17-41-46.mp4",
+                "url": "https://drive.google.com/file/d/1-KTw-_CXEP_7PW4d-_Xl-63v17Co31el/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1-KTw-_CXEP_7PW4d-_Xl-63v17Co31el"
+              },
+              {
+                "nome": "QUADRA_24-07-2025_17-40-51.mp4",
+                "url": "https://drive.google.com/file/d/1euyUwJd929eUIFLIiAY4y1Pn_W5pT56E/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1euyUwJd929eUIFLIiAY4y1Pn_W5pT56E"
+              }
+            ]
+          },
           "23-07-2025": {
             "21h": [
               {

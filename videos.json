@@ -12,6 +12,11 @@
           "24-07-2025": {
             "20h": [
               {
+                "nome": "QUADRA_24-07-2025_20-45-34.mp4",
+                "url": "https://drive.google.com/file/d/1QqU-XTyAi9fKnCeWaza5q6oQgOMwdQLw/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1QqU-XTyAi9fKnCeWaza5q6oQgOMwdQLw"
+              },
+              {
                 "nome": "QUADRA_24-07-2025_20-43-40.mp4",
                 "url": "https://drive.google.com/file/d/1bJvhWqSFRrg7_SEUpsi6S1fNj4cfXM2o/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1bJvhWqSFRrg7_SEUpsi6S1fNj4cfXM2o"
@@ -688,6 +693,11 @@
         "TRAVE 1": {
           "24-07-2025": {
             "20h": [
+              {
+                "nome": "QUADRA_24-07-2025_20-46-06.mp4",
+                "url": "https://drive.google.com/file/d/1jclh3hl5tyO9bB3mFFmqMP-JzBLNRygW/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1jclh3hl5tyO9bB3mFFmqMP-JzBLNRygW"
+              },
               {
                 "nome": "QUADRA_24-07-2025_20-41-22.mp4",
                 "url": "https://drive.google.com/file/d/1lGF3W5mOjlF8BA_nZ8TPufIsUz24v7zs/preview",
@@ -1367,7 +1377,13 @@
               }
             ],
             "19h": [],
-            "18h": [],
+            "18h": [
+              {
+                "nome": "QUADRA_24-07-2025_18-06-12.mp4",
+                "url": "https://drive.google.com/file/d/1eEsqEDCAo05wap9gxNYbU1vh-du6irgT/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1eEsqEDCAo05wap9gxNYbU1vh-du6irgT"
+              }
+            ],
             "17h": [
               {
                 "nome": "QUADRA_24-07-2025_17-23-50.mp4",
@@ -2298,6 +2314,11 @@
         "QUADRA": {
           "24-07-2025": {
             "20h": [
+              {
+                "nome": "QUADRA_24-07-2025_20-52-04.mp4",
+                "url": "https://drive.google.com/file/d/1T4zI3W_a96hCOGL3y3O37SXwGJ_G5ZrF/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1T4zI3W_a96hCOGL3y3O37SXwGJ_G5ZrF"
+              },
               {
                 "nome": "QUADRA_24-07-2025_20-44-25.mp4",
                 "url": "https://drive.google.com/file/d/1ylHWsIIkVsi_SfHmDWCdx2sRjN6FxY1u/preview",

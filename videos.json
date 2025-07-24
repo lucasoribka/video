@@ -2014,6 +2014,11 @@
           "24-07-2025": {
             "19h": [
               {
+                "nome": "QUADRA_24-07-2025_19-18-32.mp4",
+                "url": "https://drive.google.com/file/d/1ar-nfe62mQwUWNGM-CJGCNwndwDXTzQA/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ar-nfe62mQwUWNGM-CJGCNwndwDXTzQA"
+              },
+              {
                 "nome": "QUADRA_24-07-2025_19-13-26.mp4",
                 "url": "https://drive.google.com/file/d/1fLu06SDMX_VQVQeCPdKJtzchCDWm2T7R/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1fLu06SDMX_VQVQeCPdKJtzchCDWm2T7R"
@@ -3034,7 +3039,18 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "24-07-2025": {
-            "19h": []
+            "19h": [
+              {
+                "nome": "QUADRA_24-07-2025_19-20-52.mp4",
+                "url": "https://drive.google.com/file/d/1LVA4yWoV5T8owiGyYKC5ZQDk7wlNZ8Xg/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1LVA4yWoV5T8owiGyYKC5ZQDk7wlNZ8Xg"
+              },
+              {
+                "nome": "QUADRA_24-07-2025_19-17-08.mp4",
+                "url": "https://drive.google.com/file/d/1qj3mjtCKfZKdHj3g1Tbepn-R_Ep9NgCn/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1qj3mjtCKfZKdHj3g1Tbepn-R_Ep9NgCn"
+              }
+            ]
           },
           "23-07-2025": {
             "21h": [
@@ -3886,7 +3902,13 @@
         },
         "TRAVE 1": {
           "24-07-2025": {
-            "19h": []
+            "19h": [
+              {
+                "nome": "QUADRA_24-07-2025_19-17-28.mp4",
+                "url": "https://drive.google.com/file/d/1BsMipLqV3YI8zaFvZc91FYxrCJdNjyRe/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1BsMipLqV3YI8zaFvZc91FYxrCJdNjyRe"
+              }
+            ]
           },
           "23-07-2025": {
             "22h": [

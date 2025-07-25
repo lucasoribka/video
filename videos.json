@@ -1106,6 +1106,7 @@
         },
         "TRAVE 2": {
           "24-07-2025": {
+            "23h": [],
             "22h": [
               {
                 "nome": "QUADRA_24-07-2025_22-59-49.mp4",
@@ -1510,6 +1511,13 @@
         },
         "AREIA 3": {
           "24-07-2025": {
+            "23h": [
+              {
+                "nome": "QUADRA_24-07-2025_23-14-03.mp4",
+                "url": "https://drive.google.com/file/d/1Lp9oCdgxBiQ9RZXr23MC7unC9IIjvL-V/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Lp9oCdgxBiQ9RZXr23MC7unC9IIjvL-V"
+              }
+            ],
             "22h": [
               {
                 "nome": "QUADRA_24-07-2025_22-31-33.mp4",

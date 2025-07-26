@@ -789,6 +789,11 @@
           "25-07-2025": {
             "21h": [
               {
+                "nome": "QUADRA_25-07-2025_21-15-57.mp4",
+                "url": "https://drive.google.com/file/d/1tXt6ullP5PZPvq8oGXwxLrFxQTsTKH-N/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1tXt6ullP5PZPvq8oGXwxLrFxQTsTKH-N"
+              },
+              {
                 "nome": "QUADRA_25-07-2025_21-08-20.mp4",
                 "url": "https://drive.google.com/file/d/1LJHSxTzWs42tiT1jnp1xmlCR2kSzZV7L/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1LJHSxTzWs42tiT1jnp1xmlCR2kSzZV7L"
@@ -1283,6 +1288,16 @@
         "TRAVE 2": {
           "25-07-2025": {
             "21h": [
+              {
+                "nome": "QUADRA_25-07-2025_21-16-39.mp4",
+                "url": "https://drive.google.com/file/d/1pOUQ9npZ9EngV3NYfr8HyZpymeBeplSv/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1pOUQ9npZ9EngV3NYfr8HyZpymeBeplSv"
+              },
+              {
+                "nome": "QUADRA_25-07-2025_21-16-01.mp4",
+                "url": "https://drive.google.com/file/d/1Uz9pSrTx0peaD5z8VIv-sSXCIKAkHLaP/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Uz9pSrTx0peaD5z8VIv-sSXCIKAkHLaP"
+              },
               {
                 "nome": "QUADRA_25-07-2025_21-05-35.mp4",
                 "url": "https://drive.google.com/file/d/1omHiPE-B2y5heFjvZjNyZL9gG-cWSQA8/preview",
@@ -3035,6 +3050,13 @@
       "RAVENNA": {
         "QUADRA": {
           "25-07-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_25-07-2025_21-18-12.mp4",
+                "url": "https://drive.google.com/file/d/1FRXuEtO_NvYZ6qpH5PXQZWwzHm3kuV6y/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1FRXuEtO_NvYZ6qpH5PXQZWwzHm3kuV6y"
+              }
+            ],
             "20h": [
               {
                 "nome": "QUADRA_25-07-2025_20-48-50.mp4",

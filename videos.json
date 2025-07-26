@@ -10,7 +10,13 @@
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
           "26-07-2025": {
-            "16h": [],
+            "16h": [
+              {
+                "nome": "QUADRA_26-07-2025_16-26-46.mp4",
+                "url": "https://drive.google.com/file/d/1bvsKVnRNm0-uoO0mYQjCDaT-xeDUHUI6/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1bvsKVnRNm0-uoO0mYQjCDaT-xeDUHUI6"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_26-07-2025_15-27-32.mp4",
@@ -1396,6 +1402,11 @@
         "TRAVE 2": {
           "26-07-2025": {
             "16h": [
+              {
+                "nome": "QUADRA_26-07-2025_16-34-14.mp4",
+                "url": "https://drive.google.com/file/d/1752WHVaDUlBmoM5Km_y6djIOxZw1qPv6/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1752WHVaDUlBmoM5Km_y6djIOxZw1qPv6"
+              },
               {
                 "nome": "QUADRA_26-07-2025_16-20-34.mp4",
                 "url": "https://drive.google.com/file/d/1jKLmcUj1trhiXYCXUGvRH6a-rMJZMNcG/preview",
@@ -3256,6 +3267,11 @@
         "QUADRA": {
           "26-07-2025": {
             "16h": [
+              {
+                "nome": "QUADRA_26-07-2025_16-30-16.mp4",
+                "url": "https://drive.google.com/file/d/16eBTz6JaVSsrYt0qwB4x92JSbsrlidQz/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16eBTz6JaVSsrYt0qwB4x92JSbsrlidQz"
+              },
               {
                 "nome": "QUADRA_26-07-2025_16-28-06.mp4",
                 "url": "https://drive.google.com/file/d/1VjFzglkm0gret_974mUjaLJbP7Rdl3iP/preview",
@@ -5225,6 +5241,11 @@
         "TRAVE 2": {
           "26-07-2025": {
             "16h": [
+              {
+                "nome": "QUADRA_26-07-2025_16-31-03.mp4",
+                "url": "https://drive.google.com/file/d/156nERY3Oy3Ld_nL4ZSsnMqceXg1fFS_9/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=156nERY3Oy3Ld_nL4ZSsnMqceXg1fFS_9"
+              },
               {
                 "nome": "QUADRA_26-07-2025_16-27-40.mp4",
                 "url": "https://drive.google.com/file/d/1t9faZFSScqCwM1KEb0LCJwou7KWzm-xW/preview",

@@ -197,6 +197,13 @@
         },
         "QUADRA 2": {
           "29-07-2025": {
+            "17h": [
+              {
+                "nome": "QUADRA_29-07-2025_17-46-57.mp4",
+                "url": "https://drive.google.com/file/d/1iUHQFHvkd7kSug7BxhDYYPJZbz9E2ITt/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1iUHQFHvkd7kSug7BxhDYYPJZbz9E2ITt"
+              }
+            ],
             "16h": [
               {
                 "nome": "QUADRA_29-07-2025_16-53-06.mp4",
@@ -271,6 +278,13 @@
         },
         "QUADRA 1": {
           "29-07-2025": {
+            "17h": [
+              {
+                "nome": "QUADRA_29-07-2025_17-46-48.mp4",
+                "url": "https://drive.google.com/file/d/16fFcYY9ZFPsylszrP7UcIru_XSlWfLYi/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16fFcYY9ZFPsylszrP7UcIru_XSlWfLYi"
+              }
+            ],
             "14h": [
               {
                 "nome": "QUADRA_29-07-2025_14-14-26.mp4",
@@ -1026,6 +1040,11 @@
         "AREIA 1": {
           "29-07-2025": {
             "17h": [
+              {
+                "nome": "QUADRA_29-07-2025_17-49-48.mp4",
+                "url": "https://drive.google.com/file/d/1Vzeh5mDaTHJW3zByzVbifNY5zYiHe7wv/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Vzeh5mDaTHJW3zByzVbifNY5zYiHe7wv"
+              },
               {
                 "nome": "QUADRA_29-07-2025_17-37-17.mp4",
                 "url": "https://drive.google.com/file/d/1qqWK8GQQFcyaDnffTOdnkti-Iy18VsP1/preview",
@@ -2947,7 +2966,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "29-07-2025": {
-            "17h": [],
+            "17h": [
+              {
+                "nome": "QUADRA_29-07-2025_17-47-02.mp4",
+                "url": "https://drive.google.com/file/d/1W9_NfslWpr12lmMjUaCHrOZAizKul-QE/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1W9_NfslWpr12lmMjUaCHrOZAizKul-QE"
+              }
+            ],
             "07h": [
               {
                 "nome": "QUADRA_29-07-2025_07-51-11.mp4",

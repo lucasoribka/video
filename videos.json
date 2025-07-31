@@ -508,6 +508,13 @@
         },
         "QUADRA 1": {
           "31-07-2025": {
+            "16h": [
+              {
+                "nome": "QUADRA_31-07-2025_16-59-26.mp4",
+                "url": "https://drive.google.com/file/d/1GsIYYTiWj5HoaDYaNVFx6vln44zRZwkb/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1GsIYYTiWj5HoaDYaNVFx6vln44zRZwkb"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_31-07-2025_15-35-44.mp4",
@@ -2263,6 +2270,15 @@
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
+          "31-07-2025": {
+            "17h": [
+              {
+                "nome": "QUADRA_31-07-2025_17-00-42.mp4",
+                "url": "https://drive.google.com/file/d/1WzNXdy6kRFIZQLiwGWcI-GuXmy-Z0Y4u/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1WzNXdy6kRFIZQLiwGWcI-GuXmy-Z0Y4u"
+              }
+            ]
+          },
           "30-07-2025": {
             "19h": [
               {

@@ -477,6 +477,9 @@
           }
         },
         "QUADRA 1": {
+          "31-07-2025": {
+            "07h": []
+          },
           "30-07-2025": {
             "22h": [
               {
@@ -4452,6 +4455,11 @@
         "QUADRA": {
           "31-07-2025": {
             "07h": [
+              {
+                "nome": "QUADRA_31-07-2025_07-40-58.mp4",
+                "url": "https://drive.google.com/file/d/1P2hxc2BhdAKqyvk-_59Uu1Bvgbks3koZ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1P2hxc2BhdAKqyvk-_59Uu1Bvgbks3koZ"
+              },
               {
                 "nome": "QUADRA_31-07-2025_07-21-49.mp4",
                 "url": "https://drive.google.com/file/d/1bRERy4t8c-T1e2IlQL1zHUHqiKATRKK5/preview",

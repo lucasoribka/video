@@ -4521,6 +4521,7 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "01-08-2025": {
+            "20h": [],
             "19h": [
               {
                 "nome": "QUADRA_01-08-2025_19-51-35.mp4",
@@ -5818,7 +5819,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "01-08-2025": {
-            "19h": [],
+            "19h": [
+              {
+                "nome": "QUADRA_01-08-2025_19-56-55.mp4",
+                "url": "https://drive.google.com/file/d/15aBMPqFFIJL6KQYRoI52p1oIc6V6wJLc/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=15aBMPqFFIJL6KQYRoI52p1oIc6V6wJLc"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_01-08-2025_18-47-31.mp4",

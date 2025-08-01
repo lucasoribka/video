@@ -794,6 +794,11 @@
           "01-08-2025": {
             "19h": [
               {
+                "nome": "QUADRA_01-08-2025_19-28-16.mp4",
+                "url": "https://drive.google.com/file/d/1ok4BaT8t22tERbLy0lOIdhI0f4U0dmbA/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ok4BaT8t22tERbLy0lOIdhI0f4U0dmbA"
+              },
+              {
                 "nome": "QUADRA_01-08-2025_19-09-28.mp4",
                 "url": "https://drive.google.com/file/d/17xv5whVxtQGZhwoEd8DsPswXpQ6_6-Oq/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=17xv5whVxtQGZhwoEd8DsPswXpQ6_6-Oq"
@@ -1275,6 +1280,11 @@
         "TRAVE 2": {
           "01-08-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_01-08-2025_19-32-16.mp4",
+                "url": "https://drive.google.com/file/d/12ySe-7qhG4lA4MXtNtT3L5pKxmKwyGmu/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=12ySe-7qhG4lA4MXtNtT3L5pKxmKwyGmu"
+              },
               {
                 "nome": "QUADRA_01-08-2025_19-13-15.mp4",
                 "url": "https://drive.google.com/file/d/10RNn-fZ4wTyFs1Q4y7605UhJGnR43UsH/preview",
@@ -2958,6 +2968,16 @@
         "QUADRA": {
           "01-08-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_01-08-2025_19-31-40.mp4",
+                "url": "https://drive.google.com/file/d/1d6AhHV3RI1G_IbODpWFvgwTMsWtiTL6E/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1d6AhHV3RI1G_IbODpWFvgwTMsWtiTL6E"
+              },
+              {
+                "nome": "QUADRA_01-08-2025_19-29-57.mp4",
+                "url": "https://drive.google.com/file/d/1pg5u9pHAqfRPVojzCTxPF6_lViS0_Orm/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1pg5u9pHAqfRPVojzCTxPF6_lViS0_Orm"
+              },
               {
                 "nome": "QUADRA_01-08-2025_19-27-16.mp4",
                 "url": "https://drive.google.com/file/d/1q4I3OiC9Voaj7bNPwlSQlC1eG1m_zZBM/preview",

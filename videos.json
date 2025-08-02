@@ -469,6 +469,11 @@
           "02-08-2025": {
             "15h": [
               {
+                "nome": "QUADRA_02-08-2025_15-39-33.mp4",
+                "url": "https://drive.google.com/file/d/18RzcmdJN0CLbhlKhdwubFpZU5dd3ltp1/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=18RzcmdJN0CLbhlKhdwubFpZU5dd3ltp1"
+              },
+              {
                 "nome": "QUADRA_02-08-2025_15-23-07.mp4",
                 "url": "https://drive.google.com/file/d/1AyUUnD5hhRxobQ4y7QMIPQrIkDXm0jVd/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1AyUUnD5hhRxobQ4y7QMIPQrIkDXm0jVd"
@@ -1268,6 +1273,11 @@
           "02-08-2025": {
             "15h": [
               {
+                "nome": "QUADRA_02-08-2025_15-40-54.mp4",
+                "url": "https://drive.google.com/file/d/1t_FfNIdFptN-7pKGZIOFM2U6bLrUuM_J/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1t_FfNIdFptN-7pKGZIOFM2U6bLrUuM_J"
+              },
+              {
                 "nome": "QUADRA_02-08-2025_15-26-58.mp4",
                 "url": "https://drive.google.com/file/d/1I8-8qck-Py_Xi0jNmICX5j8CRRU3eWJ1/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1I8-8qck-Py_Xi0jNmICX5j8CRRU3eWJ1"
@@ -1857,6 +1867,20 @@
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
+          "02-08-2025": {
+            "15h": [
+              {
+                "nome": "QUADRA_02-08-2025_15-41-52.mp4",
+                "url": "https://drive.google.com/file/d/1dZ-e7ESR4sawz5UZbs_snLKj023_OpuD/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1dZ-e7ESR4sawz5UZbs_snLKj023_OpuD"
+              },
+              {
+                "nome": "QUADRA_02-08-2025_15-40-47.mp4",
+                "url": "https://drive.google.com/file/d/1bsLh6peaC-eg434RDXMXw9KnyxRyH-99/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1bsLh6peaC-eg434RDXMXw9KnyxRyH-99"
+              }
+            ]
+          },
           "01-08-2025": {
             "21h": [
               {

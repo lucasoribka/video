@@ -1287,6 +1287,16 @@
           "02-08-2025": {
             "15h": [
               {
+                "nome": "QUADRA_02-08-2025_15-46-58.mp4",
+                "url": "https://drive.google.com/file/d/1fekJ6yqJ44O2teT_PP79rc03DgzMW-rR/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1fekJ6yqJ44O2teT_PP79rc03DgzMW-rR"
+              },
+              {
+                "nome": "QUADRA_02-08-2025_15-44-31.mp4",
+                "url": "https://drive.google.com/file/d/1wrtNjNOL7XSrrx6MT2CdF7W-XAEd0T1m/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1wrtNjNOL7XSrrx6MT2CdF7W-XAEd0T1m"
+              },
+              {
                 "nome": "QUADRA_02-08-2025_15-43-03.mp4",
                 "url": "https://drive.google.com/file/d/1nWi0h-OQUALaiEUidbkgTJKMdxEXG76g/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1nWi0h-OQUALaiEUidbkgTJKMdxEXG76g"
@@ -1897,6 +1907,13 @@
       "RAVENNA": {
         "QUADRA": {
           "02-08-2025": {
+            "16h": [
+              {
+                "nome": "QUADRA_02-08-2025_16-01-15.mp4",
+                "url": "https://drive.google.com/file/d/1JknRNw-nrG0wNPELL5L3AAy1xyCsXBnn/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1JknRNw-nrG0wNPELL5L3AAy1xyCsXBnn"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_02-08-2025_15-42-23.mp4",

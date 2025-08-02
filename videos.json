@@ -2890,6 +2890,13 @@
       "PAIOL": {
         "TRAVE 2": {
           "02-08-2025": {
+            "14h": [
+              {
+                "nome": "QUADRA_02-08-2025_14-56-31.mp4",
+                "url": "https://drive.google.com/file/d/1MX6hAJtptpdUQf_gKZZm7TfltGCiWptn/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1MX6hAJtptpdUQf_gKZZm7TfltGCiWptn"
+              }
+            ],
             "09h": [
               {
                 "nome": "QUADRA_02-08-2025_09-26-41.mp4",
@@ -3282,6 +3289,11 @@
         "QUADRA": {
           "02-08-2025": {
             "14h": [
+              {
+                "nome": "QUADRA_02-08-2025_14-55-23.mp4",
+                "url": "https://drive.google.com/file/d/145Rf0CcfOAhe5dVNTyK9DtLhZQzv5cvk/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=145Rf0CcfOAhe5dVNTyK9DtLhZQzv5cvk"
+              },
               {
                 "nome": "QUADRA_02-08-2025_14-47-46.mp4",
                 "url": "https://drive.google.com/file/d/1A0kmwH4jCyJUDxCaFshorEhdcDaSyzc4/preview",

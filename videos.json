@@ -1563,6 +1563,13 @@
         },
         "AREIA 3": {
           "03-08-2025": {
+            "16h": [
+              {
+                "nome": "QUADRA_03-08-2025_16-10-04.mp4",
+                "url": "https://drive.google.com/file/d/1a40Fx6a9txOYSIE8Tlq_sP4LpVFf-zkR/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1a40Fx6a9txOYSIE8Tlq_sP4LpVFf-zkR"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_03-08-2025_15-54-40.mp4",
@@ -3096,7 +3103,13 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "03-08-2025": {
-            "16h": [],
+            "16h": [
+              {
+                "nome": "QUADRA_03-08-2025_16-04-23.mp4",
+                "url": "https://drive.google.com/file/d/1haTtrddxSHZfJm8jSGHdtK4GHxZFk0SY/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1haTtrddxSHZfJm8jSGHdtK4GHxZFk0SY"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_03-08-2025_15-57-24.mp4",

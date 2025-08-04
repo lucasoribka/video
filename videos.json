@@ -440,6 +440,11 @@
           "04-08-2025": {
             "19h": [
               {
+                "nome": "QUADRA_04-08-2025_19-38-56.mp4",
+                "url": "https://drive.google.com/file/d/1rZfT6iwT17rxw1hOlHVaKBE7yookq1TU/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1rZfT6iwT17rxw1hOlHVaKBE7yookq1TU"
+              },
+              {
                 "nome": "QUADRA_04-08-2025_19-01-47.mp4",
                 "url": "https://drive.google.com/file/d/1SXZoz-FFbdHRurrzyu3z1YnYTStAbnE9/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1SXZoz-FFbdHRurrzyu3z1YnYTStAbnE9"
@@ -998,6 +1003,30 @@
           }
         },
         "AREIA 3": {
+          "04-08-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_04-08-2025_19-40-05.mp4",
+                "url": "https://drive.google.com/file/d/1Q-nXuVQQKMmBhKmmZeyVlJLzmszQtI9l/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Q-nXuVQQKMmBhKmmZeyVlJLzmszQtI9l"
+              },
+              {
+                "nome": "QUADRA_04-08-2025_19-37-34.mp4",
+                "url": "https://drive.google.com/file/d/1WgTaPO5EItZn5Q8wREV12WQQLExGSsSA/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1WgTaPO5EItZn5Q8wREV12WQQLExGSsSA"
+              },
+              {
+                "nome": "QUADRA_04-08-2025_19-36-23.mp4",
+                "url": "https://drive.google.com/file/d/1lmOFcTDiu5-MgrEUipvTpW6JAZcT5hQQ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1lmOFcTDiu5-MgrEUipvTpW6JAZcT5hQQ"
+              },
+              {
+                "nome": "QUADRA_04-08-2025_19-35-49.mp4",
+                "url": "https://drive.google.com/file/d/1Gjc8gi5meRzmiktZwjqtWjb9IYgcmmmO/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Gjc8gi5meRzmiktZwjqtWjb9IYgcmmmO"
+              }
+            ]
+          },
           "03-08-2025": {
             "16h": [
               {

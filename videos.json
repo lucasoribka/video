@@ -452,6 +452,11 @@
           "05-08-2025": {
             "10h": [
               {
+                "nome": "QUADRA_05-08-2025_10-17-58.mp4",
+                "url": "https://drive.google.com/file/d/1XXvQpPSiQ0mm5v9lfly0Fga5Ty0ByALW/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1XXvQpPSiQ0mm5v9lfly0Fga5Ty0ByALW"
+              },
+              {
                 "nome": "QUADRA_05-08-2025_10-06-38.mp4",
                 "url": "https://drive.google.com/file/d/1RPs1DXieBVETyqP9V0DHo1uWXN1xah0R/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1RPs1DXieBVETyqP9V0DHo1uWXN1xah0R"
@@ -907,6 +912,13 @@
         },
         "TRAVE 2": {
           "05-08-2025": {
+            "10h": [
+              {
+                "nome": "QUADRA_05-08-2025_10-14-52.mp4",
+                "url": "https://drive.google.com/file/d/1E-H-MUT4dZmC3nflI8BowPudxxJ__TiR/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1E-H-MUT4dZmC3nflI8BowPudxxJ__TiR"
+              }
+            ],
             "08h": [
               {
                 "nome": "QUADRA_05-08-2025_08-38-11.mp4",

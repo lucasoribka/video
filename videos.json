@@ -9,6 +9,15 @@
     "MAFRA-SC": {
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
+          "05-08-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_05-08-2025_20-15-05.mp4",
+                "url": "https://drive.google.com/file/d/1VEuIHv2klK2b6GdOs4xsborYIDlM4G2P/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1VEuIHv2klK2b6GdOs4xsborYIDlM4G2P"
+              }
+            ]
+          },
           "04-08-2025": {
             "09h": [
               {
@@ -1165,6 +1174,7 @@
         },
         "AREIA 1": {
           "05-08-2025": {
+            "20h": [],
             "19h": [
               {
                 "nome": "QUADRA_05-08-2025_19-09-47.mp4",
@@ -3082,6 +3092,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "05-08-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_05-08-2025_20-19-12.mp4",
+                "url": "https://drive.google.com/file/d/119xG1SRqQayiwpOHlkuy6mP3nRitZkll/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=119xG1SRqQayiwpOHlkuy6mP3nRitZkll"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_05-08-2025_19-22-59.mp4",

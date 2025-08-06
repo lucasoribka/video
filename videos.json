@@ -2085,6 +2085,9 @@
     "RIO NEGRO-PR": {
       "STALL BEACH - BOM JESUS": {
         "QUADRA 5": {
+          "24-07-2025": {
+            "15h": []
+          },
           "23-07-2025": {
             "21h": [
               {
@@ -2255,6 +2258,49 @@
           }
         },
         "QUADRA 4": {
+          "24-07-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_24-07-2025_21-24-19.mp4",
+                "url": "https://drive.google.com/file/d/1Y5-V6c--jOgJbuWsITsQrCmKGKdABpvI/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Y5-V6c--jOgJbuWsITsQrCmKGKdABpvI"
+              },
+              {
+                "nome": "QUADRA_24-07-2025_21-09-35.mp4",
+                "url": "https://drive.google.com/file/d/1jMxnelqxXEzSZ2U4tBs6tyVDhPm--h63/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1jMxnelqxXEzSZ2U4tBs6tyVDhPm--h63"
+              }
+            ],
+            "20h": [
+              {
+                "nome": "QUADRA_24-07-2025_20-37-40.mp4",
+                "url": "https://drive.google.com/file/d/14RO2kgMOTPUuc0-atBykizOJqjcrzi-s/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=14RO2kgMOTPUuc0-atBykizOJqjcrzi-s"
+              }
+            ],
+            "19h": [
+              {
+                "nome": "QUADRA_24-07-2025_19-36-33.mp4",
+                "url": "https://drive.google.com/file/d/1tCMNx_rzkCPUjaHRCvNuX-evOhz9c3x5/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1tCMNx_rzkCPUjaHRCvNuX-evOhz9c3x5"
+              },
+              {
+                "nome": "QUADRA_24-07-2025_19-32-43.mp4",
+                "url": "https://drive.google.com/file/d/1qC8Fxu5vnIY4ADllOf_bSGwCH3tdJOBc/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1qC8Fxu5vnIY4ADllOf_bSGwCH3tdJOBc"
+              },
+              {
+                "nome": "QUADRA_24-07-2025_19-25-09.mp4",
+                "url": "https://drive.google.com/file/d/1CJ6VAQvZV1oABMzYJkpLAFSRdEx3yPMw/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1CJ6VAQvZV1oABMzYJkpLAFSRdEx3yPMw"
+              },
+              {
+                "nome": "QUADRA_24-07-2025_19-13-36.mp4",
+                "url": "https://drive.google.com/file/d/18oWIkG85T664k-vmMWFe8wd4xLvOYyL6/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=18oWIkG85T664k-vmMWFe8wd4xLvOYyL6"
+              }
+            ]
+          },
           "23-07-2025": {
             "21h": [
               {

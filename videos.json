@@ -258,6 +258,7 @@
         },
         "QUADRA 1": {
           "06-08-2025": {
+            "19h": [],
             "08h": [
               {
                 "nome": "QUADRA_06-08-2025_08-37-39.mp4",
@@ -1549,6 +1550,13 @@
       "RAVENNA": {
         "QUADRA": {
           "06-08-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_06-08-2025_19-28-24.mp4",
+                "url": "https://drive.google.com/file/d/1YtRLkZRjRBQi8b9rTRI70waXI93pnHWB/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1YtRLkZRjRBQi8b9rTRI70waXI93pnHWB"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_06-08-2025_18-56-05.mp4",
@@ -2407,6 +2415,13 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "06-08-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_06-08-2025_19-28-08.mp4",
+                "url": "https://drive.google.com/file/d/1k16HFPUQYQnhz-ug7LkUOhs-2kh6DKNh/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1k16HFPUQYQnhz-ug7LkUOhs-2kh6DKNh"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_06-08-2025_18-52-27.mp4",
@@ -3147,6 +3162,11 @@
         "TRAVE 1": {
           "06-08-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_06-08-2025_19-27-34.mp4",
+                "url": "https://drive.google.com/file/d/1Sm9qexf23otiTKuknSna8AYqh9mY7wN5/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Sm9qexf23otiTKuknSna8AYqh9mY7wN5"
+              },
               {
                 "nome": "QUADRA_06-08-2025_19-17-23.mp4",
                 "url": "https://drive.google.com/file/d/1-NI3AONFk9cZwto0kRuh_6Swo8uGZtuv/preview",

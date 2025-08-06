@@ -1628,7 +1628,25 @@
       "STALL BEACH - BOM JESUS": {
         "QUADRA 5": {
           "30-07-2025": {
-            "19h": []
+            "21h": [
+              {
+                "nome": "QUADRA_30-07-2025_21-08-39.mp4",
+                "url": "https://drive.google.com/file/d/1m7IMyII5zoIiAzxA3VxNaeolgzJ4U1Ff/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1m7IMyII5zoIiAzxA3VxNaeolgzJ4U1Ff"
+              }
+            ],
+            "19h": [
+              {
+                "nome": "QUADRA_30-07-2025_19-53-04.mp4",
+                "url": "https://drive.google.com/file/d/1oGwL1WhPOysd5K9iKc_pFJ9MPVwuOPIk/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1oGwL1WhPOysd5K9iKc_pFJ9MPVwuOPIk"
+              },
+              {
+                "nome": "QUADRA_30-07-2025_19-21-26.mp4",
+                "url": "https://drive.google.com/file/d/1NAMZw2IIfRiJh99gwPcYfa_fHWkAGBMB/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1NAMZw2IIfRiJh99gwPcYfa_fHWkAGBMB"
+              }
+            ]
           },
           "28-07-2025": {
             "19h": [
@@ -2161,6 +2179,15 @@
       },
       "ARENA MAIDL": {
         "QUADRA": {
+          "06-08-2025": {
+            "13h": [
+              {
+                "nome": "QUADRA_06-08-2025_13-26-37.mp4",
+                "url": "https://drive.google.com/file/d/17HdlgVyidcQ213O-TLoS7dEhk2fqu042/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=17HdlgVyidcQ213O-TLoS7dEhk2fqu042"
+              }
+            ]
+          },
           "05-08-2025": {
             "22h": [
               {

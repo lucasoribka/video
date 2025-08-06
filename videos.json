@@ -773,6 +773,11 @@
           "06-08-2025": {
             "19h": [
               {
+                "nome": "QUADRA_06-08-2025_19-10-10.mp4",
+                "url": "https://drive.google.com/file/d/1OGUvf1GVbm7vsAba9iFElFFyn18Snx-3/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1OGUvf1GVbm7vsAba9iFElFFyn18Snx-3"
+              },
+              {
                 "nome": "QUADRA_06-08-2025_19-08-47.mp4",
                 "url": "https://drive.google.com/file/d/1Tj3YqDZr69KEMrA2VuSMosvmxuMipe9v/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Tj3YqDZr69KEMrA2VuSMosvmxuMipe9v"
@@ -1128,6 +1133,18 @@
         },
         "AREIA 3": {
           "06-08-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_06-08-2025_19-15-57.mp4",
+                "url": "https://drive.google.com/file/d/1Jwj0grtLC9sXsEnxGLPfS2X21F5mbAFK/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Jwj0grtLC9sXsEnxGLPfS2X21F5mbAFK"
+              },
+              {
+                "nome": "QUADRA_06-08-2025_19-12-44.mp4",
+                "url": "https://drive.google.com/file/d/1zSecRqr0gdLvRnjyRKbVW6BbCLHWbsg0/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1zSecRqr0gdLvRnjyRKbVW6BbCLHWbsg0"
+              }
+            ],
             "13h": [
               {
                 "nome": "QUADRA_06-08-2025_13-43-45.mp4",
@@ -3099,6 +3116,20 @@
           }
         },
         "TRAVE 1": {
+          "06-08-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_06-08-2025_19-17-23.mp4",
+                "url": "https://drive.google.com/file/d/1-NI3AONFk9cZwto0kRuh_6Swo8uGZtuv/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1-NI3AONFk9cZwto0kRuh_6Swo8uGZtuv"
+              },
+              {
+                "nome": "QUADRA_06-08-2025_19-12-16.mp4",
+                "url": "https://drive.google.com/file/d/1cCfCfw6AG7E_QN9EBdiQt7WSQCnB9KXF/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1cCfCfw6AG7E_QN9EBdiQt7WSQCnB9KXF"
+              }
+            ]
+          },
           "05-08-2025": {
             "21h": [
               {

@@ -2918,6 +2918,11 @@
           "07-08-2025": {
             "19h": [
               {
+                "nome": "QUADRA_07-08-2025_19-38-50.mp4",
+                "url": "https://drive.google.com/file/d/1FJgRHG8MAU-m-uNur4pv44h8EyS2qw80/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1FJgRHG8MAU-m-uNur4pv44h8EyS2qw80"
+              },
+              {
                 "nome": "QUADRA_07-08-2025_19-27-18.mp4",
                 "url": "https://drive.google.com/file/d/1Dq0r6GueTVh4zQSa3P2_oixwq86UJ4ws/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Dq0r6GueTVh4zQSa3P2_oixwq86UJ4ws"
@@ -3170,6 +3175,11 @@
         "QUADRA": {
           "07-08-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_07-08-2025_19-43-51.mp4",
+                "url": "https://drive.google.com/file/d/1rkmY9xRlYK2i_GG2qotc8BjVHOg2KzrA/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1rkmY9xRlYK2i_GG2qotc8BjVHOg2KzrA"
+              },
               {
                 "nome": "QUADRA_07-08-2025_19-33-03.mp4",
                 "url": "https://drive.google.com/file/d/1mrAQds1VtnsOD1DEDeT-D9aoNOWeKjAU/preview",
@@ -3818,6 +3828,20 @@
       },
       "PAIOL": {
         "TRAVE 2": {
+          "07-08-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_07-08-2025_19-43-33.mp4",
+                "url": "https://drive.google.com/file/d/12NoUUs7R3Q_uh3sNK9ZPJcYahWrnJuNO/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=12NoUUs7R3Q_uh3sNK9ZPJcYahWrnJuNO"
+              },
+              {
+                "nome": "QUADRA_07-08-2025_19-43-05.mp4",
+                "url": "https://drive.google.com/file/d/1pvDkEDszSf7csOqTXZ_zsqwpxLLR890b/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1pvDkEDszSf7csOqTXZ_zsqwpxLLR890b"
+              }
+            ]
+          },
           "06-08-2025": {
             "22h": [
               {

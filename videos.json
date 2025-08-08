@@ -468,6 +468,7 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "07-08-2025": {
+            "23h": [],
             "22h": [
               {
                 "nome": "QUADRA_07-08-2025_22-48-31.mp4",
@@ -870,6 +871,13 @@
         },
         "TRAVE 2": {
           "07-08-2025": {
+            "23h": [
+              {
+                "nome": "QUADRA_07-08-2025_23-09-25.mp4",
+                "url": "https://drive.google.com/file/d/1p7GKtnWqGCwM0wTz2FLeKa9k9He4YqCA/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1p7GKtnWqGCwM0wTz2FLeKa9k9He4YqCA"
+              }
+            ],
             "22h": [
               {
                 "nome": "QUADRA_07-08-2025_22-46-10.mp4",
@@ -2188,6 +2196,13 @@
       "STALL BEACH - BOM JESUS": {
         "QUADRA 5": {
           "07-08-2025": {
+            "23h": [
+              {
+                "nome": "QUADRA_07-08-2025_23-03-58.mp4",
+                "url": "https://drive.google.com/file/d/1EngVKt5U32A8-dh699aOVHlxwgfhO1-0/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1EngVKt5U32A8-dh699aOVHlxwgfhO1-0"
+              }
+            ],
             "22h": [
               {
                 "nome": "QUADRA_07-08-2025_22-58-34.mp4",
@@ -2290,6 +2305,13 @@
         },
         "QUADRA 4": {
           "07-08-2025": {
+            "23h": [
+              {
+                "nome": "QUADRA_07-08-2025_23-07-03.mp4",
+                "url": "https://drive.google.com/file/d/1Ye-x49wGimKTZC2ZNO3qeOta9Ixaq84m/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Ye-x49wGimKTZC2ZNO3qeOta9Ixaq84m"
+              }
+            ],
             "22h": [
               {
                 "nome": "QUADRA_07-08-2025_22-21-00.mp4",

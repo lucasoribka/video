@@ -543,6 +543,13 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "08-08-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_08-08-2025_21-14-35.mp4",
+                "url": "https://drive.google.com/file/d/1A30SGuwShyApOVPrCLtIbzBJFKVOOTJV/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1A30SGuwShyApOVPrCLtIbzBJFKVOOTJV"
+              }
+            ],
             "20h": [
               {
                 "nome": "QUADRA_08-08-2025_20-42-15.mp4",
@@ -2278,6 +2285,11 @@
           "08-08-2025": {
             "21h": [
               {
+                "nome": "QUADRA_08-08-2025_21-17-04.mp4",
+                "url": "https://drive.google.com/file/d/1vzGTqeJDhxwh9hoUJYzJLwUhWmcJwMSd/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1vzGTqeJDhxwh9hoUJYzJLwUhWmcJwMSd"
+              },
+              {
                 "nome": "QUADRA_08-08-2025_21-08-47.mp4",
                 "url": "https://drive.google.com/file/d/1DHQZ8NSqokizbiG-VYs0yLb2gRKV86lP/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1DHQZ8NSqokizbiG-VYs0yLb2gRKV86lP"
@@ -2803,6 +2815,15 @@
     "RIO NEGRO-PR": {
       "STALL BEACH - BOM JESUS": {
         "QUADRA 5": {
+          "08-08-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_08-08-2025_21-11-12.mp4",
+                "url": "https://drive.google.com/file/d/1LH0qCC71uap8SbFXzorhvDpT-1aCXK1Q/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1LH0qCC71uap8SbFXzorhvDpT-1aCXK1Q"
+              }
+            ]
+          },
           "07-08-2025": {
             "23h": [
               {
@@ -4003,6 +4024,7 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "08-08-2025": {
+            "21h": [],
             "20h": [
               {
                 "nome": "QUADRA_08-08-2025_20-41-42.mp4",

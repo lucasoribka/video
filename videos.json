@@ -9,6 +9,15 @@
     "MAFRA-SC": {
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
+          "08-08-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_08-08-2025_21-17-48.mp4",
+                "url": "https://drive.google.com/file/d/1G7vFSbC_dntm4P0Fx3iTD_yJHTM3KTqy/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1G7vFSbC_dntm4P0Fx3iTD_yJHTM3KTqy"
+              }
+            ]
+          },
           "07-08-2025": {
             "19h": [
               {
@@ -544,6 +553,16 @@
         "TRAVE 1": {
           "08-08-2025": {
             "21h": [
+              {
+                "nome": "QUADRA_08-08-2025_21-22-37.mp4",
+                "url": "https://drive.google.com/file/d/128Gn6GSGww50vT7eds2nJOhZiOhCu3mW/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=128Gn6GSGww50vT7eds2nJOhZiOhCu3mW"
+              },
+              {
+                "nome": "QUADRA_08-08-2025_21-18-50.mp4",
+                "url": "https://drive.google.com/file/d/1qhry8WlIQ7WAXoh5Xu1wiVOLoW71qihj/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1qhry8WlIQ7WAXoh5Xu1wiVOLoW71qihj"
+              },
               {
                 "nome": "QUADRA_08-08-2025_21-14-35.mp4",
                 "url": "https://drive.google.com/file/d/1A30SGuwShyApOVPrCLtIbzBJFKVOOTJV/preview",
@@ -4024,7 +4043,18 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "08-08-2025": {
-            "21h": [],
+            "21h": [
+              {
+                "nome": "QUADRA_08-08-2025_21-21-50.mp4",
+                "url": "https://drive.google.com/file/d/1TDB4572aXpGY9f2HJVlBaykIEIkfDw7P/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1TDB4572aXpGY9f2HJVlBaykIEIkfDw7P"
+              },
+              {
+                "nome": "QUADRA_08-08-2025_21-18-22.mp4",
+                "url": "https://drive.google.com/file/d/1w1meV5RWVdLCG6AeXlC7bWt1unRs0r_q/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1w1meV5RWVdLCG6AeXlC7bWt1unRs0r_q"
+              }
+            ],
             "20h": [
               {
                 "nome": "QUADRA_08-08-2025_20-41-42.mp4",

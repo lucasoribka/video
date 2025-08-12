@@ -2045,6 +2045,28 @@
         },
         "AREIA 1": {
           "12-08-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_12-08-2025_18-12-09.mp4",
+                "url": "https://drive.google.com/file/d/1UeNXpynGOb7N8Zr-fIjz9XWPn03d_JXt/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1UeNXpynGOb7N8Zr-fIjz9XWPn03d_JXt"
+              },
+              {
+                "nome": "QUADRA_12-08-2025_18-07-50.mp4",
+                "url": "https://drive.google.com/file/d/1ya03oR2r3vdnHr09MNC1f2RBsa7kV9-F/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ya03oR2r3vdnHr09MNC1f2RBsa7kV9-F"
+              },
+              {
+                "nome": "QUADRA_12-08-2025_18-06-51.mp4",
+                "url": "https://drive.google.com/file/d/10yZx5Tr1WAW7cf7VsufdsHIdaT4q-lI8/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=10yZx5Tr1WAW7cf7VsufdsHIdaT4q-lI8"
+              },
+              {
+                "nome": "QUADRA_12-08-2025_18-04-53.mp4",
+                "url": "https://drive.google.com/file/d/1VzvmVUTcQ20TFOuWEOcRTmgyNSkFp-0S/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1VzvmVUTcQ20TFOuWEOcRTmgyNSkFp-0S"
+              }
+            ],
             "16h": [
               {
                 "nome": "QUADRA_12-08-2025_16-55-03.mp4",
@@ -2512,6 +2534,15 @@
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
+          "12-08-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_12-08-2025_18-12-44.mp4",
+                "url": "https://drive.google.com/file/d/1JDsdbfDk3A4LSqYN9BMzF-6pD6Mo9eCy/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1JDsdbfDk3A4LSqYN9BMzF-6pD6Mo9eCy"
+              }
+            ]
+          },
           "11-08-2025": {
             "21h": [
               {
@@ -4231,6 +4262,18 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "12-08-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_12-08-2025_18-09-55.mp4",
+                "url": "https://drive.google.com/file/d/1Wu2IefqhqzSawEzPWxhNP8Kko3ZWPwjn/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Wu2IefqhqzSawEzPWxhNP8Kko3ZWPwjn"
+              },
+              {
+                "nome": "QUADRA_12-08-2025_18-01-57.mp4",
+                "url": "https://drive.google.com/file/d/1zwp5FFAVdOn2CmM3dOcfxwDSng85A4Xc/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1zwp5FFAVdOn2CmM3dOcfxwDSng85A4Xc"
+              }
+            ],
             "17h": [
               {
                 "nome": "QUADRA_12-08-2025_17-53-13.mp4",

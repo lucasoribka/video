@@ -1778,6 +1778,13 @@
       "RAVENNA": {
         "QUADRA": {
           "12-08-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_12-08-2025_21-07-06.mp4",
+                "url": "https://drive.google.com/file/d/1tgDM-7p2O8d1jGTZqI8uJ5Cba9igFPtA/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1tgDM-7p2O8d1jGTZqI8uJ5Cba9igFPtA"
+              }
+            ],
             "20h": [
               {
                 "nome": "QUADRA_12-08-2025_20-28-19.mp4",
@@ -2194,7 +2201,17 @@
     "RIO NEGRO-PR": {
       "ARENA PASSA TRÊS": {
         "TRAVE 2": {},
-        "TRAVE 1": {}
+        "TRAVE 1": {
+          "12-08-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_12-08-2025_21-04-02.mp4",
+                "url": "https://drive.google.com/file/d/15ciKHN-bUv0xTDImEypUywmcRnAtalZS/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=15ciKHN-bUv0xTDImEypUywmcRnAtalZS"
+              }
+            ]
+          }
+        }
       },
       "ARENA MAIDL": {
         "QUADRA": {

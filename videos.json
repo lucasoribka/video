@@ -247,6 +247,26 @@
           "13-08-2025": {
             "10h": [
               {
+                "nome": "QUADRA_13-08-2025_10-59-26.mp4",
+                "url": "https://drive.google.com/file/d/1RT7pzN1trrB7tWZJ2z68L7L67RwgxLHl/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1RT7pzN1trrB7tWZJ2z68L7L67RwgxLHl"
+              },
+              {
+                "nome": "QUADRA_13-08-2025_10-56-41.mp4",
+                "url": "https://drive.google.com/file/d/1RhEOCgDE_9-2Niul8wSryrgd494nW_Hy/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1RhEOCgDE_9-2Niul8wSryrgd494nW_Hy"
+              },
+              {
+                "nome": "QUADRA_13-08-2025_10-56-05.mp4",
+                "url": "https://drive.google.com/file/d/1DJ1HmUR2GVynXJo-NogTDjkdZQ7b5ZIp/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1DJ1HmUR2GVynXJo-NogTDjkdZQ7b5ZIp"
+              },
+              {
+                "nome": "QUADRA_13-08-2025_10-55-07.mp4",
+                "url": "https://drive.google.com/file/d/1fUcKyufh--zlilHVfiqvdwahmJHZ__S6/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1fUcKyufh--zlilHVfiqvdwahmJHZ__S6"
+              },
+              {
                 "nome": "QUADRA_13-08-2025_10-42-33.mp4",
                 "url": "https://drive.google.com/file/d/14WLALNbkLdluG6Jt1Rlyi_FZctlNNdKX/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=14WLALNbkLdluG6Jt1Rlyi_FZctlNNdKX"
@@ -1367,7 +1387,13 @@
         },
         "AREIA 3": {
           "13-08-2025": {
-            "10h": []
+            "10h": [
+              {
+                "nome": "QUADRA_13-08-2025_10-55-03.mp4",
+                "url": "https://drive.google.com/file/d/1pJ6WIseB_Vf27U6KTWuUzwDh8mN0obs5/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1pJ6WIseB_Vf27U6KTWuUzwDh8mN0obs5"
+              }
+            ]
           },
           "12-08-2025": {
             "20h": [

@@ -374,7 +374,13 @@
         },
         "QUADRA 1": {
           "13-08-2025": {
-            "16h": []
+            "16h": [
+              {
+                "nome": "QUADRA_13-08-2025_16-08-53.mp4",
+                "url": "https://drive.google.com/file/d/1F_F4KCiesa4ochHv1V3K2C4_EENqNCMw/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1F_F4KCiesa4ochHv1V3K2C4_EENqNCMw"
+              }
+            ]
           },
           "12-08-2025": {
             "19h": [

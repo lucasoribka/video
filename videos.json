@@ -167,6 +167,11 @@
           "14-08-2025": {
             "14h": [
               {
+                "nome": "QUADRA_14-08-2025_14-38-39.mp4",
+                "url": "https://drive.google.com/file/d/1n-EP32AD3pC801CTwzRi8IkHiUXnaxRj/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1n-EP32AD3pC801CTwzRi8IkHiUXnaxRj"
+              },
+              {
                 "nome": "QUADRA_14-08-2025_14-30-19.mp4",
                 "url": "https://drive.google.com/file/d/1rz0e2tWBPAn-eATBKguiBUe_H7aeqUxk/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1rz0e2tWBPAn-eATBKguiBUe_H7aeqUxk"
@@ -567,6 +572,11 @@
         "TRAVE 1": {
           "14-08-2025": {
             "14h": [
+              {
+                "nome": "QUADRA_14-08-2025_14-44-03.mp4",
+                "url": "https://drive.google.com/file/d/1epxK7UfNHQv7v-hc6_6F3eWLUvm3BV1b/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1epxK7UfNHQv7v-hc6_6F3eWLUvm3BV1b"
+              },
               {
                 "nome": "QUADRA_14-08-2025_14-15-19.mp4",
                 "url": "https://drive.google.com/file/d/155zOfXj8Wg4v_50Ugqsv-ys1foalMX1r/preview",
@@ -1686,6 +1696,20 @@
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
+          "14-08-2025": {
+            "14h": [
+              {
+                "nome": "QUADRA_14-08-2025_14-42-43.mp4",
+                "url": "https://drive.google.com/file/d/1r7eZzN5rDSPRm0FZG-xHeTbJPAfSDmcU/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1r7eZzN5rDSPRm0FZG-xHeTbJPAfSDmcU"
+              },
+              {
+                "nome": "QUADRA_14-08-2025_14-41-12.mp4",
+                "url": "https://drive.google.com/file/d/1iZOdf9NFmBfLuRtwcz629kYYZmhtP55m/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1iZOdf9NFmBfLuRtwcz629kYYZmhtP55m"
+              }
+            ]
+          },
           "13-08-2025": {
             "20h": [
               {

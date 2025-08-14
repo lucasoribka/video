@@ -10,6 +10,7 @@
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
           "14-08-2025": {
+            "19h": [],
             "18h": [
               {
                 "nome": "QUADRA_14-08-2025_18-49-56.mp4",
@@ -2285,6 +2286,13 @@
       "ARENA PASSA TRÊS": {
         "TRAVE 2": {
           "14-08-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_14-08-2025_19-08-57.mp4",
+                "url": "https://drive.google.com/file/d/1aOxHUS87LnpUoiNUeMzaT3dSt7ahwKFe/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1aOxHUS87LnpUoiNUeMzaT3dSt7ahwKFe"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_14-08-2025_18-55-50.mp4",
@@ -3019,7 +3027,18 @@
         },
         "TRAVE 1": {
           "14-08-2025": {
-            "19h": []
+            "19h": [
+              {
+                "nome": "QUADRA_14-08-2025_19-08-17.mp4",
+                "url": "https://drive.google.com/file/d/1s_Q2pc3eHBY-SAbQZv42Elh-jzULtax6/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1s_Q2pc3eHBY-SAbQZv42Elh-jzULtax6"
+              },
+              {
+                "nome": "QUADRA_14-08-2025_19-06-34.mp4",
+                "url": "https://drive.google.com/file/d/1h4G6IJJeV2R0JdnchNJq3Lx622CbyclC/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1h4G6IJJeV2R0JdnchNJq3Lx622CbyclC"
+              }
+            ]
           },
           "13-08-2025": {
             "22h": [
@@ -3289,6 +3308,11 @@
         "QUADRA": {
           "14-08-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_14-08-2025_19-06-38.mp4",
+                "url": "https://drive.google.com/file/d/1jZo3qOXMbyexX16rdteQAxMeWd3qHLOk/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1jZo3qOXMbyexX16rdteQAxMeWd3qHLOk"
+              },
               {
                 "nome": "QUADRA_14-08-2025_19-02-38.mp4",
                 "url": "https://drive.google.com/file/d/1SizRXZYuO7E_hFHeQYC8cnQg7LpXdj_7/preview",

@@ -826,6 +826,18 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "15-08-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_15-08-2025_19-07-35.mp4",
+                "url": "https://drive.google.com/file/d/1BtOHAOzfFhVa2vODx-6MIURINkSetzsG/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1BtOHAOzfFhVa2vODx-6MIURINkSetzsG"
+              },
+              {
+                "nome": "QUADRA_15-08-2025_19-05-04.mp4",
+                "url": "https://drive.google.com/file/d/10foryjZ0HX0nGEc0mSLk_QN4GIrpXS2p/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=10foryjZ0HX0nGEc0mSLk_QN4GIrpXS2p"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_15-08-2025_18-59-36.mp4",
@@ -1348,7 +1360,23 @@
         },
         "TRAVE 2": {
           "15-08-2025": {
-            "19h": [],
+            "19h": [
+              {
+                "nome": "QUADRA_15-08-2025_19-08-34.mp4",
+                "url": "https://drive.google.com/file/d/1ByM1BSMWEwiBYsI1anSWu92czDzm3sm1/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ByM1BSMWEwiBYsI1anSWu92czDzm3sm1"
+              },
+              {
+                "nome": "QUADRA_15-08-2025_19-06-18.mp4",
+                "url": "https://drive.google.com/file/d/1pY6X_3wsOG_QECC3mLYUyhPmQOuy_ZeN/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1pY6X_3wsOG_QECC3mLYUyhPmQOuy_ZeN"
+              },
+              {
+                "nome": "QUADRA_15-08-2025_19-03-44.mp4",
+                "url": "https://drive.google.com/file/d/1hgwm3HaNr3BAZHR-tKnvljCowqVrfpzV/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1hgwm3HaNr3BAZHR-tKnvljCowqVrfpzV"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_15-08-2025_18-51-27.mp4",

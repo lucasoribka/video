@@ -1002,6 +1002,7 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "16-08-2025": {
+            "17h": [],
             "16h": [
               {
                 "nome": "QUADRA_16-08-2025_16-59-21.mp4",
@@ -5115,6 +5116,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "16-08-2025": {
+            "17h": [
+              {
+                "nome": "QUADRA_16-08-2025_17-26-20.mp4",
+                "url": "https://drive.google.com/file/d/1vnM2q8eXt_bNWSESigAjGDPa_Q8onNaZ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1vnM2q8eXt_bNWSESigAjGDPa_Q8onNaZ"
+              }
+            ],
             "16h": [
               {
                 "nome": "QUADRA_16-08-2025_16-32-01.mp4",

@@ -997,6 +997,11 @@
           "16-08-2025": {
             "16h": [
               {
+                "nome": "QUADRA_16-08-2025_16-59-21.mp4",
+                "url": "https://drive.google.com/file/d/14M5aryyBijLBdZGzkqodRk5FcdY-IxlX/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=14M5aryyBijLBdZGzkqodRk5FcdY-IxlX"
+              },
+              {
                 "nome": "QUADRA_16-08-2025_16-50-21.mp4",
                 "url": "https://drive.google.com/file/d/1kkVqmY4uj81oC6mdri5uwm4JZ1GszBOs/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1kkVqmY4uj81oC6mdri5uwm4JZ1GszBOs"
@@ -4436,6 +4441,15 @@
       },
       "PAIOL": {
         "TRAVE 2": {
+          "16-08-2025": {
+            "16h": [
+              {
+                "nome": "QUADRA_16-08-2025_16-59-24.mp4",
+                "url": "https://drive.google.com/file/d/12KBmGD8JcssZNZPgLDpMK-DhWofvbTTF/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=12KBmGD8JcssZNZPgLDpMK-DhWofvbTTF"
+              }
+            ]
+          },
           "15-08-2025": {
             "21h": [
               {
@@ -4710,7 +4724,19 @@
         },
         "TRAVE 1": {
           "16-08-2025": {
+            "17h": [
+              {
+                "nome": "QUADRA_16-08-2025_17-00-39.mp4",
+                "url": "https://drive.google.com/file/d/1BxQPb8exTJPz6pIqSjx_8yxzHWQVebsV/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1BxQPb8exTJPz6pIqSjx_8yxzHWQVebsV"
+              }
+            ],
             "16h": [
+              {
+                "nome": "QUADRA_16-08-2025_16-55-11.mp4",
+                "url": "https://drive.google.com/file/d/1ijy_29T6NwgEtwtQxy2uOkeFi-ZinMSi/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ijy_29T6NwgEtwtQxy2uOkeFi-ZinMSi"
+              },
               {
                 "nome": "QUADRA_16-08-2025_16-38-28.mp4",
                 "url": "https://drive.google.com/file/d/1wJHS0ca4YdDDci0O-nBjT6Tpq4_ps7Wc/preview",

@@ -559,6 +559,18 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "18-08-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_18-08-2025_20-05-03.mp4",
+                "url": "https://drive.google.com/file/d/1DB6tRPosRECGv2bj0JLX6wneZ95pIgOA/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1DB6tRPosRECGv2bj0JLX6wneZ95pIgOA"
+              },
+              {
+                "nome": "QUADRA_18-08-2025_20-00-21.mp4",
+                "url": "https://drive.google.com/file/d/1Ro_02JLzp3xynHXut5HnGTcCEMIxI2Iu/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Ro_02JLzp3xynHXut5HnGTcCEMIxI2Iu"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_18-08-2025_19-57-19.mp4",
@@ -1612,6 +1624,13 @@
       "ARENA PASSA TRÊS": {
         "TRAVE 2": {
           "18-08-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_18-08-2025_20-03-48.mp4",
+                "url": "https://drive.google.com/file/d/1cRLKqKUq1C08Ttg6mi3vVLS4IxV4Ha2l/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1cRLKqKUq1C08Ttg6mi3vVLS4IxV4Ha2l"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_18-08-2025_19-57-47.mp4",
@@ -2104,7 +2123,13 @@
       "PAIOL": {
         "TRAVE 2": {
           "18-08-2025": {
-            "20h": [],
+            "20h": [
+              {
+                "nome": "QUADRA_18-08-2025_20-00-34.mp4",
+                "url": "https://drive.google.com/file/d/1bTPNfN_XmAF4nRMJqKs9bSAecOckGsIW/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1bTPNfN_XmAF4nRMJqKs9bSAecOckGsIW"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_18-08-2025_19-56-21.mp4",

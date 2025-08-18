@@ -552,6 +552,11 @@
           "18-08-2025": {
             "19h": [
               {
+                "nome": "QUADRA_18-08-2025_19-39-46.mp4",
+                "url": "https://drive.google.com/file/d/1ndgekNrP0Kz8jJAjmdtHsFJKEK1nnYy5/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ndgekNrP0Kz8jJAjmdtHsFJKEK1nnYy5"
+              },
+              {
                 "nome": "QUADRA_18-08-2025_19-07-50.mp4",
                 "url": "https://drive.google.com/file/d/1Yr08x-9CpXiToScqkOnaClLXbosD2HRw/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Yr08x-9CpXiToScqkOnaClLXbosD2HRw"
@@ -901,6 +906,11 @@
         "AREIA 3": {
           "18-08-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_18-08-2025_19-39-10.mp4",
+                "url": "https://drive.google.com/file/d/1K-TdNZQIOj3OSSPyeNTfP80Y3ddaXyeq/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1K-TdNZQIOj3OSSPyeNTfP80Y3ddaXyeq"
+              },
               {
                 "nome": "QUADRA_18-08-2025_19-27-26.mp4",
                 "url": "https://drive.google.com/file/d/1qi_aht7z37lYz09ElfWGHu3sSw8qhIRZ/preview",
@@ -1567,6 +1577,20 @@
     "RIO NEGRO-PR": {
       "ARENA PASSA TRÊS": {
         "TRAVE 2": {
+          "18-08-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_18-08-2025_19-42-21.mp4",
+                "url": "https://drive.google.com/file/d/1iL-uFnWTEvWsw4N8I02jqigrFlYaX72j/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1iL-uFnWTEvWsw4N8I02jqigrFlYaX72j"
+              },
+              {
+                "nome": "QUADRA_18-08-2025_19-38-13.mp4",
+                "url": "https://drive.google.com/file/d/1sH5lSCHhgC_lKij6qPorkbXHNlMC7eKa/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1sH5lSCHhgC_lKij6qPorkbXHNlMC7eKa"
+              }
+            ]
+          },
           "14-08-2025": {
             "22h": [
               {
@@ -2006,7 +2030,13 @@
       "PAIOL": {
         "TRAVE 2": {
           "18-08-2025": {
-            "19h": []
+            "19h": [
+              {
+                "nome": "QUADRA_18-08-2025_19-36-31.mp4",
+                "url": "https://drive.google.com/file/d/1uYeusCKcPRsT_jxHbPqKIpvavBMqb5-o/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1uYeusCKcPRsT_jxHbPqKIpvavBMqb5-o"
+              }
+            ]
           },
           "16-08-2025": {
             "16h": [

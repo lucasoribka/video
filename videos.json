@@ -949,6 +949,13 @@
         },
         "TRAVE 2": {
           "19-08-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_19-08-2025_18-51-29.mp4",
+                "url": "https://drive.google.com/file/d/1ANJvamuQwtMLcXGBbVsSIKlDyqyOWSD1/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ANJvamuQwtMLcXGBbVsSIKlDyqyOWSD1"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_19-08-2025_15-31-53.mp4",
@@ -1807,6 +1814,15 @@
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
+          "19-08-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_19-08-2025_18-49-33.mp4",
+                "url": "https://drive.google.com/file/d/1_enzFd4lhm1Z1Oc1ZH2GSsy6WRDS3E0E/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1_enzFd4lhm1Z1Oc1ZH2GSsy6WRDS3E0E"
+              }
+            ]
+          },
           "18-08-2025": {
             "21h": [
               {

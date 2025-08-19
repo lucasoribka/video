@@ -9,6 +9,9 @@
     "MAFRA-SC": {
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
+          "19-08-2025": {
+            "18h": []
+          },
           "18-08-2025": {
             "09h": [
               {
@@ -1566,6 +1569,16 @@
         "AREIA 1": {
           "19-08-2025": {
             "18h": [
+              {
+                "nome": "QUADRA_19-08-2025_18-22-04.mp4",
+                "url": "https://drive.google.com/file/d/1lld-8fiPXAi_6abvdSnGlWeuge1rCU7X/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1lld-8fiPXAi_6abvdSnGlWeuge1rCU7X"
+              },
+              {
+                "nome": "QUADRA_19-08-2025_18-21-15.mp4",
+                "url": "https://drive.google.com/file/d/1sQOyMjPoocWdcZi8TKSoSz106tK4oL4q/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1sQOyMjPoocWdcZi8TKSoSz106tK4oL4q"
+              },
               {
                 "nome": "QUADRA_19-08-2025_18-14-39.mp4",
                 "url": "https://drive.google.com/file/d/17ypMxx5qsFtqL2Hf1L3s3gP9VybmL76v/preview",
@@ -3250,6 +3263,16 @@
         "QUADRA": {
           "19-08-2025": {
             "18h": [
+              {
+                "nome": "QUADRA_19-08-2025_18-27-05.mp4",
+                "url": "https://drive.google.com/file/d/1BD27sVSv_Nb3mUhMp9FJur8jyOBP7_Lq/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1BD27sVSv_Nb3mUhMp9FJur8jyOBP7_Lq"
+              },
+              {
+                "nome": "QUADRA_19-08-2025_18-23-20.mp4",
+                "url": "https://drive.google.com/file/d/111ywojq3pD7hI7l3HvxGM1RVKYsPOg4v/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=111ywojq3pD7hI7l3HvxGM1RVKYsPOg4v"
+              },
               {
                 "nome": "QUADRA_19-08-2025_18-03-57.mp4",
                 "url": "https://drive.google.com/file/d/1E0qKfYxB8n4UmxMAwW9Z7aS18nEE1_GS/preview",

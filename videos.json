@@ -588,6 +588,13 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "23-08-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_23-08-2025_19-00-30.mp4",
+                "url": "https://drive.google.com/file/d/1eEPLhoCnu0-0zDpWPZsqT6tQzVOoqfEK/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1eEPLhoCnu0-0zDpWPZsqT6tQzVOoqfEK"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_23-08-2025_18-43-48.mp4",
@@ -1188,7 +1195,19 @@
         },
         "TRAVE 2": {
           "23-08-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_23-08-2025_19-02-03.mp4",
+                "url": "https://drive.google.com/file/d/19D4pO7mkPkg4Slmoms-nj92kNvGZ77Gn/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=19D4pO7mkPkg4Slmoms-nj92kNvGZ77Gn"
+              }
+            ],
             "18h": [
+              {
+                "nome": "QUADRA_23-08-2025_18-59-54.mp4",
+                "url": "https://drive.google.com/file/d/10-pEWEvGqCzjHXqI_sTy33_bXPtOSbPz/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=10-pEWEvGqCzjHXqI_sTy33_bXPtOSbPz"
+              },
               {
                 "nome": "QUADRA_23-08-2025_18-50-14.mp4",
                 "url": "https://drive.google.com/file/d/18rlZtUU3PvacfytqWJLtzWli41eOKQ7R/preview",
@@ -4300,6 +4319,11 @@
         "QUADRA": {
           "23-08-2025": {
             "18h": [
+              {
+                "nome": "QUADRA_23-08-2025_18-59-22.mp4",
+                "url": "https://drive.google.com/file/d/1b9i3nhoqViWKGdQqJ37Krur05ZmFf5F9/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1b9i3nhoqViWKGdQqJ37Krur05ZmFf5F9"
+              },
               {
                 "nome": "QUADRA_23-08-2025_18-58-32.mp4",
                 "url": "https://drive.google.com/file/d/1yotlX5vo6euD5vIxXCzxJWkIKk02Zazu/preview",

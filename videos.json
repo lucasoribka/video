@@ -1129,6 +1129,11 @@
           "23-08-2025": {
             "15h": [
               {
+                "nome": "QUADRA_23-08-2025_15-58-21.mp4",
+                "url": "https://drive.google.com/file/d/1D6NbUilLVTEDFoGzOQUKr9QuuKE-tYbz/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1D6NbUilLVTEDFoGzOQUKr9QuuKE-tYbz"
+              },
+              {
                 "nome": "QUADRA_23-08-2025_15-36-59.mp4",
                 "url": "https://drive.google.com/file/d/1rypjdKn-VIbc-bMIKkRgMLX3aK129_Ir/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1rypjdKn-VIbc-bMIKkRgMLX3aK129_Ir"
@@ -1616,7 +1621,19 @@
         },
         "AREIA 3": {
           "23-08-2025": {
+            "16h": [
+              {
+                "nome": "QUADRA_23-08-2025_16-00-00.mp4",
+                "url": "https://drive.google.com/file/d/1XrVuvwPrajvXQ4EjvdpZrWYyk39PoAJd/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1XrVuvwPrajvXQ4EjvdpZrWYyk39PoAJd"
+              }
+            ],
             "15h": [
+              {
+                "nome": "QUADRA_23-08-2025_15-57-01.mp4",
+                "url": "https://drive.google.com/file/d/19VThtJHrQ8Jl85wZ5Sg6QhrikmnaDQzZ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=19VThtJHrQ8Jl85wZ5Sg6QhrikmnaDQzZ"
+              },
               {
                 "nome": "QUADRA_23-08-2025_15-51-55.mp4",
                 "url": "https://drive.google.com/file/d/1lb-oyf6yWIJyGEMVhznWw9-9dTrgOWVv/preview",
@@ -3387,6 +3404,13 @@
       "PAIOL": {
         "TRAVE 2": {
           "23-08-2025": {
+            "15h": [
+              {
+                "nome": "QUADRA_23-08-2025_15-57-24.mp4",
+                "url": "https://drive.google.com/file/d/1xnUz4VumEtU_6V-lRty_cfpQvmT34Tn9/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1xnUz4VumEtU_6V-lRty_cfpQvmT34Tn9"
+              }
+            ],
             "09h": [
               {
                 "nome": "QUADRA_23-08-2025_09-33-18.mp4",
@@ -3908,6 +3932,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "23-08-2025": {
+            "16h": [
+              {
+                "nome": "QUADRA_23-08-2025_16-00-17.mp4",
+                "url": "https://drive.google.com/file/d/1Z7Z2NCoQ62-8ijgdAhi36bLJ9OKOhH1f/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Z7Z2NCoQ62-8ijgdAhi36bLJ9OKOhH1f"
+              }
+            ],
             "14h": [
               {
                 "nome": "QUADRA_23-08-2025_14-58-38.mp4",

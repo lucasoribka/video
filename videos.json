@@ -2833,6 +2833,7 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "24-08-2025": {
+            "18h": [],
             "17h": [
               {
                 "nome": "QUADRA_24-08-2025_17-53-44.mp4",
@@ -3307,6 +3308,11 @@
         "TRAVE 1": {
           "24-08-2025": {
             "17h": [
+              {
+                "nome": "QUADRA_24-08-2025_17-58-40.mp4",
+                "url": "https://drive.google.com/file/d/1K77JaSIHiByh1nd7V_FpAVeWvJjrlpuD/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1K77JaSIHiByh1nd7V_FpAVeWvJjrlpuD"
+              },
               {
                 "nome": "QUADRA_24-08-2025_17-30-34.mp4",
                 "url": "https://drive.google.com/file/d/17PvLPz-8GVINKGnv79MKMEv6D7RG2ZUf/preview",

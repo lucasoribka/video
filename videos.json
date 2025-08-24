@@ -1872,6 +1872,7 @@
       "RAVENNA": {
         "QUADRA": {
           "24-08-2025": {
+            "15h": [],
             "14h": [
               {
                 "nome": "QUADRA_24-08-2025_14-52-33.mp4",
@@ -3020,6 +3021,11 @@
         "TRAVE 1": {
           "24-08-2025": {
             "14h": [
+              {
+                "nome": "QUADRA_24-08-2025_14-55-30.mp4",
+                "url": "https://drive.google.com/file/d/1lJM4keu1ExQPXJGJ4c8kg_TCEgHgSYz7/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1lJM4keu1ExQPXJGJ4c8kg_TCEgHgSYz7"
+              },
               {
                 "nome": "QUADRA_24-08-2025_14-33-55.mp4",
                 "url": "https://drive.google.com/file/d/1wlc01zwX_uC7PNrg21IFw274cDtG-PJS/preview",

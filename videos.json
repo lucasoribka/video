@@ -65,6 +65,11 @@
           "27-08-2025": {
             "07h": [
               {
+                "nome": "QUADRA_27-08-2025_07-30-34.mp4",
+                "url": "https://drive.google.com/file/d/1uD0FGQFCMcTHQPiFpYagrAei8G9dXa__/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1uD0FGQFCMcTHQPiFpYagrAei8G9dXa__"
+              },
+              {
                 "nome": "QUADRA_27-08-2025_07-05-45.mp4",
                 "url": "https://drive.google.com/file/d/1hfBQxR2k-Nopo-111XeF0iCa_VUXPu8W/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1hfBQxR2k-Nopo-111XeF0iCa_VUXPu8W"
@@ -654,6 +659,20 @@
       },
       "JR03 - RAFINHA": {
         "TRAVE 1": {
+          "27-08-2025": {
+            "07h": [
+              {
+                "nome": "QUADRA_27-08-2025_07-23-13.mp4",
+                "url": "https://drive.google.com/file/d/1raUG0NJzKZO3F_SkEJrqtWEE0McS8TTV/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1raUG0NJzKZO3F_SkEJrqtWEE0McS8TTV"
+              },
+              {
+                "nome": "QUADRA_27-08-2025_07-21-33.mp4",
+                "url": "https://drive.google.com/file/d/1_K0eJYzubw9jtqcxIfiOH2J-LcPmTmrF/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1_K0eJYzubw9jtqcxIfiOH2J-LcPmTmrF"
+              }
+            ]
+          },
           "26-08-2025": {
             "23h": [
               {
@@ -1221,7 +1240,18 @@
         },
         "TRAVE 2": {
           "27-08-2025": {
-            "07h": []
+            "07h": [
+              {
+                "nome": "QUADRA_27-08-2025_07-22-57.mp4",
+                "url": "https://drive.google.com/file/d/1VqCA_NUpHegojG1PqwlkojK5pOCWEkKE/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1VqCA_NUpHegojG1PqwlkojK5pOCWEkKE"
+              },
+              {
+                "nome": "QUADRA_27-08-2025_07-21-49.mp4",
+                "url": "https://drive.google.com/file/d/1PvJSaDc40ZezFaCBG7jtHpkBy7mYkIoE/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1PvJSaDc40ZezFaCBG7jtHpkBy7mYkIoE"
+              }
+            ]
           },
           "26-08-2025": {
             "10h": [

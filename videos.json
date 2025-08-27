@@ -264,6 +264,15 @@
           }
         },
         "QUADRA 1": {
+          "27-08-2025": {
+            "10h": [
+              {
+                "nome": "QUADRA_27-08-2025_10-28-39.mp4",
+                "url": "https://drive.google.com/file/d/1sItaEkZN5YqCHEoVhQsAmf52jRdhkela/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1sItaEkZN5YqCHEoVhQsAmf52jRdhkela"
+              }
+            ]
+          },
           "26-08-2025": {
             "14h": [
               {
@@ -829,6 +838,9 @@
           }
         },
         "AREIA 3": {
+          "27-08-2025": {
+            "10h": []
+          },
           "26-08-2025": {
             "21h": [
               {

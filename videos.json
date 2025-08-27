@@ -79,6 +79,13 @@
         },
         "QUADRA 3": {
           "27-08-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_27-08-2025_18-03-45.mp4",
+                "url": "https://drive.google.com/file/d/1XNBPcUzPk6AMIXr2sEKMd-0wKe9rHv6W/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1XNBPcUzPk6AMIXr2sEKMd-0wKe9rHv6W"
+              }
+            ],
             "17h": [
               {
                 "nome": "QUADRA_27-08-2025_17-59-41.mp4",
@@ -2231,6 +2238,9 @@
       },
       "ARENA MAIDL": {
         "QUADRA": {
+          "27-08-2025": {
+            "18h": []
+          },
           "26-08-2025": {
             "21h": [
               {

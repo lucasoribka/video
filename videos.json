@@ -905,6 +905,11 @@
           "29-08-2025": {
             "19h": [
               {
+                "nome": "QUADRA_29-08-2025_19-18-53.mp4",
+                "url": "https://drive.google.com/file/d/1DGp1EyPxhPc57uyk9xKkTRJBEO-8Ytiq/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1DGp1EyPxhPc57uyk9xKkTRJBEO-8Ytiq"
+              },
+              {
                 "nome": "QUADRA_29-08-2025_19-05-50.mp4",
                 "url": "https://drive.google.com/file/d/1NY_rHV4MDFNV_M-lxtYZVCNjwKfRgz14/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1NY_rHV4MDFNV_M-lxtYZVCNjwKfRgz14"
@@ -1564,6 +1569,11 @@
         "TRAVE 2": {
           "29-08-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_29-08-2025_19-18-00.mp4",
+                "url": "https://drive.google.com/file/d/17gYC6B5z8b3EAgeD75M87GHMlpi71tJQ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=17gYC6B5z8b3EAgeD75M87GHMlpi71tJQ"
+              },
               {
                 "nome": "QUADRA_29-08-2025_19-10-54.mp4",
                 "url": "https://drive.google.com/file/d/1hUBE3x3d0QM9IFUi7elricVRx4QdBEmW/preview",
@@ -4214,6 +4224,20 @@
       },
       "ARENA MAIDL": {
         "QUADRA": {
+          "29-08-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_29-08-2025_19-26-00.mp4",
+                "url": "https://drive.google.com/file/d/1EMiNVLfvlYlmbtwvPqA71Kq9Q5f09Ak9/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1EMiNVLfvlYlmbtwvPqA71Kq9Q5f09Ak9"
+              },
+              {
+                "nome": "QUADRA_29-08-2025_19-20-39.mp4",
+                "url": "https://drive.google.com/file/d/1Z5vmNSdYRNop-Ym1fsrooWT2CWVntD2U/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Z5vmNSdYRNop-Ym1fsrooWT2CWVntD2U"
+              }
+            ]
+          },
           "28-08-2025": {
             "21h": [
               {
@@ -5515,6 +5539,7 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "29-08-2025": {
+            "19h": [],
             "18h": [
               {
                 "nome": "QUADRA_29-08-2025_18-57-26.mp4",

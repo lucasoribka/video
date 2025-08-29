@@ -903,6 +903,13 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "29-08-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_29-08-2025_20-09-29.mp4",
+                "url": "https://drive.google.com/file/d/1Pp8K4iD9C35teW5heYUvg2R4QvXu-GD9/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Pp8K4iD9C35teW5heYUvg2R4QvXu-GD9"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_29-08-2025_19-56-09.mp4",
@@ -1579,6 +1586,16 @@
         "TRAVE 2": {
           "29-08-2025": {
             "20h": [
+              {
+                "nome": "QUADRA_29-08-2025_20-09-44.mp4",
+                "url": "https://drive.google.com/file/d/1wB5VLMF4F1lhFroybNIf6rvKQKVQcQLE/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1wB5VLMF4F1lhFroybNIf6rvKQKVQcQLE"
+              },
+              {
+                "nome": "QUADRA_29-08-2025_20-08-46.mp4",
+                "url": "https://drive.google.com/file/d/1qLbpx5IfWF2-iVKZet9n2cPVaVO461pO/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1qLbpx5IfWF2-iVKZet9n2cPVaVO461pO"
+              },
               {
                 "nome": "QUADRA_29-08-2025_20-07-22.mp4",
                 "url": "https://drive.google.com/file/d/1MXwZrfNtjjYXizZ_Z_FPxnTV4coPCh6C/preview",
@@ -3062,6 +3079,13 @@
       "RAVENNA": {
         "QUADRA": {
           "29-08-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_29-08-2025_20-11-54.mp4",
+                "url": "https://drive.google.com/file/d/1XUnJ4j5xB3K579vCQJlu-tC_eSwOw_Ei/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1XUnJ4j5xB3K579vCQJlu-tC_eSwOw_Ei"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_29-08-2025_19-57-53.mp4",
@@ -4292,6 +4316,21 @@
         "QUADRA": {
           "29-08-2025": {
             "20h": [
+              {
+                "nome": "QUADRA_29-08-2025_20-13-33.mp4",
+                "url": "https://drive.google.com/file/d/16sZOPuqOc9euKpfZf6edeCnID1gTElYB/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16sZOPuqOc9euKpfZf6edeCnID1gTElYB"
+              },
+              {
+                "nome": "QUADRA_29-08-2025_20-12-06.mp4",
+                "url": "https://drive.google.com/file/d/1QyppfcmWm7u2IJUvguu4btxyhxjb3uwG/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1QyppfcmWm7u2IJUvguu4btxyhxjb3uwG"
+              },
+              {
+                "nome": "QUADRA_29-08-2025_20-08-29.mp4",
+                "url": "https://drive.google.com/file/d/1v7QCk3S46WcoC8uWUc-JFtiNmKpycq3J/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1v7QCk3S46WcoC8uWUc-JFtiNmKpycq3J"
+              },
               {
                 "nome": "QUADRA_29-08-2025_20-07-16.mp4",
                 "url": "https://drive.google.com/file/d/11uP5IjhYv6RJGFpHGWqGmtugfqrGkAV4/preview",
@@ -5627,7 +5666,18 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "29-08-2025": {
-            "20h": [],
+            "20h": [
+              {
+                "nome": "QUADRA_29-08-2025_20-16-44.mp4",
+                "url": "https://drive.google.com/file/d/16LZ4DsxLsWNFgO9xiDHElx1-A5FxLbGQ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16LZ4DsxLsWNFgO9xiDHElx1-A5FxLbGQ"
+              },
+              {
+                "nome": "QUADRA_29-08-2025_20-08-21.mp4",
+                "url": "https://drive.google.com/file/d/1gWLxGE0q1t6ymohyhi4qee_XHr6-fiXF/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1gWLxGE0q1t6ymohyhi4qee_XHr6-fiXF"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_29-08-2025_19-49-03.mp4",

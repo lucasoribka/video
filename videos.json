@@ -1573,6 +1573,18 @@
       "RAVENNA": {
         "QUADRA": {
           "31-08-2025": {
+            "16h": [
+              {
+                "nome": "QUADRA_31-08-2025_16-28-16.mp4",
+                "url": "https://drive.google.com/file/d/10pTdzAkrvlG5VFrIPY6DMaO8Sv8mlapJ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=10pTdzAkrvlG5VFrIPY6DMaO8Sv8mlapJ"
+              },
+              {
+                "nome": "QUADRA_31-08-2025_16-27-15.mp4",
+                "url": "https://drive.google.com/file/d/1QzUXw5eHUS4MTASKLODVOhhvYnftZSiS/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1QzUXw5eHUS4MTASKLODVOhhvYnftZSiS"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_31-08-2025_15-41-26.mp4",
@@ -2885,6 +2897,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "31-08-2025": {
+            "16h": [
+              {
+                "nome": "QUADRA_31-08-2025_16-32-06.mp4",
+                "url": "https://drive.google.com/file/d/1YeVyGqeUJpXfr9M_pLkJGHLluK2eaVeD/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1YeVyGqeUJpXfr9M_pLkJGHLluK2eaVeD"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_31-08-2025_15-41-04.mp4",

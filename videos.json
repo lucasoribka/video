@@ -1895,6 +1895,7 @@
         },
         "AREIA 1": {
           "30-08-2025": {
+            "20h": [],
             "15h": [
               {
                 "nome": "QUADRA_30-08-2025_15-36-30.mp4",
@@ -2209,6 +2210,13 @@
       "RAVENNA": {
         "QUADRA": {
           "30-08-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_30-08-2025_20-56-51.mp4",
+                "url": "https://drive.google.com/file/d/1m1-MYMPaIz34NOiUNDGjgIyTvMgQMPJa/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1m1-MYMPaIz34NOiUNDGjgIyTvMgQMPJa"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_30-08-2025_19-43-47.mp4",

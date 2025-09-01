@@ -585,7 +585,13 @@
         },
         "QUADRA 1": {
           "01-09-2025": {
-            "18h": []
+            "18h": [
+              {
+                "nome": "QUADRA_01-09-2025_18-12-49.mp4",
+                "url": "https://drive.google.com/file/d/1zEP53ENlXJLbrfs9gmB6smF8yoHTteuy/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1zEP53ENlXJLbrfs9gmB6smF8yoHTteuy"
+              }
+            ]
           },
           "30-08-2025": {
             "10h": [

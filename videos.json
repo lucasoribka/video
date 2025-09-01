@@ -682,6 +682,13 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "01-09-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_01-09-2025_18-59-58.mp4",
+                "url": "https://drive.google.com/file/d/11jeab30di6hnMsbLNI5fuzRQ6HC12yPI/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=11jeab30di6hnMsbLNI5fuzRQ6HC12yPI"
+              }
+            ],
             "14h": [
               {
                 "nome": "QUADRA_01-09-2025_14-34-35.mp4",
@@ -1746,6 +1753,11 @@
           "01-09-2025": {
             "18h": [
               {
+                "nome": "QUADRA_01-09-2025_18-55-03.mp4",
+                "url": "https://drive.google.com/file/d/15LkJdTdWZxf5DySygT2gZGpJl6ZM8z5y/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=15LkJdTdWZxf5DySygT2gZGpJl6ZM8z5y"
+              },
+              {
                 "nome": "QUADRA_01-09-2025_18-51-09.mp4",
                 "url": "https://drive.google.com/file/d/1NTo2OKaiM4-7piJe7dwzqcS_-lxv0Uu8/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1NTo2OKaiM4-7piJe7dwzqcS_-lxv0Uu8"
@@ -2782,7 +2794,19 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "01-09-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_01-09-2025_19-00-19.mp4",
+                "url": "https://drive.google.com/file/d/1SN1Qz_-D6biRrQobX_S1cRPDoqlanwCf/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1SN1Qz_-D6biRrQobX_S1cRPDoqlanwCf"
+              }
+            ],
             "18h": [
+              {
+                "nome": "QUADRA_01-09-2025_18-59-00.mp4",
+                "url": "https://drive.google.com/file/d/1zaCS22gpogZZ7w5NAnyZBCZ5wM0Clwo2/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1zaCS22gpogZZ7w5NAnyZBCZ5wM0Clwo2"
+              },
               {
                 "nome": "QUADRA_01-09-2025_18-51-17.mp4",
                 "url": "https://drive.google.com/file/d/1ksmuiyMeizXDe6qotDnsgUkltJkqV2p0/preview",

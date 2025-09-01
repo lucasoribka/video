@@ -10,6 +10,7 @@
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
           "01-09-2025": {
+            "19h": [],
             "09h": [
               {
                 "nome": "QUADRA_01-09-2025_09-49-49.mp4",
@@ -1024,6 +1025,11 @@
         "TRAVE 2": {
           "01-09-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_01-09-2025_19-25-56.mp4",
+                "url": "https://drive.google.com/file/d/1HvkeN3_e3vM_AOaSeqRiVU7d4eIRAckf/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1HvkeN3_e3vM_AOaSeqRiVU7d4eIRAckf"
+              },
               {
                 "nome": "QUADRA_01-09-2025_19-08-09.mp4",
                 "url": "https://drive.google.com/file/d/1glpjDJieGtxWdYBQ3SeamYQtid52zjDr/preview",
@@ -2523,6 +2529,9 @@
     "RIO NEGRO-PR": {
       "ARENA PASSA TRÊS": {
         "TRAVE 2": {
+          "01-09-2025": {
+            "19h": []
+          },
           "29-08-2025": {
             "10h": [
               {
@@ -2811,6 +2820,11 @@
         "QUADRA": {
           "01-09-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_01-09-2025_19-25-14.mp4",
+                "url": "https://drive.google.com/file/d/18_R9aGRMwjZ_aO6Qal2dHcXW5b9V0x-H/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=18_R9aGRMwjZ_aO6Qal2dHcXW5b9V0x-H"
+              },
               {
                 "nome": "QUADRA_01-09-2025_19-23-23.mp4",
                 "url": "https://drive.google.com/file/d/1RxRnUhotgpOTDCs6MasEf2E_Or8RiDnT/preview",
@@ -3169,7 +3183,23 @@
       "PAIOL": {
         "TRAVE 2": {
           "01-09-2025": {
-            "19h": []
+            "19h": [
+              {
+                "nome": "QUADRA_01-09-2025_19-27-36.mp4",
+                "url": "https://drive.google.com/file/d/1z6iFCKADlwUbE3z-Bue0nlht2NM142Y_/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1z6iFCKADlwUbE3z-Bue0nlht2NM142Y_"
+              },
+              {
+                "nome": "QUADRA_01-09-2025_19-26-15.mp4",
+                "url": "https://drive.google.com/file/d/18PB8lhF--mAHqqRZvAHaElXvWnbsu1_9/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=18PB8lhF--mAHqqRZvAHaElXvWnbsu1_9"
+              },
+              {
+                "nome": "QUADRA_01-09-2025_19-24-57.mp4",
+                "url": "https://drive.google.com/file/d/18SDahNP11bkfmWYpmEbkxi8hju4RdK2B/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=18SDahNP11bkfmWYpmEbkxi8hju4RdK2B"
+              }
+            ]
           },
           "31-08-2025": {
             "09h": [
@@ -3252,7 +3282,18 @@
         },
         "TRAVE 1": {
           "01-09-2025": {
-            "19h": []
+            "19h": [
+              {
+                "nome": "QUADRA_01-09-2025_19-26-55.mp4",
+                "url": "https://drive.google.com/file/d/1WJ6hOwM7nQe33iSrcXrEyMp8aXFiqXSK/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1WJ6hOwM7nQe33iSrcXrEyMp8aXFiqXSK"
+              },
+              {
+                "nome": "QUADRA_01-09-2025_19-23-15.mp4",
+                "url": "https://drive.google.com/file/d/1gEhtJArdOxGmTIpDmV1ypqphoLSNfDsO/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1gEhtJArdOxGmTIpDmV1ypqphoLSNfDsO"
+              }
+            ]
           },
           "30-08-2025": {
             "16h": [
@@ -3414,6 +3455,11 @@
         "QUADRA": {
           "01-09-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_01-09-2025_19-27-55.mp4",
+                "url": "https://drive.google.com/file/d/1Kr_u1USOMuRBWgejy2dBAgIVb-tezlWb/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Kr_u1USOMuRBWgejy2dBAgIVb-tezlWb"
+              },
               {
                 "nome": "QUADRA_01-09-2025_19-10-38.mp4",
                 "url": "https://drive.google.com/file/d/1eVqiHwLZEUyQeJsuid_InS5ZBXtCZiZQ/preview",

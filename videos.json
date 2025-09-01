@@ -10,7 +10,13 @@
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
           "01-09-2025": {
-            "19h": [],
+            "19h": [
+              {
+                "nome": "QUADRA_01-09-2025_19-30-52.mp4",
+                "url": "https://drive.google.com/file/d/1_Vf5jP3ZP3cRSRTndOmrHTgiiSqOeOan/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1_Vf5jP3ZP3cRSRTndOmrHTgiiSqOeOan"
+              }
+            ],
             "09h": [
               {
                 "nome": "QUADRA_01-09-2025_09-49-49.mp4",
@@ -1336,6 +1342,11 @@
           "01-09-2025": {
             "19h": [
               {
+                "nome": "QUADRA_01-09-2025_19-33-47.mp4",
+                "url": "https://drive.google.com/file/d/1ZO0pGEP5R7uD5EVSUHJz-NkHejyedtn2/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ZO0pGEP5R7uD5EVSUHJz-NkHejyedtn2"
+              },
+              {
                 "nome": "QUADRA_01-09-2025_19-03-09.mp4",
                 "url": "https://drive.google.com/file/d/1Kus9TisV_97rcPGuU2IuYPwfo_1l4N1C/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Kus9TisV_97rcPGuU2IuYPwfo_1l4N1C"
@@ -1570,6 +1581,15 @@
           }
         },
         "AREIA 1": {
+          "01-09-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_01-09-2025_19-34-03.mp4",
+                "url": "https://drive.google.com/file/d/1TuVg6dz99pwMsTFvEKnM2k349HD_8yhN/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1TuVg6dz99pwMsTFvEKnM2k349HD_8yhN"
+              }
+            ]
+          },
           "31-08-2025": {
             "17h": [
               {
@@ -2530,7 +2550,13 @@
       "ARENA PASSA TRÊS": {
         "TRAVE 2": {
           "01-09-2025": {
-            "19h": []
+            "19h": [
+              {
+                "nome": "QUADRA_01-09-2025_19-31-19.mp4",
+                "url": "https://drive.google.com/file/d/1T4EUi-11SMKzS7ovefwTB5XfS7TQnXkY/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1T4EUi-11SMKzS7ovefwTB5XfS7TQnXkY"
+              }
+            ]
           },
           "29-08-2025": {
             "10h": [

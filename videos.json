@@ -119,6 +119,11 @@
           "02-09-2025": {
             "15h": [
               {
+                "nome": "QUADRA_02-09-2025_15-58-01.mp4",
+                "url": "https://drive.google.com/file/d/1cCfYs0Xvo0BNKSbXeI1up6P1ybYeW5N3/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1cCfYs0Xvo0BNKSbXeI1up6P1ybYeW5N3"
+              },
+              {
                 "nome": "QUADRA_02-09-2025_15-38-56.mp4",
                 "url": "https://drive.google.com/file/d/1lw3_UVRjywnnn9-dBXMcXOt15zlVNY9l/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1lw3_UVRjywnnn9-dBXMcXOt15zlVNY9l"
@@ -717,6 +722,11 @@
           "02-09-2025": {
             "15h": [
               {
+                "nome": "QUADRA_02-09-2025_15-58-05.mp4",
+                "url": "https://drive.google.com/file/d/1Ul-N3hKzpUOGv6tOu1I3CKuXLhwclKi1/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Ul-N3hKzpUOGv6tOu1I3CKuXLhwclKi1"
+              },
+              {
                 "nome": "QUADRA_02-09-2025_15-45-53.mp4",
                 "url": "https://drive.google.com/file/d/15gF7CoTQNyr0EUhLd8dr8xg75xa30idN/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=15gF7CoTQNyr0EUhLd8dr8xg75xa30idN"
@@ -939,6 +949,7 @@
         },
         "AREIA 3": {
           "02-09-2025": {
+            "16h": [],
             "15h": [
               {
                 "nome": "QUADRA_02-09-2025_15-35-20.mp4",

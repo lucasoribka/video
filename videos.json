@@ -3420,6 +3420,18 @@
       "PAIOL": {
         "TRAVE 2": {
           "01-09-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_01-09-2025_21-06-49.mp4",
+                "url": "https://drive.google.com/file/d/1VzIkvbYezmACvFELhcWcHacVjMzGHibb/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1VzIkvbYezmACvFELhcWcHacVjMzGHibb"
+              },
+              {
+                "nome": "QUADRA_01-09-2025_21-03-47.mp4",
+                "url": "https://drive.google.com/file/d/18qfVR8al1raw8-JbX3UocC_jLTW6uE4I/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=18qfVR8al1raw8-JbX3UocC_jLTW6uE4I"
+              }
+            ],
             "20h": [
               {
                 "nome": "QUADRA_01-09-2025_20-59-38.mp4",

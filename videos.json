@@ -10,6 +10,13 @@
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
           "02-09-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_02-09-2025_20-27-34.mp4",
+                "url": "https://drive.google.com/file/d/1ihc7cNSVXKCjnTfqBCKCN-nM_FnGIEl-/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ihc7cNSVXKCjnTfqBCKCN-nM_FnGIEl-"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_02-09-2025_19-46-15.mp4",
@@ -371,7 +378,18 @@
         },
         "QUADRA 2": {
           "02-09-2025": {
-            "20h": [],
+            "20h": [
+              {
+                "nome": "QUADRA_02-09-2025_20-27-26.mp4",
+                "url": "https://drive.google.com/file/d/13w529JIjFl2ZlfOVP85zna1kAzhKtoMh/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=13w529JIjFl2ZlfOVP85zna1kAzhKtoMh"
+              },
+              {
+                "nome": "QUADRA_02-09-2025_20-25-14.mp4",
+                "url": "https://drive.google.com/file/d/17nVMpcAS0YMaN1T0I6bFFniuEQOfplKx/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=17nVMpcAS0YMaN1T0I6bFFniuEQOfplKx"
+              }
+            ],
             "17h": [
               {
                 "nome": "QUADRA_02-09-2025_17-50-45.mp4",
@@ -1540,6 +1558,11 @@
           "02-09-2025": {
             "20h": [
               {
+                "nome": "QUADRA_02-09-2025_20-32-21.mp4",
+                "url": "https://drive.google.com/file/d/1FqgK2dpmaruDQ4380HaXI186irV6k65H/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1FqgK2dpmaruDQ4380HaXI186irV6k65H"
+              },
+              {
                 "nome": "QUADRA_02-09-2025_20-23-53.mp4",
                 "url": "https://drive.google.com/file/d/1ssjX0Z9FlM4jnniFw1MJnZ0H9CUbGUKW/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ssjX0Z9FlM4jnniFw1MJnZ0H9CUbGUKW"
@@ -2361,6 +2384,9 @@
       },
       "ARENA MAIDL": {
         "QUADRA": {
+          "02-09-2025": {
+            "20h": []
+          },
           "01-09-2025": {
             "20h": [
               {

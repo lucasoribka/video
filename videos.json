@@ -146,6 +146,13 @@
         },
         "QUADRA 3": {
           "02-09-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_02-09-2025_20-55-53.mp4",
+                "url": "https://drive.google.com/file/d/1gp9S5_2FU0OuS2vKT0a7guiChQK8QiR2/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1gp9S5_2FU0OuS2vKT0a7guiChQK8QiR2"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_02-09-2025_19-53-26.mp4",
@@ -2205,6 +2212,20 @@
     "RIO NEGRO-PR": {
       "ARENA PASSA TRÊS": {
         "TRAVE 2": {
+          "02-09-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_02-09-2025_20-59-56.mp4",
+                "url": "https://drive.google.com/file/d/1EpZNue0FqEhcZl6BMuaQelPFWs076O4l/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1EpZNue0FqEhcZl6BMuaQelPFWs076O4l"
+              },
+              {
+                "nome": "QUADRA_02-09-2025_20-56-56.mp4",
+                "url": "https://drive.google.com/file/d/1NjA7xfuqNXbe1qhs62y2a5hmKIxBw893/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1NjA7xfuqNXbe1qhs62y2a5hmKIxBw893"
+              }
+            ]
+          },
           "01-09-2025": {
             "21h": [
               {
@@ -2430,6 +2451,16 @@
         "QUADRA": {
           "02-09-2025": {
             "20h": [
+              {
+                "nome": "QUADRA_02-09-2025_20-58-44.mp4",
+                "url": "https://drive.google.com/file/d/1vhiuwsi4UvP_FklfpxpEsNnsSoTBJTK2/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1vhiuwsi4UvP_FklfpxpEsNnsSoTBJTK2"
+              },
+              {
+                "nome": "QUADRA_02-09-2025_20-54-22.mp4",
+                "url": "https://drive.google.com/file/d/1QXYLfMzeoIBqY183uhIIiCMZWCoMcKfY/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1QXYLfMzeoIBqY183uhIIiCMZWCoMcKfY"
+              },
               {
                 "nome": "QUADRA_02-09-2025_20-50-47.mp4",
                 "url": "https://drive.google.com/file/d/1DOp19lIlaW0lyJut7RZCOi85HA6YeOsc/preview",

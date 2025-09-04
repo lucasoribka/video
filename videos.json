@@ -12,6 +12,11 @@
           "04-09-2025": {
             "15h": [
               {
+                "nome": "QUADRA_04-09-2025_15-33-17.mp4",
+                "url": "https://drive.google.com/file/d/1ff2_FXbbEXRTMESd-YgBdyTKKT1Lj-uZ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ff2_FXbbEXRTMESd-YgBdyTKKT1Lj-uZ"
+              },
+              {
                 "nome": "QUADRA_04-09-2025_15-01-18.mp4",
                 "url": "https://drive.google.com/file/d/1AfjP4mIqPMtF1Q2FBQNh0MD3CCiJSkbR/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1AfjP4mIqPMtF1Q2FBQNh0MD3CCiJSkbR"
@@ -1390,6 +1395,13 @@
         },
         "TRAVE 2": {
           "04-09-2025": {
+            "15h": [
+              {
+                "nome": "QUADRA_04-09-2025_15-33-22.mp4",
+                "url": "https://drive.google.com/file/d/1T4JRbwLb-hP_nu1xstehTUJ5ngL8EbOH/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1T4JRbwLb-hP_nu1xstehTUJ5ngL8EbOH"
+              }
+            ],
             "14h": [
               {
                 "nome": "QUADRA_04-09-2025_14-34-38.mp4",
@@ -4807,6 +4819,18 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "04-09-2025": {
+            "15h": [
+              {
+                "nome": "QUADRA_04-09-2025_15-35-03.mp4",
+                "url": "https://drive.google.com/file/d/197_XE4yMq-d06R_t5CRSQbcGUZ7EvrgZ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=197_XE4yMq-d06R_t5CRSQbcGUZ7EvrgZ"
+              },
+              {
+                "nome": "QUADRA_04-09-2025_15-34-05.mp4",
+                "url": "https://drive.google.com/file/d/1MQlEoAdN-Y8nC6MalLb8RzhSSVtT4uCz/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1MQlEoAdN-Y8nC6MalLb8RzhSSVtT4uCz"
+              }
+            ],
             "08h": [
               {
                 "nome": "QUADRA_04-09-2025_08-43-20.mp4",

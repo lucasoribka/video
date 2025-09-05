@@ -1007,7 +1007,13 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "04-09-2025": {
-            "22h": [],
+            "22h": [
+              {
+                "nome": "QUADRA_04-09-2025_22-02-23.mp4",
+                "url": "https://drive.google.com/file/d/1kNvKvGMZZQqU0egEGl7ArqQv7iZ7L6CP/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1kNvKvGMZZQqU0egEGl7ArqQv7iZ7L6CP"
+              }
+            ],
             "21h": [
               {
                 "nome": "QUADRA_04-09-2025_21-59-22.mp4",

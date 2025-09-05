@@ -577,6 +577,11 @@
           "05-09-2025": {
             "19h": [
               {
+                "nome": "QUADRA_05-09-2025_19-59-34.mp4",
+                "url": "https://drive.google.com/file/d/1sgpbJ7diMzd82EV6X5O-KHjeUzzPJRu0/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1sgpbJ7diMzd82EV6X5O-KHjeUzzPJRu0"
+              },
+              {
                 "nome": "QUADRA_05-09-2025_19-55-56.mp4",
                 "url": "https://drive.google.com/file/d/1PxgkjnXuuv7hcRLrzUdl28DaifE_Gh5V/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1PxgkjnXuuv7hcRLrzUdl28DaifE_Gh5V"
@@ -903,6 +908,13 @@
         },
         "TRAVE 2": {
           "05-09-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_05-09-2025_20-02-58.mp4",
+                "url": "https://drive.google.com/file/d/1r11QI8S87zMe6w1iAiNpEpBbBmDqyoFe/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1r11QI8S87zMe6w1iAiNpEpBbBmDqyoFe"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_05-09-2025_19-57-38.mp4",
@@ -2179,7 +2191,19 @@
       "RAVENNA": {
         "QUADRA": {
           "05-09-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_05-09-2025_20-00-36.mp4",
+                "url": "https://drive.google.com/file/d/19bZ-TEAYUjrfFaVRBgpUELjwixxU8O-K/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=19bZ-TEAYUjrfFaVRBgpUELjwixxU8O-K"
+              }
+            ],
             "19h": [
+              {
+                "nome": "QUADRA_05-09-2025_19-57-43.mp4",
+                "url": "https://drive.google.com/file/d/1SbLYOPHEKFB5FktKnrbfx7izaR_TX2Ul/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1SbLYOPHEKFB5FktKnrbfx7izaR_TX2Ul"
+              },
               {
                 "nome": "QUADRA_05-09-2025_19-51-14.mp4",
                 "url": "https://drive.google.com/file/d/1Q9dUsC59ZjV__FEe2fVEabENaNc7sBhx/preview",

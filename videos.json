@@ -1088,6 +1088,18 @@
         },
         "TRAVE 2": {
           "06-09-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_06-09-2025_19-02-08.mp4",
+                "url": "https://drive.google.com/file/d/1JZVLcwXdDBcPKjY74lmatYvH-LjxrTQx/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1JZVLcwXdDBcPKjY74lmatYvH-LjxrTQx"
+              },
+              {
+                "nome": "QUADRA_06-09-2025_19-01-31.mp4",
+                "url": "https://drive.google.com/file/d/1tz1HstLcs0xkeHiJcVtg8jfUV2mCtNff/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1tz1HstLcs0xkeHiJcVtg8jfUV2mCtNff"
+              }
+            ],
             "17h": [
               {
                 "nome": "QUADRA_06-09-2025_17-24-02.mp4",
@@ -2359,6 +2371,16 @@
         "AREIA 1": {
           "06-09-2025": {
             "18h": [
+              {
+                "nome": "QUADRA_06-09-2025_18-49-52.mp4",
+                "url": "https://drive.google.com/file/d/1YcX4tbOWR3Jb52RuVNimno-_P5Hd5WOj/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1YcX4tbOWR3Jb52RuVNimno-_P5Hd5WOj"
+              },
+              {
+                "nome": "QUADRA_06-09-2025_18-19-28.mp4",
+                "url": "https://drive.google.com/file/d/1MejwQ2nVE4_fQ1gxcOMvEAziy3gr8n5T/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1MejwQ2nVE4_fQ1gxcOMvEAziy3gr8n5T"
+              },
               {
                 "nome": "QUADRA_06-09-2025_18-13-42.mp4",
                 "url": "https://drive.google.com/file/d/1Co-iovj64EBOfyF_tJ8HOObKNeu9gtga/preview",
@@ -4318,6 +4340,15 @@
       },
       "PAIOL": {
         "TRAVE 2": {
+          "06-09-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_06-09-2025_18-40-14.mp4",
+                "url": "https://drive.google.com/file/d/137E2iN4m6UY8GJ8R-ShGT097NJcFCjpT/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=137E2iN4m6UY8GJ8R-ShGT097NJcFCjpT"
+              }
+            ]
+          },
           "04-09-2025": {
             "19h": [
               {

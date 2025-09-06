@@ -2357,6 +2357,15 @@
           }
         },
         "AREIA 1": {
+          "06-09-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_06-09-2025_18-13-42.mp4",
+                "url": "https://drive.google.com/file/d/1Co-iovj64EBOfyF_tJ8HOObKNeu9gtga/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Co-iovj64EBOfyF_tJ8HOObKNeu9gtga"
+              }
+            ]
+          },
           "05-09-2025": {
             "22h": [
               {
@@ -4420,6 +4429,13 @@
         },
         "TRAVE 1": {
           "06-09-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_06-09-2025_18-27-42.mp4",
+                "url": "https://drive.google.com/file/d/1pktoRv_cq51Tw7iBDJjuFS59AKsIv-8Y/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1pktoRv_cq51Tw7iBDJjuFS59AKsIv-8Y"
+              }
+            ],
             "10h": [
               {
                 "nome": "QUADRA_06-09-2025_10-26-35.mp4",
@@ -4619,6 +4635,23 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "06-09-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_06-09-2025_18-24-29.mp4",
+                "url": "https://drive.google.com/file/d/1l2AZ9jZftGtezZtjq1ho5KAe8ucLBrCJ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1l2AZ9jZftGtezZtjq1ho5KAe8ucLBrCJ"
+              },
+              {
+                "nome": "QUADRA_06-09-2025_18-23-53.mp4",
+                "url": "https://drive.google.com/file/d/1mlg--AUu4yBlOSAPTTTu7iR8sxsiO3FF/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1mlg--AUu4yBlOSAPTTTu7iR8sxsiO3FF"
+              },
+              {
+                "nome": "QUADRA_06-09-2025_18-09-09.mp4",
+                "url": "https://drive.google.com/file/d/16V36w3saf7VWCmt4hP1Lg5lIIys7jS61/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16V36w3saf7VWCmt4hP1Lg5lIIys7jS61"
+              }
+            ],
             "17h": [
               {
                 "nome": "QUADRA_06-09-2025_17-57-27.mp4",

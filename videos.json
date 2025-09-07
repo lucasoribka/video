@@ -2974,6 +2974,11 @@
           "07-09-2025": {
             "16h": [
               {
+                "nome": "QUADRA_07-09-2025_16-38-41.mp4",
+                "url": "https://drive.google.com/file/d/1YqQjbY0jES4wWY1_7Ll3LaRcq3P9lNE4/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1YqQjbY0jES4wWY1_7Ll3LaRcq3P9lNE4"
+              },
+              {
                 "nome": "QUADRA_07-09-2025_16-34-45.mp4",
                 "url": "https://drive.google.com/file/d/1K9DsMeZynU3UaW20JL9fryF6kuakp_Xo/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1K9DsMeZynU3UaW20JL9fryF6kuakp_Xo"
@@ -4854,6 +4859,7 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "07-09-2025": {
+            "16h": [],
             "15h": [
               {
                 "nome": "QUADRA_07-09-2025_15-21-37.mp4",

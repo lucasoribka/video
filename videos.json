@@ -2752,6 +2752,15 @@
           }
         },
         "AREIA 1": {
+          "09-09-2025": {
+            "16h": [
+              {
+                "nome": "QUADRA_09-09-2025_16-08-07.mp4",
+                "url": "https://drive.google.com/file/d/1-7Tcvwpihn4S2fieIA0-iKmJiHW6hhD_/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1-7Tcvwpihn4S2fieIA0-iKmJiHW6hhD_"
+              }
+            ]
+          },
           "08-09-2025": {
             "18h": [
               {
@@ -3376,6 +3385,18 @@
       "RAVENNA": {
         "QUADRA": {
           "09-09-2025": {
+            "16h": [
+              {
+                "nome": "QUADRA_09-09-2025_16-09-02.mp4",
+                "url": "https://drive.google.com/file/d/1KXfobziUK45quTbT5DloivCe-adXwUqU/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1KXfobziUK45quTbT5DloivCe-adXwUqU"
+              },
+              {
+                "nome": "QUADRA_09-09-2025_16-02-42.mp4",
+                "url": "https://drive.google.com/file/d/1BGdeVT4ihjN-4CjhtKvbGTlyWURea5uN/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1BGdeVT4ihjN-4CjhtKvbGTlyWURea5uN"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_09-09-2025_15-57-02.mp4",

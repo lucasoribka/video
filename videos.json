@@ -10,7 +10,18 @@
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
           "09-09-2025": {
-            "15h": []
+            "15h": [
+              {
+                "nome": "QUADRA_09-09-2025_15-29-55.mp4",
+                "url": "https://drive.google.com/file/d/1PutvZ8l5HlAdeJdHZ7112kKGqi8L5MB4/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1PutvZ8l5HlAdeJdHZ7112kKGqi8L5MB4"
+              },
+              {
+                "nome": "QUADRA_09-09-2025_15-24-49.mp4",
+                "url": "https://drive.google.com/file/d/1kLGmnhs-vpvkw0qm_aDCKjy1zofhKhyq/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1kLGmnhs-vpvkw0qm_aDCKjy1zofhKhyq"
+              }
+            ]
           },
           "08-09-2025": {
             "19h": [
@@ -676,6 +687,13 @@
         },
         "QUADRA 1": {
           "09-09-2025": {
+            "15h": [
+              {
+                "nome": "QUADRA_09-09-2025_15-30-54.mp4",
+                "url": "https://drive.google.com/file/d/1JVshwEpgPLVTjnx653kV1a_4orMTDzFS/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1JVshwEpgPLVTjnx653kV1a_4orMTDzFS"
+              }
+            ],
             "07h": [
               {
                 "nome": "QUADRA_09-09-2025_07-35-19.mp4",

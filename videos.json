@@ -388,6 +388,7 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "09-09-2025": {
+            "19h": [],
             "17h": [
               {
                 "nome": "QUADRA_09-09-2025_17-57-38.mp4",
@@ -1101,6 +1102,13 @@
       "RAVENNA": {
         "QUADRA": {
           "09-09-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_09-09-2025_19-44-44.mp4",
+                "url": "https://drive.google.com/file/d/1IT4t2e1Zq1PHIuES22G16yuiHFGF1DIo/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1IT4t2e1Zq1PHIuES22G16yuiHFGF1DIo"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_09-09-2025_18-58-03.mp4",

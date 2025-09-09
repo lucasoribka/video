@@ -524,6 +524,15 @@
           }
         },
         "AREIA 3": {
+          "09-09-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_09-09-2025_19-32-52.mp4",
+                "url": "https://drive.google.com/file/d/1zhH09p1l2BbnlOa2XzZNTXiWmIZk3kv2/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1zhH09p1l2BbnlOa2XzZNTXiWmIZk3kv2"
+              }
+            ]
+          },
           "06-09-2025": {
             "17h": [
               {
@@ -2237,6 +2246,9 @@
       },
       "PAIOL": {
         "TRAVE 2": {
+          "09-09-2025": {
+            "19h": []
+          },
           "08-09-2025": {
             "21h": [
               {

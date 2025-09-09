@@ -9,6 +9,9 @@
     "MAFRA-SC": {
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
+          "09-09-2025": {
+            "15h": []
+          },
           "08-09-2025": {
             "19h": [
               {
@@ -192,6 +195,18 @@
         },
         "QUADRA 3": {
           "09-09-2025": {
+            "15h": [
+              {
+                "nome": "QUADRA_09-09-2025_15-21-35.mp4",
+                "url": "https://drive.google.com/file/d/19y36MvnulApdbhk7ADNXc5SZ_7dujtJg/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=19y36MvnulApdbhk7ADNXc5SZ_7dujtJg"
+              },
+              {
+                "nome": "QUADRA_09-09-2025_15-20-20.mp4",
+                "url": "https://drive.google.com/file/d/1LoHefyhsPyMayFyR0jIMC4pufYrl3-1e/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1LoHefyhsPyMayFyR0jIMC4pufYrl3-1e"
+              }
+            ],
             "10h": [
               {
                 "nome": "QUADRA_09-09-2025_10-02-37.mp4",

@@ -299,6 +299,7 @@
         },
         "QUADRA 1": {
           "09-09-2025": {
+            "21h": [],
             "20h": [
               {
                 "nome": "QUADRA_09-09-2025_20-31-26.mp4",
@@ -1904,6 +1905,15 @@
     "RIO NEGRO-PR": {
       "ARENA PASSA TRÊS": {
         "TRAVE 2": {
+          "09-09-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_09-09-2025_21-08-10.mp4",
+                "url": "https://drive.google.com/file/d/1rauj3KTOsxdhYXxJ0LDHC-I38AcodzWJ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1rauj3KTOsxdhYXxJ0LDHC-I38AcodzWJ"
+              }
+            ]
+          },
           "08-09-2025": {
             "21h": [
               {
@@ -1993,6 +2003,7 @@
           }
         },
         "TRAVE 1": {
+          "09-09-2025": {},
           "08-09-2025": {
             "22h": [
               {

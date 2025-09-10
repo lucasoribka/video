@@ -1,10 +1,12 @@
 {
+  "RS": {
+    "XANGRILÁ": {
+      "ATL PADEL": {}
+    }
+  },
   "SC": {
-    "ITAIÓPOLIS-SC": {
-      "ITA PADEL": {
-        "QUADRA 2": {},
-        "QUADRA 1": {}
-      }
+    "SÃO BENTO DO SUL-SC": {
+      "COLISEU": {}
     },
     "MAFRA-SC": {
       "RIOMAFRA PADEL": {
@@ -607,6 +609,11 @@
         "TRAVE 2": {
           "09-09-2025": {
             "22h": [
+              {
+                "nome": "QUADRA_09-09-2025_22-57-26.mp4",
+                "url": "https://drive.google.com/file/d/1ULZisqXrXpVDagktVWNHfmIpT6_8y8Dq/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ULZisqXrXpVDagktVWNHfmIpT6_8y8Dq"
+              },
               {
                 "nome": "QUADRA_09-09-2025_22-29-47.mp4",
                 "url": "https://drive.google.com/file/d/1AO8kAhsDp2I51x2uhPHH66GNKgs6ry1_/preview",
@@ -2770,47 +2777,6 @@
                 "nome": "QUADRA_06-09-2025_15-48-47.mp4",
                 "url": "https://drive.google.com/file/d/1qBt3h6FkKKj0X8bCG_vWKrxaB8oCioNg/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1qBt3h6FkKKj0X8bCG_vWKrxaB8oCioNg"
-              }
-            ]
-          }
-        }
-      },
-      "ESCOLA TENNIS ZSPORTS": {
-        "TENNIS": {
-          "09-07-2025": {
-            "19h": [
-              {
-                "nome": "QUADRA_09-07-2025_19-46-35.mp4",
-                "url": "https://drive.google.com/file/d/12fzqTM8sdKJ536zY2IIkCLb2sjs5K1G-/preview",
-                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=12fzqTM8sdKJ536zY2IIkCLb2sjs5K1G-"
-              }
-            ]
-          },
-          "08-07-2025": {
-            "20h": [
-              {
-                "nome": "QUADRA_08-07-2025_20-58-03.mp4",
-                "url": "https://drive.google.com/file/d/1sZIg3lHsg199HxHG66X2CWxDJ14dOTiU/preview",
-                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1sZIg3lHsg199HxHG66X2CWxDJ14dOTiU"
-              }
-            ]
-          },
-          "07-07-2025": {
-            "17h": [
-              {
-                "nome": "QUADRA_07-07-2025_17-50-01.mp4",
-                "url": "https://drive.google.com/file/d/1Wj6wh_2nOFFcf8iw03TGsIYLPKNNjdlU/preview",
-                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Wj6wh_2nOFFcf8iw03TGsIYLPKNNjdlU"
-              },
-              {
-                "nome": "QUADRA_07-07-2025_17-41-26.mp4",
-                "url": "https://drive.google.com/file/d/1s1-mzPEqY27jvkds4hf6jhDvtS8WlMT5/preview",
-                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1s1-mzPEqY27jvkds4hf6jhDvtS8WlMT5"
-              },
-              {
-                "nome": "QUADRA_07-07-2025_17-35-14.mp4",
-                "url": "https://drive.google.com/file/d/1u7HPXAXm4zKYXnvi3NPwsDf2uLkvYwdv/preview",
-                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1u7HPXAXm4zKYXnvi3NPwsDf2uLkvYwdv"
               }
             ]
           }

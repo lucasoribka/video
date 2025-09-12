@@ -786,6 +786,28 @@
         },
         "TRAVE 2": {
           "12-09-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_12-09-2025_20-05-35.mp4",
+                "url": "https://drive.google.com/file/d/1iwQys5tzk3iM9y0UNWxKMFxS3hyxtkcV/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1iwQys5tzk3iM9y0UNWxKMFxS3hyxtkcV"
+              },
+              {
+                "nome": "QUADRA_12-09-2025_20-03-41.mp4",
+                "url": "https://drive.google.com/file/d/1scd5LV_ifM60-pzgweCemRBpYynHJb4J/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1scd5LV_ifM60-pzgweCemRBpYynHJb4J"
+              },
+              {
+                "nome": "QUADRA_12-09-2025_20-02-08.mp4",
+                "url": "https://drive.google.com/file/d/17417449zP_ca7QaGvr1xDzeXlniwoZSO/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=17417449zP_ca7QaGvr1xDzeXlniwoZSO"
+              },
+              {
+                "nome": "QUADRA_12-09-2025_20-01-34.mp4",
+                "url": "https://drive.google.com/file/d/16IC90v8-qxm6sm6qlYSWl-az0o2GNQU9/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16IC90v8-qxm6sm6qlYSWl-az0o2GNQU9"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_12-09-2025_19-59-39.mp4",
@@ -1654,6 +1676,13 @@
       "RAVENNA": {
         "QUADRA": {
           "12-09-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_12-09-2025_20-07-58.mp4",
+                "url": "https://drive.google.com/file/d/1RYoiMIPCuATc_WLGnQC3i87kS98oCKcr/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1RYoiMIPCuATc_WLGnQC3i87kS98oCKcr"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_12-09-2025_19-41-10.mp4",
@@ -3109,6 +3138,13 @@
       "PAIOL": {
         "TRAVE 2": {
           "12-09-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_12-09-2025_20-06-41.mp4",
+                "url": "https://drive.google.com/file/d/1S6dwPKe6F7aKoshHFV-d0PIwqf0dGzLT/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1S6dwPKe6F7aKoshHFV-d0PIwqf0dGzLT"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_12-09-2025_19-59-45.mp4",

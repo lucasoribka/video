@@ -190,7 +190,13 @@
         },
         "QUADRA 3": {
           "11-09-2025": {
-            "20h": [],
+            "20h": [
+              {
+                "nome": "QUADRA_11-09-2025_20-51-08.mp4",
+                "url": "https://drive.google.com/file/d/1RWuVjKKXoZ12rFnEAJ_WuprQdaFtnTk8/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1RWuVjKKXoZ12rFnEAJ_WuprQdaFtnTk8"
+              }
+            ],
             "17h": [
               {
                 "nome": "QUADRA_11-09-2025_17-14-50.mp4",

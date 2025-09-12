@@ -493,6 +493,16 @@
           "12-09-2025": {
             "19h": [
               {
+                "nome": "QUADRA_12-09-2025_19-06-01.mp4",
+                "url": "https://drive.google.com/file/d/1o7Z2QbTrB59CjbtOhM1Y_QFA14MdO_VX/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1o7Z2QbTrB59CjbtOhM1Y_QFA14MdO_VX"
+              },
+              {
+                "nome": "QUADRA_12-09-2025_19-05-02.mp4",
+                "url": "https://drive.google.com/file/d/1ecJ72F32cOTSnVZXXW9lBjO65_TzGRGx/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ecJ72F32cOTSnVZXXW9lBjO65_TzGRGx"
+              },
+              {
                 "nome": "QUADRA_12-09-2025_19-01-10.mp4",
                 "url": "https://drive.google.com/file/d/1myMA-DQ6fuYd0fdfUtNnir2mAdqAtKIl/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1myMA-DQ6fuYd0fdfUtNnir2mAdqAtKIl"
@@ -749,6 +759,18 @@
         },
         "TRAVE 2": {
           "12-09-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_12-09-2025_19-08-56.mp4",
+                "url": "https://drive.google.com/file/d/1diOygaf6GlYvpXSTf_UI7i8I2-6WmKSI/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1diOygaf6GlYvpXSTf_UI7i8I2-6WmKSI"
+              },
+              {
+                "nome": "QUADRA_12-09-2025_19-07-19.mp4",
+                "url": "https://drive.google.com/file/d/1EUslXDeNYZNJAVrH3S628AFakZcY5ymr/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1EUslXDeNYZNJAVrH3S628AFakZcY5ymr"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_12-09-2025_18-46-37.mp4",
@@ -1564,6 +1586,15 @@
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
+          "12-09-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_12-09-2025_19-08-51.mp4",
+                "url": "https://drive.google.com/file/d/1gpfVwl8RgU1OkZIvy6OaF76FkBfXJYWZ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1gpfVwl8RgU1OkZIvy6OaF76FkBfXJYWZ"
+              }
+            ]
+          },
           "11-09-2025": {
             "21h": [
               {

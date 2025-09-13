@@ -3345,7 +3345,18 @@
       "PAIOL": {
         "TRAVE 2": {
           "13-09-2025": {
-            "09h": []
+            "09h": [
+              {
+                "nome": "QUADRA_13-09-2025_09-10-14.mp4",
+                "url": "https://drive.google.com/file/d/18PuUaXWTgUn7vSC_Dlomsp93RnG3lNT3/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=18PuUaXWTgUn7vSC_Dlomsp93RnG3lNT3"
+              },
+              {
+                "nome": "QUADRA_13-09-2025_09-08-34.mp4",
+                "url": "https://drive.google.com/file/d/1rGTD0pUBAKZoH_xBtrgV9RneXMxO2q5D/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1rGTD0pUBAKZoH_xBtrgV9RneXMxO2q5D"
+              }
+            ]
           },
           "12-09-2025": {
             "20h": [

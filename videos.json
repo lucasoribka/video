@@ -7,6 +7,17 @@
   "SC": {
     "SÃO BENTO DO SUL-SC": {
       "COLISEU": {
+        "PADEL 2": {
+          "17-09-2025": {
+            "15h": [
+              {
+                "nome": "QUADRA_17-09-2025_15-37-51.mp4",
+                "url": "https://drive.google.com/file/d/1CyoRcEuf7LfA9p73lIXHWWvj_Ku_WDvE/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1CyoRcEuf7LfA9p73lIXHWWvj_Ku_WDvE"
+              }
+            ]
+          }
+        },
         "PADEL 3": {
           "14-09-2025": {
             "16h": [
@@ -55,7 +66,13 @@
         },
         "PADEL 1": {
           "17-09-2025": {
-            "15h": []
+            "15h": [
+              {
+                "nome": "QUADRA_17-09-2025_15-37-49.mp4",
+                "url": "https://drive.google.com/file/d/1SH529wJyLjxlSga89aE0LefXayEfUE9B/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1SH529wJyLjxlSga89aE0LefXayEfUE9B"
+              }
+            ]
           },
           "13-09-2025": {
             "15h": [

@@ -832,7 +832,18 @@
         },
         "AREIA 2": {
           "25-09-2025": {
-            "19h": []
+            "19h": [
+              {
+                "nome": "QUADRA_25-09-2025_19-21-58.mp4",
+                "url": "https://drive.google.com/file/d/19IFzGXvujO6Fn6D1pRMEWarYSsC3O00b/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=19IFzGXvujO6Fn6D1pRMEWarYSsC3O00b"
+              },
+              {
+                "nome": "QUADRA_25-09-2025_19-20-05.mp4",
+                "url": "https://drive.google.com/file/d/1sYMSM6XLWzvtpHh7iDkBK6TKNuvQcas3/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1sYMSM6XLWzvtpHh7iDkBK6TKNuvQcas3"
+              }
+            ]
           },
           "23-09-2025": {
             "16h": [
@@ -3548,6 +3559,11 @@
           "25-09-2025": {
             "19h": [
               {
+                "nome": "QUADRA_25-09-2025_19-23-55.mp4",
+                "url": "https://drive.google.com/file/d/1KJiZIw3vtbwbDvfmUDuQ4MlSYBtjUIer/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1KJiZIw3vtbwbDvfmUDuQ4MlSYBtjUIer"
+              },
+              {
                 "nome": "QUADRA_25-09-2025_19-14-52.mp4",
                 "url": "https://drive.google.com/file/d/1bKwHRxApsbAC8spTQNHLc_-zMF5OLBow/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1bKwHRxApsbAC8spTQNHLc_-zMF5OLBow"
@@ -5213,6 +5229,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "25-09-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_25-09-2025_19-25-55.mp4",
+                "url": "https://drive.google.com/file/d/1Dr5YQNkazgZjkl2-2_ej6OFAil5Fd-1C/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Dr5YQNkazgZjkl2-2_ej6OFAil5Fd-1C"
+              }
+            ],
             "08h": [
               {
                 "nome": "QUADRA_25-09-2025_08-58-03.mp4",

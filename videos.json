@@ -4,6 +4,13 @@
       "ATL PADEL": {
         "QUADRA 1": {
           "25-09-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_25-09-2025_19-13-54.mp4",
+                "url": "https://drive.google.com/file/d/1D_ZWF-L4wu8k1d9k_nvhlS_WcDGbKxBu/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1D_ZWF-L4wu8k1d9k_nvhlS_WcDGbKxBu"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_25-09-2025_18-57-00.mp4",
@@ -824,6 +831,9 @@
           }
         },
         "AREIA 2": {
+          "25-09-2025": {
+            "19h": []
+          },
           "23-09-2025": {
             "16h": [
               {
@@ -1731,6 +1741,13 @@
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
           "25-09-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_25-09-2025_19-15-50.mp4",
+                "url": "https://drive.google.com/file/d/1msVqRUQHyC-U4URcGVb3upsGwN9Fmys5/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1msVqRUQHyC-U4URcGVb3upsGwN9Fmys5"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_25-09-2025_15-48-56.mp4",
@@ -2065,6 +2082,18 @@
         },
         "QUADRA 2": {
           "25-09-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_25-09-2025_19-16-42.mp4",
+                "url": "https://drive.google.com/file/d/1e_9t-ey8Tty6t6vL9Y2xlBD3dGUQ9Pmk/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1e_9t-ey8Tty6t6vL9Y2xlBD3dGUQ9Pmk"
+              },
+              {
+                "nome": "QUADRA_25-09-2025_19-16-07.mp4",
+                "url": "https://drive.google.com/file/d/1Pv50siYRFHnQkBwsWnZVgeEA9d-smGIa/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Pv50siYRFHnQkBwsWnZVgeEA9d-smGIa"
+              }
+            ],
             "17h": [
               {
                 "nome": "QUADRA_25-09-2025_17-02-33.mp4",
@@ -3516,6 +3545,15 @@
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
+          "25-09-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_25-09-2025_19-14-52.mp4",
+                "url": "https://drive.google.com/file/d/1bKwHRxApsbAC8spTQNHLc_-zMF5OLBow/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1bKwHRxApsbAC8spTQNHLc_-zMF5OLBow"
+              }
+            ]
+          },
           "24-09-2025": {
             "22h": [
               {
@@ -4254,6 +4292,11 @@
         "QUADRA": {
           "25-09-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_25-09-2025_19-20-45.mp4",
+                "url": "https://drive.google.com/file/d/15uuIIyjQKKRf5PFrsz6h7MpNnlVEk0Qz/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=15uuIIyjQKKRf5PFrsz6h7MpNnlVEk0Qz"
+              },
               {
                 "nome": "QUADRA_25-09-2025_19-07-17.mp4",
                 "url": "https://drive.google.com/file/d/1rNrsUA-lGC99COM4-6bWaAWKa7MFKejZ/preview",

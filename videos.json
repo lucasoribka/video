@@ -306,6 +306,13 @@
         },
         "AREIA 3": {
           "25-09-2025": {
+            "17h": [
+              {
+                "nome": "QUADRA_25-09-2025_17-20-56.mp4",
+                "url": "https://drive.google.com/file/d/1zMHKVxd57jWtSwsGDlk01rOE3ev9Nteb/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1zMHKVxd57jWtSwsGDlk01rOE3ev9Nteb"
+              }
+            ],
             "16h": [
               {
                 "nome": "QUADRA_25-09-2025_16-38-34.mp4",
@@ -1031,6 +1038,13 @@
         },
         "Quadra Truck Center": {
           "25-09-2025": {
+            "17h": [
+              {
+                "nome": "QUADRA_25-09-2025_17-22-04.mp4",
+                "url": "https://drive.google.com/file/d/1gVTMMByYuEEALVlYe6Kcg6raQ5IMF3dh/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1gVTMMByYuEEALVlYe6Kcg6raQ5IMF3dh"
+              }
+            ],
             "08h": [
               {
                 "nome": "QUADRA_25-09-2025_08-24-38.mp4",
@@ -1178,7 +1192,18 @@
         },
         "Quadra Manchester": {
           "25-09-2025": {
-            "17h": [],
+            "17h": [
+              {
+                "nome": "QUADRA_25-09-2025_17-20-26.mp4",
+                "url": "https://drive.google.com/file/d/15d-f87SsseV13FjfTzdY-TfPZnxcE54p/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=15d-f87SsseV13FjfTzdY-TfPZnxcE54p"
+              },
+              {
+                "nome": "QUADRA_25-09-2025_17-15-13.mp4",
+                "url": "https://drive.google.com/file/d/1Xydi03GKLqgr24q56bZPItlqCTQadb21/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Xydi03GKLqgr24q56bZPItlqCTQadb21"
+              }
+            ],
             "16h": [
               {
                 "nome": "QUADRA_25-09-2025_16-29-47.mp4",
@@ -1708,7 +1733,13 @@
         },
         "QUADRA 3": {
           "25-09-2025": {
-            "17h": [],
+            "17h": [
+              {
+                "nome": "QUADRA_25-09-2025_17-12-24.mp4",
+                "url": "https://drive.google.com/file/d/1wzao4EojZqZD45lq4f_Z40NakF-aJwk3/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1wzao4EojZqZD45lq4f_Z40NakF-aJwk3"
+              }
+            ],
             "16h": [
               {
                 "nome": "QUADRA_25-09-2025_16-00-50.mp4",

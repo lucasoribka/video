@@ -3759,6 +3759,9 @@
     "RIO NEGRO-PR": {
       "ARENA PASSA TRÊS": {
         "TRAVE 2": {
+          "29-09-2025": {
+            "19h": []
+          },
           "28-09-2025": {
             "19h": [
               {
@@ -3928,6 +3931,13 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "29-09-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_29-09-2025_19-02-35.mp4",
+                "url": "https://drive.google.com/file/d/1TrnnB_xS-6fCSoxtnIhFbw09UtuNvZgh/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1TrnnB_xS-6fCSoxtnIhFbw09UtuNvZgh"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_29-09-2025_18-53-56.mp4",

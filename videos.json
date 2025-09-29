@@ -3379,7 +3379,18 @@
       "RAVENNA": {
         "QUADRA": {
           "29-09-2025": {
-            "18h": [],
+            "18h": [
+              {
+                "nome": "QUADRA_29-09-2025_18-18-21.mp4",
+                "url": "https://drive.google.com/file/d/1L_mXEATYUHdFS4BxspYX3nRbgMshwAHx/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1L_mXEATYUHdFS4BxspYX3nRbgMshwAHx"
+              },
+              {
+                "nome": "QUADRA_29-09-2025_18-13-56.mp4",
+                "url": "https://drive.google.com/file/d/1p57AQpJB5EAqOW4uyRhkl3r_hOZrEBOf/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1p57AQpJB5EAqOW4uyRhkl3r_hOZrEBOf"
+              }
+            ],
             "09h": [
               {
                 "nome": "QUADRA_29-09-2025_09-01-41.mp4",
@@ -3900,6 +3911,25 @@
       },
       "ARENA MAIDL": {
         "QUADRA": {
+          "29-09-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_29-09-2025_18-20-22.mp4",
+                "url": "https://drive.google.com/file/d/10XtrIY87bSeHxWIBGmUfk_ghkIDTvXIo/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=10XtrIY87bSeHxWIBGmUfk_ghkIDTvXIo"
+              },
+              {
+                "nome": "QUADRA_29-09-2025_18-17-29.mp4",
+                "url": "https://drive.google.com/file/d/1YNP0EE6yeX9P6h3AG52K2j8UiiU-abo8/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1YNP0EE6yeX9P6h3AG52K2j8UiiU-abo8"
+              },
+              {
+                "nome": "QUADRA_29-09-2025_18-17-00.mp4",
+                "url": "https://drive.google.com/file/d/1q1nkjKf_4tKLwYlNModnyU3J1XeJF_F8/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1q1nkjKf_4tKLwYlNModnyU3J1XeJF_F8"
+              }
+            ]
+          },
           "28-09-2025": {
             "17h": [
               {

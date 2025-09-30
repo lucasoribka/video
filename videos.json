@@ -4,6 +4,13 @@
       "ATL PADEL": {
         "QUADRA 1": {
           "30-09-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_30-09-2025_20-18-07.mp4",
+                "url": "https://drive.google.com/file/d/1y8uFpURqDQ-095_B2mPNM0bb9Ez6IXpe/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1y8uFpURqDQ-095_B2mPNM0bb9Ez6IXpe"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_30-09-2025_18-50-37.mp4",
@@ -1716,6 +1723,13 @@
         },
         "Quadra Caminho do Saber": {
           "30-09-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_30-09-2025_20-22-41.mp4",
+                "url": "https://drive.google.com/file/d/1G2c5cHEpo7GRuU3gADCFODTWTKEHPz5k/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1G2c5cHEpo7GRuU3gADCFODTWTKEHPz5k"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_30-09-2025_19-38-32.mp4",
@@ -2370,6 +2384,7 @@
         },
         "QUADRA 2": {
           "30-09-2025": {
+            "20h": [],
             "19h": [
               {
                 "nome": "QUADRA_30-09-2025_19-34-25.mp4",

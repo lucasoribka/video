@@ -247,6 +247,16 @@
           "30-09-2025": {
             "18h": [
               {
+                "nome": "QUADRA_30-09-2025_18-41-50.mp4",
+                "url": "https://drive.google.com/file/d/1MfUwd8xeRigPAD8TR7VuLhidlMI6nKU_/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1MfUwd8xeRigPAD8TR7VuLhidlMI6nKU_"
+              },
+              {
+                "nome": "QUADRA_30-09-2025_18-40-48.mp4",
+                "url": "https://drive.google.com/file/d/1AhXGx9w_JCXUot6wzbMtDDCAqnT-7ovD/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1AhXGx9w_JCXUot6wzbMtDDCAqnT-7ovD"
+              },
+              {
                 "nome": "QUADRA_30-09-2025_18-33-09.mp4",
                 "url": "https://drive.google.com/file/d/1k7LQ_si_HtBq58_hPKeGDlKUZ92eGFhk/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1k7LQ_si_HtBq58_hPKeGDlKUZ92eGFhk"
@@ -1905,6 +1915,13 @@
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
           "30-09-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_30-09-2025_18-44-00.mp4",
+                "url": "https://drive.google.com/file/d/19jhYxyh-yfv89MC0HyZfg719bbLUdQh4/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=19jhYxyh-yfv89MC0HyZfg719bbLUdQh4"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_30-09-2025_15-23-36.mp4",
@@ -4178,6 +4195,15 @@
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
+          "30-09-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_30-09-2025_18-43-38.mp4",
+                "url": "https://drive.google.com/file/d/1c0fANP3ttaBJ4ZQzuJqeSremxqNrZ4b7/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1c0fANP3ttaBJ4ZQzuJqeSremxqNrZ4b7"
+              }
+            ]
+          },
           "29-09-2025": {
             "22h": [
               {

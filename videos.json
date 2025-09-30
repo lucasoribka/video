@@ -3,7 +3,20 @@
     "XANGRILÁ": {
       "ATL PADEL": {
         "QUADRA 1": {
-          "30-09-2025": {},
+          "30-09-2025": {
+            "08h": [
+              {
+                "nome": "QUADRA_30-09-2025_08-39-48.mp4",
+                "url": "https://drive.google.com/file/d/1Tbocrbkl9i5u38UMNLsvHRiFstyOCVU2/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Tbocrbkl9i5u38UMNLsvHRiFstyOCVU2"
+              },
+              {
+                "nome": "QUADRA_30-09-2025_08-35-57.mp4",
+                "url": "https://drive.google.com/file/d/1lqhLP7UIcj21Sk-Yr6USWzIsJsmGqhV6/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1lqhLP7UIcj21Sk-Yr6USWzIsJsmGqhV6"
+              }
+            ]
+          },
           "29-09-2025": {
             "21h": [
               {

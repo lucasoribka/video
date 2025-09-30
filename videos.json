@@ -1293,6 +1293,21 @@
           "30-09-2025": {
             "19h": [
               {
+                "nome": "QUADRA_30-09-2025_19-30-36.mp4",
+                "url": "https://drive.google.com/file/d/1YmPLR3iajiQ0_HF7HSzhRbfXWhepZERi/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1YmPLR3iajiQ0_HF7HSzhRbfXWhepZERi"
+              },
+              {
+                "nome": "QUADRA_30-09-2025_19-29-59.mp4",
+                "url": "https://drive.google.com/file/d/1XFK6tuunlXNybr_ShMpmSgHZGCVF3rAW/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1XFK6tuunlXNybr_ShMpmSgHZGCVF3rAW"
+              },
+              {
+                "nome": "QUADRA_30-09-2025_19-26-36.mp4",
+                "url": "https://drive.google.com/file/d/1rW12nSK_gidYjUYqqoac_Dp5eaf3itS6/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1rW12nSK_gidYjUYqqoac_Dp5eaf3itS6"
+              },
+              {
                 "nome": "QUADRA_30-09-2025_19-05-32.mp4",
                 "url": "https://drive.google.com/file/d/11Hwpi-oZRCOdRdPup-KlEYJFIiPz6X8X/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=11Hwpi-oZRCOdRdPup-KlEYJFIiPz6X8X"
@@ -2088,6 +2103,13 @@
         },
         "QUADRA 3": {
           "30-09-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_30-09-2025_19-30-44.mp4",
+                "url": "https://drive.google.com/file/d/18I_B5qFRX464jSGuzm78H9XNVYDU_40J/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=18I_B5qFRX464jSGuzm78H9XNVYDU_40J"
+              }
+            ],
             "16h": [
               {
                 "nome": "QUADRA_30-09-2025_16-57-53.mp4",
@@ -5657,6 +5679,15 @@
           }
         },
         "TRAVE 1": {
+          "30-09-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_30-09-2025_19-28-52.mp4",
+                "url": "https://drive.google.com/file/d/1622MDidmJ07l_t0rJMX7TlnGl0ggfwJ9/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1622MDidmJ07l_t0rJMX7TlnGl0ggfwJ9"
+              }
+            ]
+          },
           "29-09-2025": {
             "21h": [
               {

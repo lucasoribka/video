@@ -1264,6 +1264,11 @@
           "01-10-2025": {
             "18h": [
               {
+                "nome": "QUADRA_01-10-2025_18-18-31.mp4",
+                "url": "https://drive.google.com/file/d/1pApj2_dPwSS0EDixk5xEmnex7T7CtO-O/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1pApj2_dPwSS0EDixk5xEmnex7T7CtO-O"
+              },
+              {
                 "nome": "QUADRA_01-10-2025_18-13-35.mp4",
                 "url": "https://drive.google.com/file/d/1KaFQb9bdUFlEiMXUmo5tKOkfXu8IUp7W/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1KaFQb9bdUFlEiMXUmo5tKOkfXu8IUp7W"
@@ -3400,6 +3405,16 @@
           "01-10-2025": {
             "18h": [
               {
+                "nome": "QUADRA_01-10-2025_18-21-30.mp4",
+                "url": "https://drive.google.com/file/d/1oxNEAmHhGt9jITlhXsznTA1_HeGtiDPM/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1oxNEAmHhGt9jITlhXsznTA1_HeGtiDPM"
+              },
+              {
+                "nome": "QUADRA_01-10-2025_18-18-57.mp4",
+                "url": "https://drive.google.com/file/d/1077hi61-zQWf0uXRsZOGPOjh7cgXan5l/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1077hi61-zQWf0uXRsZOGPOjh7cgXan5l"
+              },
+              {
                 "nome": "QUADRA_01-10-2025_18-17-17.mp4",
                 "url": "https://drive.google.com/file/d/1WvRsR_A-Xr7M52aIWwN3sVfinxVcESk7/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1WvRsR_A-Xr7M52aIWwN3sVfinxVcESk7"
@@ -4612,6 +4627,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "01-10-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_01-10-2025_18-19-35.mp4",
+                "url": "https://drive.google.com/file/d/1FbW2WnFdzpAAaBl2E-Fw1zxxVm2GrQ9J/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1FbW2WnFdzpAAaBl2E-Fw1zxxVm2GrQ9J"
+              }
+            ],
             "17h": [
               {
                 "nome": "QUADRA_01-10-2025_17-54-50.mp4",

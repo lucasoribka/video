@@ -1486,6 +1486,13 @@
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
           "01-10-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_01-10-2025_19-05-47.mp4",
+                "url": "https://drive.google.com/file/d/1QnhJVxOpXg2hctbhIckxDRLpwQy66tOv/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1QnhJVxOpXg2hctbhIckxDRLpwQy66tOv"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_01-10-2025_18-44-58.mp4",
@@ -2347,6 +2354,28 @@
         },
         "TRAVE 2": {
           "01-10-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_01-10-2025_19-11-00.mp4",
+                "url": "https://drive.google.com/file/d/1yGTgr4LwKpReG7-8IJdlMjsjvqQr04c9/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1yGTgr4LwKpReG7-8IJdlMjsjvqQr04c9"
+              },
+              {
+                "nome": "QUADRA_01-10-2025_19-10-09.mp4",
+                "url": "https://drive.google.com/file/d/1TuGvZyG4T1DJKWQGHcoG1WmQGpFs4GzN/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1TuGvZyG4T1DJKWQGHcoG1WmQGpFs4GzN"
+              },
+              {
+                "nome": "QUADRA_01-10-2025_19-09-34.mp4",
+                "url": "https://drive.google.com/file/d/1Wtsk9_aGHr8FgyQBnlE6YpyICqpOEpzM/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Wtsk9_aGHr8FgyQBnlE6YpyICqpOEpzM"
+              },
+              {
+                "nome": "QUADRA_01-10-2025_19-07-37.mp4",
+                "url": "https://drive.google.com/file/d/18GTp_rTGHTM1XbvhVilQpQdUOyRlgVcW/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=18GTp_rTGHTM1XbvhVilQpQdUOyRlgVcW"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_01-10-2025_18-57-47.mp4",
@@ -4118,6 +4147,15 @@
       },
       "ARENA MAIDL": {
         "QUADRA": {
+          "01-10-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_01-10-2025_19-11-46.mp4",
+                "url": "https://drive.google.com/file/d/1EmfRYqi8Gv5sgpVdISr-jvsO5kqIVo-S/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1EmfRYqi8Gv5sgpVdISr-jvsO5kqIVo-S"
+              }
+            ]
+          },
           "30-09-2025": {
             "21h": [
               {
@@ -4550,6 +4588,9 @@
           }
         },
         "TRAVE 1": {
+          "01-10-2025": {
+            "19h": []
+          },
           "30-09-2025": {
             "20h": [
               {

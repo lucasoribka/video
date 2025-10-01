@@ -1099,6 +1099,18 @@
         },
         "Quadra Truck Center": {
           "01-10-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_01-10-2025_19-16-40.mp4",
+                "url": "https://drive.google.com/file/d/1hLjP978e0AKwoGEVzDJcSnkTsg4dsT6-/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1hLjP978e0AKwoGEVzDJcSnkTsg4dsT6-"
+              },
+              {
+                "nome": "QUADRA_01-10-2025_19-15-39.mp4",
+                "url": "https://drive.google.com/file/d/1Rr2MQy3wi6ajZg85dzRhQrKEFyvYnZjb/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Rr2MQy3wi6ajZg85dzRhQrKEFyvYnZjb"
+              }
+            ],
             "08h": [
               {
                 "nome": "QUADRA_01-10-2025_08-43-58.mp4",
@@ -3479,6 +3491,11 @@
           "01-10-2025": {
             "19h": [
               {
+                "nome": "QUADRA_01-10-2025_19-15-18.mp4",
+                "url": "https://drive.google.com/file/d/1i3OygjKT6yERMsIopSbm08RJZa6jOf1h/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1i3OygjKT6yERMsIopSbm08RJZa6jOf1h"
+              },
+              {
                 "nome": "QUADRA_01-10-2025_19-00-04.mp4",
                 "url": "https://drive.google.com/file/d/1B1mAYv7qHEO-8WR1KB0RqF9WxZHzz9Tb/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1B1mAYv7qHEO-8WR1KB0RqF9WxZHzz9Tb"
@@ -4589,7 +4606,28 @@
         },
         "TRAVE 1": {
           "01-10-2025": {
-            "19h": []
+            "19h": [
+              {
+                "nome": "QUADRA_01-10-2025_19-19-28.mp4",
+                "url": "https://drive.google.com/file/d/1LsavleD83x_SKlBvAVAPyIJSxrWjOxbn/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1LsavleD83x_SKlBvAVAPyIJSxrWjOxbn"
+              },
+              {
+                "nome": "QUADRA_01-10-2025_19-18-15.mp4",
+                "url": "https://drive.google.com/file/d/1k-QqX8_g873bbmSXBtDai6ilKtCvm1kG/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1k-QqX8_g873bbmSXBtDai6ilKtCvm1kG"
+              },
+              {
+                "nome": "QUADRA_01-10-2025_19-14-41.mp4",
+                "url": "https://drive.google.com/file/d/1nUOxKXIGVRzViKjYYTW1fOn9NANW0Hi7/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1nUOxKXIGVRzViKjYYTW1fOn9NANW0Hi7"
+              },
+              {
+                "nome": "QUADRA_01-10-2025_19-13-20.mp4",
+                "url": "https://drive.google.com/file/d/1ftRXOFpQQaalk1Ir47SaFPK_YK5wUePG/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ftRXOFpQQaalk1Ir47SaFPK_YK5wUePG"
+              }
+            ]
           },
           "30-09-2025": {
             "20h": [

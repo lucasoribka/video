@@ -3025,6 +3025,18 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "01-10-2025": {
+            "10h": [
+              {
+                "nome": "QUADRA_01-10-2025_10-07-11.mp4",
+                "url": "https://drive.google.com/file/d/1ODIoBmwMe6T_kYvLtNiUJUOZwBRLfgAO/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ODIoBmwMe6T_kYvLtNiUJUOZwBRLfgAO"
+              },
+              {
+                "nome": "QUADRA_01-10-2025_10-06-23.mp4",
+                "url": "https://drive.google.com/file/d/1vKdtmOjxvgKN6s1JRo3Ra1InlYyyVGot/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1vKdtmOjxvgKN6s1JRo3Ra1InlYyyVGot"
+              }
+            ],
             "08h": [
               {
                 "nome": "QUADRA_01-10-2025_08-19-37.mp4",
@@ -3555,6 +3567,13 @@
         },
         "TRAVE 2": {
           "01-10-2025": {
+            "10h": [
+              {
+                "nome": "QUADRA_01-10-2025_10-10-35.mp4",
+                "url": "https://drive.google.com/file/d/1Vu8s8IJr45a_eWCJoGB6Ww82xsaVFA8R/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Vu8s8IJr45a_eWCJoGB6Ww82xsaVFA8R"
+              }
+            ],
             "08h": [
               {
                 "nome": "QUADRA_01-10-2025_08-19-34.mp4",

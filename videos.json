@@ -1069,6 +1069,13 @@
         },
         "Quadra Truck Center": {
           "02-10-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_02-10-2025_20-05-38.mp4",
+                "url": "https://drive.google.com/file/d/14m1xe4qDhD4o-gm8LNHNY1zIO9FsSmx-/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=14m1xe4qDhD4o-gm8LNHNY1zIO9FsSmx-"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_02-10-2025_19-53-13.mp4",
@@ -2193,6 +2200,13 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "02-10-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_02-10-2025_20-05-51.mp4",
+                "url": "https://drive.google.com/file/d/1h1fHWMDjIDiDYA7ui7K9AhQWsxIJjkU2/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1h1fHWMDjIDiDYA7ui7K9AhQWsxIJjkU2"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_02-10-2025_19-58-20.mp4",
@@ -3026,6 +3040,13 @@
         },
         "AREIA 3": {
           "02-10-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_02-10-2025_20-05-40.mp4",
+                "url": "https://drive.google.com/file/d/1KWKivwrUK1Rha6izwMAq6mx5hBKz_bAZ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1KWKivwrUK1Rha6izwMAq6mx5hBKz_bAZ"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_02-10-2025_19-45-06.mp4",
@@ -3831,6 +3852,18 @@
       "RAVENNA": {
         "QUADRA": {
           "02-10-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_02-10-2025_20-08-51.mp4",
+                "url": "https://drive.google.com/file/d/1pyYdzTjOYQ_XgwxStYu9vs1LDPMg7zjk/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1pyYdzTjOYQ_XgwxStYu9vs1LDPMg7zjk"
+              },
+              {
+                "nome": "QUADRA_02-10-2025_20-08-18.mp4",
+                "url": "https://drive.google.com/file/d/1mNp9yQigK8nZltd0g6rKYCSWUtofJGRj/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1mNp9yQigK8nZltd0g6rKYCSWUtofJGRj"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_02-10-2025_19-49-52.mp4",
@@ -4754,7 +4787,13 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "02-10-2025": {
-            "20h": [],
+            "20h": [
+              {
+                "nome": "QUADRA_02-10-2025_20-03-43.mp4",
+                "url": "https://drive.google.com/file/d/1_y-dakvEr05lrLQ72VXCiEPASYbYeCy9/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1_y-dakvEr05lrLQ72VXCiEPASYbYeCy9"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_02-10-2025_19-59-56.mp4",

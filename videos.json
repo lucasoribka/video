@@ -123,6 +123,13 @@
         },
         "QUADRA 2": {
           "02-10-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_02-10-2025_20-00-52.mp4",
+                "url": "https://drive.google.com/file/d/1qGVT5BuJK1a4Afj-B7efJeo2j9zGt8tp/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1qGVT5BuJK1a4Afj-B7efJeo2j9zGt8tp"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_02-10-2025_19-46-49.mp4",
@@ -807,6 +814,11 @@
           "02-10-2025": {
             "19h": [
               {
+                "nome": "QUADRA_02-10-2025_19-55-15.mp4",
+                "url": "https://drive.google.com/file/d/1pPT6VdA7_zR8yne4_Nbl3C_Ijwjn-4wl/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1pPT6VdA7_zR8yne4_Nbl3C_Ijwjn-4wl"
+              },
+              {
                 "nome": "QUADRA_02-10-2025_19-50-54.mp4",
                 "url": "https://drive.google.com/file/d/1UoZymLlW3kyAOz45-xL781tvT7jBSG97/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1UoZymLlW3kyAOz45-xL781tvT7jBSG97"
@@ -1387,6 +1399,11 @@
         "Quadra Caminho do Saber": {
           "02-10-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_02-10-2025_19-58-33.mp4",
+                "url": "https://drive.google.com/file/d/1SYiiwlFcptQKqbWlBSR0fZ3_W-TdZrqX/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1SYiiwlFcptQKqbWlBSR0fZ3_W-TdZrqX"
+              },
               {
                 "nome": "QUADRA_02-10-2025_19-47-30.mp4",
                 "url": "https://drive.google.com/file/d/1OpH24D-y6_yjF4d20OTZty2MkN5_djgS/preview",
@@ -2177,6 +2194,11 @@
         "TRAVE 1": {
           "02-10-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_02-10-2025_19-58-20.mp4",
+                "url": "https://drive.google.com/file/d/1mufLDHxMa4bhJUIBgC-Rejwxix3TxayM/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1mufLDHxMa4bhJUIBgC-Rejwxix3TxayM"
+              },
               {
                 "nome": "QUADRA_02-10-2025_19-30-17.mp4",
                 "url": "https://drive.google.com/file/d/1GsxKScPrT3h1y1X2G2pTnuDTaWXcSpzl/preview",
@@ -4345,6 +4367,15 @@
     "RIO NEGRO-PR": {
       "ARENA PASSA TRÊS": {
         "TRAVE 2": {
+          "02-10-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_02-10-2025_19-57-23.mp4",
+                "url": "https://drive.google.com/file/d/1T-O6EikXjZ4yYBd5YlKyvxyKey1baMYl/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1T-O6EikXjZ4yYBd5YlKyvxyKey1baMYl"
+              }
+            ]
+          },
           "30-09-2025": {
             "22h": [
               {
@@ -4723,7 +4754,13 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "02-10-2025": {
+            "20h": [],
             "19h": [
+              {
+                "nome": "QUADRA_02-10-2025_19-59-56.mp4",
+                "url": "https://drive.google.com/file/d/1OiLFcDeYZzXmm_EtyuCYcbVGgwcKdfPi/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1OiLFcDeYZzXmm_EtyuCYcbVGgwcKdfPi"
+              },
               {
                 "nome": "QUADRA_02-10-2025_19-50-36.mp4",
                 "url": "https://drive.google.com/file/d/1GzGEBGELIiHPIwr5MA0lFJbi_xCeIrM-/preview",
@@ -5231,7 +5268,24 @@
         },
         "TRAVE 1": {
           "02-10-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_02-10-2025_20-01-18.mp4",
+                "url": "https://drive.google.com/file/d/1bN8c2oIRJo1fWcdrMHrURStcpDrav3op/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1bN8c2oIRJo1fWcdrMHrURStcpDrav3op"
+              },
+              {
+                "nome": "QUADRA_02-10-2025_20-00-00.mp4",
+                "url": "https://drive.google.com/file/d/11Opzg7yKVOsU-QvgrJjjqD9wlSpo3t65/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=11Opzg7yKVOsU-QvgrJjjqD9wlSpo3t65"
+              }
+            ],
             "19h": [
+              {
+                "nome": "QUADRA_02-10-2025_19-57-22.mp4",
+                "url": "https://drive.google.com/file/d/1jv8znCG7rATLMDkqDcy53zZyVARxxe9V/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1jv8znCG7rATLMDkqDcy53zZyVARxxe9V"
+              },
               {
                 "nome": "QUADRA_02-10-2025_19-50-34.mp4",
                 "url": "https://drive.google.com/file/d/1q0IA6B8rL2gfGW6AzSLqXNxodMY7pC6F/preview",

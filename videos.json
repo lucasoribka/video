@@ -14,6 +14,11 @@
                 "nome": "QUADRA_02-10-2025_16-38-38.mp4",
                 "url": "https://drive.google.com/file/d/1_72QSpqr3cjYf4C1mThHDbisqYfY-Oc-/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1_72QSpqr3cjYf4C1mThHDbisqYfY-Oc-"
+              },
+              {
+                "nome": "QUADRA_02-10-2025_16-38-01.mp4",
+                "url": "https://drive.google.com/file/d/18hFrFmLyJrp0s7j0WTAzrWpg4Siq0t-j/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=18hFrFmLyJrp0s7j0WTAzrWpg4Siq0t-j"
               }
             ]
           },
@@ -1117,6 +1122,16 @@
         "Quadra Manchester": {
           "02-10-2025": {
             "18h": [
+              {
+                "nome": "QUADRA_02-10-2025_18-16-36.mp4",
+                "url": "https://drive.google.com/file/d/1XzovYiwcDAfrR5-rCOg7D0HcDs_I9Gdf/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1XzovYiwcDAfrR5-rCOg7D0HcDs_I9Gdf"
+              },
+              {
+                "nome": "QUADRA_02-10-2025_18-15-13.mp4",
+                "url": "https://drive.google.com/file/d/1cHPqLAWtO1ZoXou8yaw2gDIFvekBEA93/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1cHPqLAWtO1ZoXou8yaw2gDIFvekBEA93"
+              },
               {
                 "nome": "QUADRA_02-10-2025_18-11-24.mp4",
                 "url": "https://drive.google.com/file/d/1UCOSr4xh3xxbp8GAYyv4ChDZuEW-yggb/preview",
@@ -3604,6 +3619,15 @@
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
+          "02-10-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_02-10-2025_18-13-14.mp4",
+                "url": "https://drive.google.com/file/d/1TVD8YnFLD0kCnZ0Xz_RA3jNSIiHf3I8O/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1TVD8YnFLD0kCnZ0Xz_RA3jNSIiHf3I8O"
+              }
+            ]
+          },
           "01-10-2025": {
             "23h": [
               {

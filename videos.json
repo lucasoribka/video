@@ -2521,6 +2521,13 @@
         },
         "TRAVE 2": {
           "01-10-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_01-10-2025_21-57-23.mp4",
+                "url": "https://drive.google.com/file/d/144yA07M0L4ln2tLu7-OMerW6UkyIy3rv/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=144yA07M0L4ln2tLu7-OMerW6UkyIy3rv"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_01-10-2025_19-11-00.mp4",
@@ -3435,6 +3442,11 @@
         "AREIA 1": {
           "01-10-2025": {
             "21h": [
+              {
+                "nome": "QUADRA_01-10-2025_21-58-51.mp4",
+                "url": "https://drive.google.com/file/d/1gK4wZYNV3_gxXif52b6vmT3Fm77QM0Z1/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1gK4wZYNV3_gxXif52b6vmT3Fm77QM0Z1"
+              },
               {
                 "nome": "QUADRA_01-10-2025_21-37-40.mp4",
                 "url": "https://drive.google.com/file/d/1-ZyKlgSzTrHm8vbDIBCQijp238I6YWl5/preview",
@@ -5030,6 +5042,11 @@
           "01-10-2025": {
             "21h": [
               {
+                "nome": "QUADRA_01-10-2025_21-54-37.mp4",
+                "url": "https://drive.google.com/file/d/1vM8ix0Na_-_qJKs36ASAoFT0OYy570dp/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1vM8ix0Na_-_qJKs36ASAoFT0OYy570dp"
+              },
+              {
                 "nome": "QUADRA_01-10-2025_21-50-01.mp4",
                 "url": "https://drive.google.com/file/d/1Fg_6MGItXVoGzTy6p74YoyTwAyx50IhS/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Fg_6MGItXVoGzTy6p74YoyTwAyx50IhS"
@@ -5432,7 +5449,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "01-10-2025": {
+            "22h": [],
             "21h": [
+              {
+                "nome": "QUADRA_01-10-2025_21-56-16.mp4",
+                "url": "https://drive.google.com/file/d/13KrYu9rOrqYmE7RJC7yfK6uvVjQqegkj/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=13KrYu9rOrqYmE7RJC7yfK6uvVjQqegkj"
+              },
               {
                 "nome": "QUADRA_01-10-2025_21-49-00.mp4",
                 "url": "https://drive.google.com/file/d/1ruAzVB050GmYUE_fo8enng2DNut2sm9r/preview",

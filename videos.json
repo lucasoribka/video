@@ -1126,6 +1126,20 @@
           }
         },
         "Quadra Truck Center": {
+          "02-10-2025": {
+            "07h": [
+              {
+                "nome": "QUADRA_02-10-2025_07-23-24.mp4",
+                "url": "https://drive.google.com/file/d/1QqYBJoNVVBFhCOBFq1DSbWqj_jpMf8_-/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1QqYBJoNVVBFhCOBFq1DSbWqj_jpMf8_-"
+              },
+              {
+                "nome": "QUADRA_02-10-2025_07-19-03.mp4",
+                "url": "https://drive.google.com/file/d/1puU2kt22Ky_hDJGrUJHGtKTojdy2JOWw/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1puU2kt22Ky_hDJGrUJHGtKTojdy2JOWw"
+              }
+            ]
+          },
           "01-10-2025": {
             "20h": [
               {

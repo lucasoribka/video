@@ -908,6 +908,13 @@
         },
         "Quadra Truck Center": {
           "07-10-2025": {
+            "17h": [
+              {
+                "nome": "QUADRA_07-10-2025_17-54-47.mp4",
+                "url": "https://drive.google.com/file/d/1FETvvAZEhA9yKva8-N7b1qz_0CMU7bXb/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1FETvvAZEhA9yKva8-N7b1qz_0CMU7bXb"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_07-10-2025_15-34-39.mp4",
@@ -1855,7 +1862,18 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "07-10-2025": {
-            "17h": [],
+            "17h": [
+              {
+                "nome": "QUADRA_07-10-2025_17-50-31.mp4",
+                "url": "https://drive.google.com/file/d/1Q-oyZhNs-3gX084t3CSckjyDW-QV2KhF/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Q-oyZhNs-3gX084t3CSckjyDW-QV2KhF"
+              },
+              {
+                "nome": "QUADRA_07-10-2025_17-49-23.mp4",
+                "url": "https://drive.google.com/file/d/1wQ6FODAgvHc9DhvlcPqicraKpdLR_2GF/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1wQ6FODAgvHc9DhvlcPqicraKpdLR_2GF"
+              }
+            ],
             "14h": [
               {
                 "nome": "QUADRA_07-10-2025_14-18-48.mp4",

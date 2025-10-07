@@ -83,6 +83,25 @@
           }
         },
         "QUADRA 2": {
+          "07-10-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_07-10-2025_18-22-33.mp4",
+                "url": "https://drive.google.com/file/d/1iEedtGROSCXUwHKXR5C0CZNdpdM47k9M/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1iEedtGROSCXUwHKXR5C0CZNdpdM47k9M"
+              },
+              {
+                "nome": "QUADRA_07-10-2025_18-22-08.mp4",
+                "url": "https://drive.google.com/file/d/1xO4gynbMTHP-mdRiDIgWUVetiMVHYgbM/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1xO4gynbMTHP-mdRiDIgWUVetiMVHYgbM"
+              },
+              {
+                "nome": "QUADRA_07-10-2025_18-20-19.mp4",
+                "url": "https://drive.google.com/file/d/1MjKc_sYaePGL85rYMWxqRN0Ez9-2iuer/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1MjKc_sYaePGL85rYMWxqRN0Ez9-2iuer"
+              }
+            ]
+          },
           "06-10-2025": {
             "22h": [
               {
@@ -910,6 +929,11 @@
           "07-10-2025": {
             "18h": [
               {
+                "nome": "QUADRA_07-10-2025_18-09-53.mp4",
+                "url": "https://drive.google.com/file/d/12sw0sd3liRNlRPuaQFa-v2NoTfv7CtgP/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=12sw0sd3liRNlRPuaQFa-v2NoTfv7CtgP"
+              },
+              {
                 "nome": "QUADRA_07-10-2025_18-04-32.mp4",
                 "url": "https://drive.google.com/file/d/1fDs9PpwF1aRIT6L28k4I7ssllePGYFXr/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1fDs9PpwF1aRIT6L28k4I7ssllePGYFXr"
@@ -1348,6 +1372,15 @@
     "MAFRA-SC": {
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
+          "07-10-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_07-10-2025_18-22-21.mp4",
+                "url": "https://drive.google.com/file/d/1-9eLlT0ySFANP0apzwu3cXE7ap1zNw-j/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1-9eLlT0ySFANP0apzwu3cXE7ap1zNw-j"
+              }
+            ]
+          },
           "06-10-2025": {
             "20h": [
               {

@@ -2935,6 +2935,13 @@
         },
         "AREIA 1": {
           "07-10-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_07-10-2025_21-04-59.mp4",
+                "url": "https://drive.google.com/file/d/1rPHYeFQTbUY6EEmdcg3ymyZD3ugqYL2M/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1rPHYeFQTbUY6EEmdcg3ymyZD3ugqYL2M"
+              }
+            ],
             "20h": [
               {
                 "nome": "QUADRA_07-10-2025_20-54-05.mp4",
@@ -4202,6 +4209,20 @@
     "RIO NEGRO-PR": {
       "ARENA PASSA TRÊS": {
         "TRAVE 2": {
+          "07-10-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_07-10-2025_21-07-31.mp4",
+                "url": "https://drive.google.com/file/d/1GoJv0OHgv6a9IqVExdIfGTITVn915A5b/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1GoJv0OHgv6a9IqVExdIfGTITVn915A5b"
+              },
+              {
+                "nome": "QUADRA_07-10-2025_21-06-56.mp4",
+                "url": "https://drive.google.com/file/d/1Hck8wbQjX2MwvGAXQtVxIasddWOCFOFf/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Hck8wbQjX2MwvGAXQtVxIasddWOCFOFf"
+              }
+            ]
+          },
           "29-09-2025": {
             "22h": [
               {
@@ -4818,6 +4839,18 @@
       "ARENA MAIDL": {
         "QUADRA": {
           "07-10-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_07-10-2025_21-06-53.mp4",
+                "url": "https://drive.google.com/file/d/1LHmx0Lnn3MTvqBN2doBNyPVdJLvrQhSN/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1LHmx0Lnn3MTvqBN2doBNyPVdJLvrQhSN"
+              },
+              {
+                "nome": "QUADRA_07-10-2025_21-05-54.mp4",
+                "url": "https://drive.google.com/file/d/1aNqxYCYM8bFmMT5YToEE1MWavBkMiEXQ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1aNqxYCYM8bFmMT5YToEE1MWavBkMiEXQ"
+              }
+            ],
             "20h": [
               {
                 "nome": "QUADRA_07-10-2025_20-56-01.mp4",

@@ -3076,11 +3076,23 @@
       "RAVENNA": {
         "QUADRA": {
           "15-10-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_15-10-2025_18-02-13.mp4",
+                "url": "https://drive.google.com/file/d/1nSaz_WGEoBVK4WwMXPleEHEQH6varqin/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1nSaz_WGEoBVK4WwMXPleEHEQH6varqin"
+              }
+            ],
             "16h": [
               {
                 "nome": "QUADRA_15-10-2025_16-26-47.mp4",
                 "url": "https://drive.google.com/file/d/1GG3uje4CFzEK_VDzqVCQksenSAjNFcf6/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1GG3uje4CFzEK_VDzqVCQksenSAjNFcf6"
+              },
+              {
+                "nome": "QUADRA_15-10-2025_16-24-34.mp4",
+                "url": "https://drive.google.com/file/d/13qtILZHHlxWgSxAXs8RbQOImkAM36e6B/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=13qtILZHHlxWgSxAXs8RbQOImkAM36e6B"
               }
             ],
             "15h": [

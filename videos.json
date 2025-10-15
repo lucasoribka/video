@@ -1363,6 +1363,13 @@
         },
         "Quadra Caminho do Saber": {
           "15-10-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_15-10-2025_18-50-33.mp4",
+                "url": "https://drive.google.com/file/d/1FsWAxWLJ-wMl2jxrGG7gTIxO9JFvXlVl/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1FsWAxWLJ-wMl2jxrGG7gTIxO9JFvXlVl"
+              }
+            ],
             "17h": [
               {
                 "nome": "QUADRA_15-10-2025_17-25-46.mp4",
@@ -3098,6 +3105,11 @@
         "QUADRA": {
           "15-10-2025": {
             "18h": [
+              {
+                "nome": "QUADRA_15-10-2025_18-50-06.mp4",
+                "url": "https://drive.google.com/file/d/14jGtpqTij6HkKfJUtJXpmMjoLlenR5rP/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=14jGtpqTij6HkKfJUtJXpmMjoLlenR5rP"
+              },
               {
                 "nome": "QUADRA_15-10-2025_18-43-10.mp4",
                 "url": "https://drive.google.com/file/d/1YDs813grqWoQpXbsSoGJpX58FjBnp0NT/preview",

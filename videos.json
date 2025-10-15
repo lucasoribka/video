@@ -4,6 +4,13 @@
       "ATL PADEL": {
         "QUADRA 1": {
           "15-10-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_15-10-2025_20-14-14.mp4",
+                "url": "https://drive.google.com/file/d/1kMJlkb78DhKC7rDKIRiBBJQYtByr6jdg/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1kMJlkb78DhKC7rDKIRiBBJQYtByr6jdg"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_15-10-2025_19-56-11.mp4",
@@ -1726,6 +1733,13 @@
         },
         "QUADRA 3": {
           "15-10-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_15-10-2025_20-15-57.mp4",
+                "url": "https://drive.google.com/file/d/172EcCBYqFJ8wDUjfcmHXLvKf8OMZkTWJ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=172EcCBYqFJ8wDUjfcmHXLvKf8OMZkTWJ"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_15-10-2025_19-57-25.mp4",
@@ -2055,6 +2069,16 @@
           "15-10-2025": {
             "20h": [
               {
+                "nome": "QUADRA_15-10-2025_20-11-14.mp4",
+                "url": "https://drive.google.com/file/d/1NfECUFzS4o27ebEDC_eUfjgdL1EGA8vf/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1NfECUFzS4o27ebEDC_eUfjgdL1EGA8vf"
+              },
+              {
+                "nome": "QUADRA_15-10-2025_20-10-13.mp4",
+                "url": "https://drive.google.com/file/d/1JyFrFZ6D3XMvMllfdRS0ucebdcuxifDg/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1JyFrFZ6D3XMvMllfdRS0ucebdcuxifDg"
+              },
+              {
                 "nome": "QUADRA_15-10-2025_20-05-31.mp4",
                 "url": "https://drive.google.com/file/d/1nK5JMP1Fnm7yeT03UWt9jmvRnvdm5NJ1/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1nK5JMP1Fnm7yeT03UWt9jmvRnvdm5NJ1"
@@ -2361,6 +2385,11 @@
         "TRAVE 2": {
           "15-10-2025": {
             "20h": [
+              {
+                "nome": "QUADRA_15-10-2025_20-15-37.mp4",
+                "url": "https://drive.google.com/file/d/1XtharElA46HMbDRTbLFR5SvvWIJkNT9F/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1XtharElA46HMbDRTbLFR5SvvWIJkNT9F"
+              },
               {
                 "nome": "QUADRA_15-10-2025_20-13-35.mp4",
                 "url": "https://drive.google.com/file/d/1eijk4k4KuLBDLXqU87ptjheoNgz1d7wz/preview",
@@ -2877,6 +2906,13 @@
         },
         "AREIA 1": {
           "15-10-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_15-10-2025_20-16-58.mp4",
+                "url": "https://drive.google.com/file/d/1MYQgU5Rdbp5K9oQQpQgPsTsECeScReRV/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1MYQgU5Rdbp5K9oQQpQgPsTsECeScReRV"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_15-10-2025_19-54-23.mp4",
@@ -4398,6 +4434,15 @@
     "RIO NEGRO-PR": {
       "ARENA PASSA TRÊS": {
         "TRAVE 2": {
+          "15-10-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_15-10-2025_20-16-20.mp4",
+                "url": "https://drive.google.com/file/d/1yFE1Hp8ZMPpus_krpUX7BvIqRzcD5upB/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1yFE1Hp8ZMPpus_krpUX7BvIqRzcD5upB"
+              }
+            ]
+          },
           "14-10-2025": {
             "22h": [
               {
@@ -5446,6 +5491,7 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "15-10-2025": {
+            "20h": [],
             "15h": [
               {
                 "nome": "QUADRA_15-10-2025_15-07-44.mp4",

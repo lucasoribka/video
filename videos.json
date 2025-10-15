@@ -1925,6 +1925,15 @@
           }
         },
         "Quadra Manchester": {
+          "15-10-2025": {
+            "08h": [
+              {
+                "nome": "QUADRA_15-10-2025_08-36-53.mp4",
+                "url": "https://drive.google.com/file/d/1aAFpD5G0S3DIvdkYkMwOK7hilOovQpfq/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1aAFpD5G0S3DIvdkYkMwOK7hilOovQpfq"
+              }
+            ]
+          },
           "14-10-2025": {
             "21h": [
               {
@@ -2165,6 +2174,16 @@
         "Quadra Caminho do Saber": {
           "15-10-2025": {
             "08h": [
+              {
+                "nome": "QUADRA_15-10-2025_08-33-03.mp4",
+                "url": "https://drive.google.com/file/d/1A9PV1z_sRLycy9QQBfbS27nqqlnb1xS-/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1A9PV1z_sRLycy9QQBfbS27nqqlnb1xS-"
+              },
+              {
+                "nome": "QUADRA_15-10-2025_08-25-17.mp4",
+                "url": "https://drive.google.com/file/d/1s-OFUfTC3tW0t1zWePzD2h6fLDKhw3QB/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1s-OFUfTC3tW0t1zWePzD2h6fLDKhw3QB"
+              },
               {
                 "nome": "QUADRA_15-10-2025_08-24-31.mp4",
                 "url": "https://drive.google.com/file/d/1-Ef2C-_3acm5Go37zvSxFxrhvx4rtJEA/preview",
@@ -7885,6 +7904,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "15-10-2025": {
+            "08h": [
+              {
+                "nome": "QUADRA_15-10-2025_08-31-40.mp4",
+                "url": "https://drive.google.com/file/d/1CpPfIjT0_vMYhdCc1M69hhKDXazTIDLA/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1CpPfIjT0_vMYhdCc1M69hhKDXazTIDLA"
+              }
+            ],
             "07h": [
               {
                 "nome": "QUADRA_15-10-2025_07-59-23.mp4",

@@ -2128,6 +2128,18 @@
         },
         "QUADRA 2": {
           "16-10-2025": {
+            "16h": [
+              {
+                "nome": "QUADRA_16-10-2025_16-17-24.mp4",
+                "url": "https://drive.google.com/file/d/1c-oZw2iNHnbul-IkLoyB2Aef2-iUcvhE/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1c-oZw2iNHnbul-IkLoyB2Aef2-iUcvhE"
+              },
+              {
+                "nome": "QUADRA_16-10-2025_16-16-16.mp4",
+                "url": "https://drive.google.com/file/d/1VvpRa63xcuHBPBkJ7QGXFLuL9bOpbaxl/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1VvpRa63xcuHBPBkJ7QGXFLuL9bOpbaxl"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_16-10-2025_15-00-55.mp4",

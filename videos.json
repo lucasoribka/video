@@ -1596,6 +1596,13 @@
         },
         "Quadra Manchester": {
           "16-10-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_16-10-2025_18-01-47.mp4",
+                "url": "https://drive.google.com/file/d/1Ray4JcL93sKRbI5brk9s2SjMqKzMYyq-/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Ray4JcL93sKRbI5brk9s2SjMqKzMYyq-"
+              }
+            ],
             "17h": [
               {
                 "nome": "QUADRA_16-10-2025_17-26-31.mp4",
@@ -3395,6 +3402,15 @@
           }
         },
         "AREIA 3": {
+          "16-10-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_16-10-2025_18-04-57.mp4",
+                "url": "https://drive.google.com/file/d/1OuCFS_3odm3of_kEB0psV_MfgW4eu5qD/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1OuCFS_3odm3of_kEB0psV_MfgW4eu5qD"
+              }
+            ]
+          },
           "15-10-2025": {
             "22h": [
               {
@@ -4238,6 +4254,25 @@
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
+          "16-10-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_16-10-2025_18-04-35.mp4",
+                "url": "https://drive.google.com/file/d/1HN_wV4mSBGYS5CLGJ5Gqkp1MBM03K2YH/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1HN_wV4mSBGYS5CLGJ5Gqkp1MBM03K2YH"
+              },
+              {
+                "nome": "QUADRA_16-10-2025_18-01-15.mp4",
+                "url": "https://drive.google.com/file/d/16CyU1xKykiUwmRXIN-wm19i_F7G9n_jY/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16CyU1xKykiUwmRXIN-wm19i_F7G9n_jY"
+              },
+              {
+                "nome": "QUADRA_16-10-2025_18-00-44.mp4",
+                "url": "https://drive.google.com/file/d/127hwKla3ATXMsQvBQ7RokAnQVE90p1pV/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=127hwKla3ATXMsQvBQ7RokAnQVE90p1pV"
+              }
+            ]
+          },
           "15-10-2025": {
             "22h": [
               {

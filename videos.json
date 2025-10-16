@@ -1240,7 +1240,23 @@
         },
         "Quadra Truck Center": {
           "16-10-2025": {
-            "14h": [],
+            "14h": [
+              {
+                "nome": "QUADRA_16-10-2025_14-58-50.mp4",
+                "url": "https://drive.google.com/file/d/1bkC4ZBfQr8OGbaScxc7kWXik6hf0qPgV/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1bkC4ZBfQr8OGbaScxc7kWXik6hf0qPgV"
+              },
+              {
+                "nome": "QUADRA_16-10-2025_14-55-35.mp4",
+                "url": "https://drive.google.com/file/d/1JWybAu5HdI1RbBPb-zRvw1A8ETI7g6rD/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1JWybAu5HdI1RbBPb-zRvw1A8ETI7g6rD"
+              },
+              {
+                "nome": "QUADRA_16-10-2025_14-53-08.mp4",
+                "url": "https://drive.google.com/file/d/1-GtRoxrHVKzTtlZg-zFcBgGh3NM-Saha/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1-GtRoxrHVKzTtlZg-zFcBgGh3NM-Saha"
+              }
+            ],
             "07h": [
               {
                 "nome": "QUADRA_16-10-2025_07-36-25.mp4",
@@ -2090,7 +2106,18 @@
         },
         "QUADRA 2": {
           "16-10-2025": {
+            "15h": [],
             "14h": [
+              {
+                "nome": "QUADRA_16-10-2025_14-59-09.mp4",
+                "url": "https://drive.google.com/file/d/1cJzCW6TYhx5HCYj93RsnooxoiQNxvVO_/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1cJzCW6TYhx5HCYj93RsnooxoiQNxvVO_"
+              },
+              {
+                "nome": "QUADRA_16-10-2025_14-56-54.mp4",
+                "url": "https://drive.google.com/file/d/10itxFbG_b0IjtWsDJZcKuU3bCXVm6vxe/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=10itxFbG_b0IjtWsDJZcKuU3bCXVm6vxe"
+              },
               {
                 "nome": "QUADRA_16-10-2025_14-46-12.mp4",
                 "url": "https://drive.google.com/file/d/1K9FJnjK0n4g5jhge38hMAVRaHsuyzEU-/preview",

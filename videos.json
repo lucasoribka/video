@@ -2070,6 +2070,25 @@
           }
         },
         "Quadra Manchester": {
+          "18-10-2025": {
+            "10h": [
+              {
+                "nome": "QUADRA_18-10-2025_10-30-35.mp4",
+                "url": "https://drive.google.com/file/d/1qNLhsx1Ke9N0QDjQbLbxML-YFvt-tn7v/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1qNLhsx1Ke9N0QDjQbLbxML-YFvt-tn7v"
+              },
+              {
+                "nome": "QUADRA_18-10-2025_10-28-15.mp4",
+                "url": "https://drive.google.com/file/d/1eeTkjqShD8Za-tK99gXMj8p2j1gl0TtH/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1eeTkjqShD8Za-tK99gXMj8p2j1gl0TtH"
+              },
+              {
+                "nome": "QUADRA_18-10-2025_10-27-00.mp4",
+                "url": "https://drive.google.com/file/d/1Ej_kZcm2a0V68tgwCZZulEYydGfQLOML/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Ej_kZcm2a0V68tgwCZZulEYydGfQLOML"
+              }
+            ]
+          },
           "17-10-2025": {
             "21h": [
               {
@@ -3307,6 +3326,15 @@
       },
       "JR03 - RAFINHA": {
         "TRAVE 1": {
+          "18-10-2025": {
+            "10h": [
+              {
+                "nome": "QUADRA_18-10-2025_10-29-35.mp4",
+                "url": "https://drive.google.com/file/d/1xwsJaUrDCQ_6okEDd9T_BX4HlBcXcONw/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1xwsJaUrDCQ_6okEDd9T_BX4HlBcXcONw"
+              }
+            ]
+          },
           "17-10-2025": {
             "23h": [
               {

@@ -1080,6 +1080,9 @@
           }
         },
         "Quadra Caminho do Saber": {
+          "20-10-2025": {
+            "20h": []
+          },
           "19-10-2025": {
             "19h": [
               {
@@ -1737,7 +1740,13 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "20-10-2025": {
-            "20h": [],
+            "20h": [
+              {
+                "nome": "QUADRA_20-10-2025_20-44-19.mp4",
+                "url": "https://drive.google.com/file/d/1DLwVeoxkN7n-pwRXEsiAqU-LYTMGJ39R/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1DLwVeoxkN7n-pwRXEsiAqU-LYTMGJ39R"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_20-10-2025_19-38-51.mp4",
@@ -2253,6 +2262,16 @@
         "AREIA 3": {
           "20-10-2025": {
             "20h": [
+              {
+                "nome": "QUADRA_20-10-2025_20-47-58.mp4",
+                "url": "https://drive.google.com/file/d/102EVpHEOLkMd2b0ZvzZJYMPG9y_UeFz8/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=102EVpHEOLkMd2b0ZvzZJYMPG9y_UeFz8"
+              },
+              {
+                "nome": "QUADRA_20-10-2025_20-45-28.mp4",
+                "url": "https://drive.google.com/file/d/15tQJ945yDoF3-IdXPCPJxQVxjx-CMI3E/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=15tQJ945yDoF3-IdXPCPJxQVxjx-CMI3E"
+              },
               {
                 "nome": "QUADRA_20-10-2025_20-36-24.mp4",
                 "url": "https://drive.google.com/file/d/1fUDYBoXYaPkMx4pxufXcmB7BQtZWWwBf/preview",
@@ -3611,6 +3630,11 @@
           "20-10-2025": {
             "20h": [
               {
+                "nome": "QUADRA_20-10-2025_20-50-12.mp4",
+                "url": "https://drive.google.com/file/d/1Wg-8XzclfIIW7hB79Mhvz9Ei7Sf6xtE4/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Wg-8XzclfIIW7hB79Mhvz9Ei7Sf6xtE4"
+              },
+              {
                 "nome": "QUADRA_20-10-2025_20-34-44.mp4",
                 "url": "https://drive.google.com/file/d/14nqJVbS8GXChp579ZsWL2toEXvqvV8o0/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=14nqJVbS8GXChp579ZsWL2toEXvqvV8o0"
@@ -4405,6 +4429,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "20-10-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_20-10-2025_20-47-54.mp4",
+                "url": "https://drive.google.com/file/d/1Bl9j3VSiWOw4x5IC3PIsj0nvIeia4qU2/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Bl9j3VSiWOw4x5IC3PIsj0nvIeia4qU2"
+              }
+            ],
             "19h": [
               {
                 "nome": "QUADRA_20-10-2025_19-52-09.mp4",

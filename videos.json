@@ -3139,7 +3139,13 @@
       "ARENA PASSA TRÊS": {
         "TRAVE 2": {
           "20-10-2025": {
-            "19h": []
+            "19h": [
+              {
+                "nome": "QUADRA_20-10-2025_19-21-21.mp4",
+                "url": "https://drive.google.com/file/d/1f-o0Fx6-h3of2OETAwPj_C_pCCUoj8RW/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1f-o0Fx6-h3of2OETAwPj_C_pCCUoj8RW"
+              }
+            ]
           },
           "18-10-2025": {
             "19h": [
@@ -3282,6 +3288,20 @@
           }
         },
         "TRAVE 1": {
+          "20-10-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_20-10-2025_19-24-34.mp4",
+                "url": "https://drive.google.com/file/d/1gWtdF5ue13G0MeGCg2woM4RQ5MwYrjUB/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1gWtdF5ue13G0MeGCg2woM4RQ5MwYrjUB"
+              },
+              {
+                "nome": "QUADRA_20-10-2025_19-21-45.mp4",
+                "url": "https://drive.google.com/file/d/1w34Qyz7yaH3CZfgbKXIixgRBKBgyOlXQ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1w34Qyz7yaH3CZfgbKXIixgRBKBgyOlXQ"
+              }
+            ]
+          },
           "16-10-2025": {
             "19h": [
               {

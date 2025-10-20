@@ -643,6 +643,20 @@
           }
         },
         "Quadra Truck Center": {
+          "20-10-2025": {
+            "20h": [
+              {
+                "nome": "QUADRA_20-10-2025_20-42-16.mp4",
+                "url": "https://drive.google.com/file/d/1XvzrS6WWsrtWl8RGuC3i5QSF8oTRxqz-/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1XvzrS6WWsrtWl8RGuC3i5QSF8oTRxqz-"
+              },
+              {
+                "nome": "QUADRA_20-10-2025_20-36-53.mp4",
+                "url": "https://drive.google.com/file/d/1KLLciBNoaOtPicKQcozJEKPogQ4w89cs/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1KLLciBNoaOtPicKQcozJEKPogQ4w89cs"
+              }
+            ]
+          },
           "19-10-2025": {
             "18h": [
               {
@@ -1723,6 +1737,7 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "20-10-2025": {
+            "20h": [],
             "19h": [
               {
                 "nome": "QUADRA_20-10-2025_19-38-51.mp4",
@@ -2239,6 +2254,11 @@
           "20-10-2025": {
             "20h": [
               {
+                "nome": "QUADRA_20-10-2025_20-36-24.mp4",
+                "url": "https://drive.google.com/file/d/1fUDYBoXYaPkMx4pxufXcmB7BQtZWWwBf/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1fUDYBoXYaPkMx4pxufXcmB7BQtZWWwBf"
+              },
+              {
                 "nome": "QUADRA_20-10-2025_20-33-05.mp4",
                 "url": "https://drive.google.com/file/d/1cImMZqPHBN_779zICBpp17qPmFXvrsHC/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1cImMZqPHBN_779zICBpp17qPmFXvrsHC"
@@ -2611,6 +2631,21 @@
         "QUADRA": {
           "20-10-2025": {
             "20h": [
+              {
+                "nome": "QUADRA_20-10-2025_20-43-53.mp4",
+                "url": "https://drive.google.com/file/d/10UsGJz2xB5gU8qEN99vxcrd6GGC13l9u/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=10UsGJz2xB5gU8qEN99vxcrd6GGC13l9u"
+              },
+              {
+                "nome": "QUADRA_20-10-2025_20-42-59.mp4",
+                "url": "https://drive.google.com/file/d/1jLEWbH23jATClCYoWIwUXQjNootNKH0U/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1jLEWbH23jATClCYoWIwUXQjNootNKH0U"
+              },
+              {
+                "nome": "QUADRA_20-10-2025_20-39-46.mp4",
+                "url": "https://drive.google.com/file/d/1b5a6i-3CCWA-GfhlEZPTqQO3aZw8Eqcm/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1b5a6i-3CCWA-GfhlEZPTqQO3aZw8Eqcm"
+              },
               {
                 "nome": "QUADRA_20-10-2025_20-33-12.mp4",
                 "url": "https://drive.google.com/file/d/1b6YCoyT3B-zR-eQL-A9oDqKd27hBHLbY/preview",
@@ -3261,6 +3296,11 @@
         "TRAVE 2": {
           "20-10-2025": {
             "20h": [
+              {
+                "nome": "QUADRA_20-10-2025_20-39-08.mp4",
+                "url": "https://drive.google.com/file/d/1-URdf-2OobEj8HvMFjTZF-1a6E0DaUQd/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1-URdf-2OobEj8HvMFjTZF-1a6E0DaUQd"
+              },
               {
                 "nome": "QUADRA_20-10-2025_20-34-38.mp4",
                 "url": "https://drive.google.com/file/d/1WkH6-Yy9qmQT-dnDx1CKKV4GVpiIU_E0/preview",

@@ -1277,7 +1277,13 @@
         },
         "QUADRA 3": {
           "20-10-2025": {
-            "19h": [],
+            "19h": [
+              {
+                "nome": "QUADRA_20-10-2025_19-11-37.mp4",
+                "url": "https://drive.google.com/file/d/1qP7qnGU1-GwtPtp20d2cHe2mnMIk7LLH/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1qP7qnGU1-GwtPtp20d2cHe2mnMIk7LLH"
+              }
+            ],
             "16h": [
               {
                 "nome": "QUADRA_20-10-2025_16-45-02.mp4",
@@ -1575,6 +1581,15 @@
           }
         },
         "QUADRA 1": {
+          "20-10-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_20-10-2025_19-15-42.mp4",
+                "url": "https://drive.google.com/file/d/1lk7M5P1TgZpTVb164w2Y0tluw3NCRnTz/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1lk7M5P1TgZpTVb164w2Y0tluw3NCRnTz"
+              }
+            ]
+          },
           "18-10-2025": {
             "17h": [
               {
@@ -2513,6 +2528,11 @@
           "20-10-2025": {
             "19h": [
               {
+                "nome": "QUADRA_20-10-2025_19-12-59.mp4",
+                "url": "https://drive.google.com/file/d/1SvCIejo3Qcp0sq861yoJzWHOuCAlHXMf/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1SvCIejo3Qcp0sq861yoJzWHOuCAlHXMf"
+              },
+              {
                 "nome": "QUADRA_20-10-2025_19-02-35.mp4",
                 "url": "https://drive.google.com/file/d/1zPn5LeUkThsnZkOIg0NHNl7yCUo3St2j/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1zPn5LeUkThsnZkOIg0NHNl7yCUo3St2j"
@@ -3118,6 +3138,9 @@
     "RIO NEGRO-PR": {
       "ARENA PASSA TRÊS": {
         "TRAVE 2": {
+          "20-10-2025": {
+            "19h": []
+          },
           "18-10-2025": {
             "19h": [
               {

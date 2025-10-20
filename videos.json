@@ -1697,6 +1697,13 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "20-10-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_20-10-2025_19-38-51.mp4",
+                "url": "https://drive.google.com/file/d/1Gco0TbBTsxOnIDY7rvZDDEx-OPLYbZg3/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Gco0TbBTsxOnIDY7rvZDDEx-OPLYbZg3"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_20-10-2025_18-56-28.mp4",
@@ -1942,6 +1949,11 @@
         "TRAVE 2": {
           "20-10-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_20-10-2025_19-35-35.mp4",
+                "url": "https://drive.google.com/file/d/10hHWcyktqWsPRwZIEbDgScc4O8GTNwEQ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=10hHWcyktqWsPRwZIEbDgScc4O8GTNwEQ"
+              },
               {
                 "nome": "QUADRA_20-10-2025_19-04-58.mp4",
                 "url": "https://drive.google.com/file/d/1dPSGHLut1NEYI2GtIsiXHNHAsE1O-eb1/preview",
@@ -3301,6 +3313,11 @@
           "20-10-2025": {
             "19h": [
               {
+                "nome": "QUADRA_20-10-2025_19-40-26.mp4",
+                "url": "https://drive.google.com/file/d/1B6fAzRUSza1FunuUQ5Fs26jajzsXXb2d/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1B6fAzRUSza1FunuUQ5Fs26jajzsXXb2d"
+              },
+              {
                 "nome": "QUADRA_20-10-2025_19-24-34.mp4",
                 "url": "https://drive.google.com/file/d/1gWtdF5ue13G0MeGCg2woM4RQ5MwYrjUB/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1gWtdF5ue13G0MeGCg2woM4RQ5MwYrjUB"
@@ -4160,6 +4177,15 @@
       },
       "CENTRAL ARENA": {
         "QUADRA": {
+          "20-10-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_20-10-2025_19-35-19.mp4",
+                "url": "https://drive.google.com/file/d/1ky0N45l4WTLv-7NLcsVj5OLOAKymalOF/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ky0N45l4WTLv-7NLcsVj5OLOAKymalOF"
+              }
+            ]
+          },
           "19-10-2025": {
             "18h": [
               {

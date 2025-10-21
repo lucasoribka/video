@@ -346,6 +346,16 @@
           "21-10-2025": {
             "18h": [
               {
+                "nome": "QUADRA_21-10-2025_18-53-10.mp4",
+                "url": "https://drive.google.com/file/d/1n44sL983XFDzidNXJlkutjiw7rp_5Mel/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1n44sL983XFDzidNXJlkutjiw7rp_5Mel"
+              },
+              {
+                "nome": "QUADRA_21-10-2025_18-47-28.mp4",
+                "url": "https://drive.google.com/file/d/1KtdO56-evZvrj1ckGuddDRzL5zJehThi/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1KtdO56-evZvrj1ckGuddDRzL5zJehThi"
+              },
+              {
                 "nome": "QUADRA_21-10-2025_18-43-02.mp4",
                 "url": "https://drive.google.com/file/d/104AifVjSU61I89qf-O8BLMFi7QaOESu1/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=104AifVjSU61I89qf-O8BLMFi7QaOESu1"
@@ -3109,6 +3119,9 @@
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
+          "21-10-2025": {
+            "18h": []
+          },
           "20-10-2025": {
             "22h": [
               {
@@ -5183,6 +5196,25 @@
       },
       "CENTRAL ARENA": {
         "QUADRA": {
+          "21-10-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_21-10-2025_18-56-20.mp4",
+                "url": "https://drive.google.com/file/d/18Y7AOpDhg7igy7XgAHFFMStlDzFt3FKX/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=18Y7AOpDhg7igy7XgAHFFMStlDzFt3FKX"
+              },
+              {
+                "nome": "QUADRA_21-10-2025_18-53-34.mp4",
+                "url": "https://drive.google.com/file/d/1G3h2xfGH-A-_aF0bJSVUjzDvmfJjsCiG/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1G3h2xfGH-A-_aF0bJSVUjzDvmfJjsCiG"
+              },
+              {
+                "nome": "QUADRA_21-10-2025_18-51-38.mp4",
+                "url": "https://drive.google.com/file/d/1hNSaaq1vIfkx3K3tiOmcgXGMA3t1lY_P/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1hNSaaq1vIfkx3K3tiOmcgXGMA3t1lY_P"
+              }
+            ]
+          },
           "20-10-2025": {
             "20h": [
               {

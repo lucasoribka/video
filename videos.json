@@ -4,7 +4,13 @@
       "ATL PADEL": {
         "QUADRA 1": {
           "20-10-2025": {
-            "20h": [],
+            "20h": [
+              {
+                "nome": "QUADRA_20-10-2025_20-56-56.mp4",
+                "url": "https://drive.google.com/file/d/17NfLwTxL4YFxh_Gse3fRLFRY0xM0e_kj/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=17NfLwTxL4YFxh_Gse3fRLFRY0xM0e_kj"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_20-10-2025_18-50-17.mp4",
@@ -645,6 +651,7 @@
         },
         "Quadra Truck Center": {
           "20-10-2025": {
+            "21h": [],
             "20h": [
               {
                 "nome": "QUADRA_20-10-2025_20-51-23.mp4",
@@ -1264,6 +1271,13 @@
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
           "20-10-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_20-10-2025_21-04-03.mp4",
+                "url": "https://drive.google.com/file/d/1a4I3CnWzBC52xBxdC6zwEczLqQrN30wQ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1a4I3CnWzBC52xBxdC6zwEczLqQrN30wQ"
+              }
+            ],
             "09h": [
               {
                 "nome": "QUADRA_20-10-2025_09-31-10.mp4",
@@ -2690,7 +2704,19 @@
       "RAVENNA": {
         "QUADRA": {
           "20-10-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_20-10-2025_21-01-55.mp4",
+                "url": "https://drive.google.com/file/d/1kqxm97nNkE2GjB9Az0W7hBAychv54llz/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1kqxm97nNkE2GjB9Az0W7hBAychv54llz"
+              }
+            ],
             "20h": [
+              {
+                "nome": "QUADRA_20-10-2025_20-58-43.mp4",
+                "url": "https://drive.google.com/file/d/1M_X42XY7bX4s0LUq6OrodCgZQNKJEUZX/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1M_X42XY7bX4s0LUq6OrodCgZQNKJEUZX"
+              },
               {
                 "nome": "QUADRA_20-10-2025_20-56-36.mp4",
                 "url": "https://drive.google.com/file/d/1olUq9g2bz9l77xcTuFOtpoiBKhw3VGqa/preview",
@@ -4411,6 +4437,11 @@
         "TRAVE 1": {
           "20-10-2025": {
             "20h": [
+              {
+                "nome": "QUADRA_20-10-2025_20-59-27.mp4",
+                "url": "https://drive.google.com/file/d/1Q-6uqnozesMzeHkg5zIP-D-uoKKcvYr7/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Q-6uqnozesMzeHkg5zIP-D-uoKKcvYr7"
+              },
               {
                 "nome": "QUADRA_20-10-2025_20-29-28.mp4",
                 "url": "https://drive.google.com/file/d/1CIMuMTY_o51xWJL-wXhipd7YvMxkgHOp/preview",

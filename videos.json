@@ -828,7 +828,13 @@
         },
         "Quadra Truck Center": {
           "21-10-2025": {
-            "19h": [],
+            "19h": [
+              {
+                "nome": "QUADRA_21-10-2025_19-03-07.mp4",
+                "url": "https://drive.google.com/file/d/1ozb2K0U0lb_wB7Y8wr8AXfPbyay_RDb8/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ozb2K0U0lb_wB7Y8wr8AXfPbyay_RDb8"
+              }
+            ],
             "08h": [
               {
                 "nome": "QUADRA_21-10-2025_08-34-57.mp4",
@@ -2662,6 +2668,15 @@
           }
         },
         "AREIA 3": {
+          "21-10-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_21-10-2025_19-11-16.mp4",
+                "url": "https://drive.google.com/file/d/1csHOIQI0pUtp1nMF8NQAhkhDjm78nXjV/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1csHOIQI0pUtp1nMF8NQAhkhDjm78nXjV"
+              }
+            ]
+          },
           "20-10-2025": {
             "21h": [
               {
@@ -4972,6 +4987,15 @@
       },
       "PAIOL": {
         "TRAVE 2": {
+          "21-10-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_21-10-2025_19-06-06.mp4",
+                "url": "https://drive.google.com/file/d/1Dkb9TZfRQz2Ud6kcuihQtb6prS5wNF-Z/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Dkb9TZfRQz2Ud6kcuihQtb6prS5wNF-Z"
+              }
+            ]
+          },
           "20-10-2025": {
             "20h": [
               {
@@ -5211,6 +5235,18 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "21-10-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_21-10-2025_19-09-59.mp4",
+                "url": "https://drive.google.com/file/d/1SVM38a-vadp0TOmbTzlEBhCFjIzIgULZ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1SVM38a-vadp0TOmbTzlEBhCFjIzIgULZ"
+              },
+              {
+                "nome": "QUADRA_21-10-2025_19-06-07.mp4",
+                "url": "https://drive.google.com/file/d/1EaAvodmgbgnpeAwJEjDavNQLPRZVDJ3g/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1EaAvodmgbgnpeAwJEjDavNQLPRZVDJ3g"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_21-10-2025_18-58-26.mp4",

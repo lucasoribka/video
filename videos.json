@@ -4,6 +4,7 @@
       "ATL PADEL": {
         "QUADRA 1": {
           "21-10-2025": {
+            "18h": [],
             "16h": [
               {
                 "nome": "QUADRA_21-10-2025_16-46-43.mp4",
@@ -2800,6 +2801,13 @@
         },
         "AREIA 1": {
           "21-10-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_21-10-2025_18-17-29.mp4",
+                "url": "https://drive.google.com/file/d/136KiCwX7Az2m0DO0Ym4q1bejmJbFsNQV/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=136KiCwX7Az2m0DO0Ym4q1bejmJbFsNQV"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_21-10-2025_15-34-43.mp4",

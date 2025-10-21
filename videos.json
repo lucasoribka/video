@@ -4,6 +4,13 @@
       "ATL PADEL": {
         "QUADRA 1": {
           "21-10-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_21-10-2025_19-44-19.mp4",
+                "url": "https://drive.google.com/file/d/1mnYuPlXPXWMDMM1e626KTPh9JRIuJrFs/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1mnYuPlXPXWMDMM1e626KTPh9JRIuJrFs"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_21-10-2025_18-16-46.mp4",
@@ -829,6 +836,11 @@
         "Quadra Truck Center": {
           "21-10-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_21-10-2025_19-41-11.mp4",
+                "url": "https://drive.google.com/file/d/14rtz9-WLYGaFEDVT4J-vnvhzVixxiLpd/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=14rtz9-WLYGaFEDVT4J-vnvhzVixxiLpd"
+              },
               {
                 "nome": "QUADRA_21-10-2025_19-03-07.mp4",
                 "url": "https://drive.google.com/file/d/1ozb2K0U0lb_wB7Y8wr8AXfPbyay_RDb8/preview",
@@ -4434,6 +4446,25 @@
       },
       "ARENA MAIDL": {
         "QUADRA": {
+          "21-10-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_21-10-2025_19-46-04.mp4",
+                "url": "https://drive.google.com/file/d/1RqIi9gR8Jk1khKoMLqFcDfwE07gpeimr/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1RqIi9gR8Jk1khKoMLqFcDfwE07gpeimr"
+              },
+              {
+                "nome": "QUADRA_21-10-2025_19-45-00.mp4",
+                "url": "https://drive.google.com/file/d/18dAcE9nss2JSqvBvMnZ4ZSXLARWA8_dE/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=18dAcE9nss2JSqvBvMnZ4ZSXLARWA8_dE"
+              },
+              {
+                "nome": "QUADRA_21-10-2025_19-44-22.mp4",
+                "url": "https://drive.google.com/file/d/1NNKgih7nIiws0XrvdUqfB4rVd2bLD7Tu/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1NNKgih7nIiws0XrvdUqfB4rVd2bLD7Tu"
+              }
+            ]
+          },
           "20-10-2025": {
             "21h": [
               {

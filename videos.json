@@ -642,6 +642,13 @@
         },
         "Quadra Truck Center": {
           "22-10-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_22-10-2025_19-16-06.mp4",
+                "url": "https://drive.google.com/file/d/19udAyJLIAw9bNDyTxtUhEfTOI7SYH7vZ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=19udAyJLIAw9bNDyTxtUhEfTOI7SYH7vZ"
+              }
+            ],
             "14h": [
               {
                 "nome": "QUADRA_22-10-2025_14-47-28.mp4",
@@ -3456,6 +3463,25 @@
       },
       "PAIOL": {
         "TRAVE 2": {
+          "22-10-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_22-10-2025_19-19-08.mp4",
+                "url": "https://drive.google.com/file/d/1moQjaNZ9rPPp-70zxvaStOEtIThGKmhn/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1moQjaNZ9rPPp-70zxvaStOEtIThGKmhn"
+              },
+              {
+                "nome": "QUADRA_22-10-2025_19-18-29.mp4",
+                "url": "https://drive.google.com/file/d/13Xb7XC6i5F07t2rzAnPatG3V-3QGIr9E/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=13Xb7XC6i5F07t2rzAnPatG3V-3QGIr9E"
+              },
+              {
+                "nome": "QUADRA_22-10-2025_19-17-27.mp4",
+                "url": "https://drive.google.com/file/d/1Qk6AjSCqP-_I97lSia9lzVe9cmdec6T7/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Qk6AjSCqP-_I97lSia9lzVe9cmdec6T7"
+              }
+            ]
+          },
           "21-10-2025": {
             "21h": [
               {
@@ -3550,6 +3576,11 @@
         "TRAVE 1": {
           "22-10-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_22-10-2025_19-22-16.mp4",
+                "url": "https://drive.google.com/file/d/1ygZMBSb5cKgUPPKpxzN_54qMvMIa6c2N/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ygZMBSb5cKgUPPKpxzN_54qMvMIa6c2N"
+              },
               {
                 "nome": "QUADRA_22-10-2025_19-12-04.mp4",
                 "url": "https://drive.google.com/file/d/1XEpFoEVEGMs7BFGh0ceP8JlNovMx6XA9/preview",

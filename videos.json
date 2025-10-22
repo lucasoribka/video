@@ -725,7 +725,13 @@
         },
         "Quadra Manchester": {
           "22-10-2025": {
-            "17h": [],
+            "17h": [
+              {
+                "nome": "QUADRA_22-10-2025_17-39-43.mp4",
+                "url": "https://drive.google.com/file/d/1iCEeR2fU6sJBHGAlGaLA7KaZgYqrTWls/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1iCEeR2fU6sJBHGAlGaLA7KaZgYqrTWls"
+              }
+            ],
             "08h": [
               {
                 "nome": "QUADRA_22-10-2025_08-33-35.mp4",

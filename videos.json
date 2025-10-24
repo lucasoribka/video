@@ -891,6 +891,15 @@
           }
         },
         "Quadra Manchester": {
+          "24-10-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_24-10-2025_18-39-39.mp4",
+                "url": "https://drive.google.com/file/d/1wGSNyfxGyYggaR1lC-238-El0AaiJ1WS/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1wGSNyfxGyYggaR1lC-238-El0AaiJ1WS"
+              }
+            ]
+          },
           "23-10-2025": {
             "20h": [
               {
@@ -1834,6 +1843,11 @@
           "24-10-2025": {
             "18h": [
               {
+                "nome": "QUADRA_24-10-2025_18-39-50.mp4",
+                "url": "https://drive.google.com/file/d/1ET9KM54Tde09BmbITnA_GerdR6OsbvpF/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ET9KM54Tde09BmbITnA_GerdR6OsbvpF"
+              },
+              {
                 "nome": "QUADRA_24-10-2025_18-23-49.mp4",
                 "url": "https://drive.google.com/file/d/1LXkT2L2cWk7qF90l5manjAaVGxfxm4o7/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1LXkT2L2cWk7qF90l5manjAaVGxfxm4o7"
@@ -2195,6 +2209,25 @@
           }
         },
         "TRAVE 2": {
+          "24-10-2025": {
+            "18h": [
+              {
+                "nome": "QUADRA_24-10-2025_18-39-18.mp4",
+                "url": "https://drive.google.com/file/d/1ViNBh9qjU6aXDcGg3d_LIpz3-jwbiNgB/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ViNBh9qjU6aXDcGg3d_LIpz3-jwbiNgB"
+              },
+              {
+                "nome": "QUADRA_24-10-2025_18-38-39.mp4",
+                "url": "https://drive.google.com/file/d/1FEKuIiUMC7m86yas7BJbqlijLV-MpALi/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1FEKuIiUMC7m86yas7BJbqlijLV-MpALi"
+              },
+              {
+                "nome": "QUADRA_24-10-2025_18-38-03.mp4",
+                "url": "https://drive.google.com/file/d/1SFHoSOmZIiqZTcl_tFa1ZJzZPVZAH7xJ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1SFHoSOmZIiqZTcl_tFa1ZJzZPVZAH7xJ"
+              }
+            ]
+          },
           "23-10-2025": {
             "23h": [
               {

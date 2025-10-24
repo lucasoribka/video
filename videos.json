@@ -2239,6 +2239,16 @@
           "24-10-2025": {
             "14h": [
               {
+                "nome": "QUADRA_24-10-2025_14-22-14.mp4",
+                "url": "https://drive.google.com/file/d/1CIzJ8nqdNROzSLcboEJuSJPBNSVtG7_K/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1CIzJ8nqdNROzSLcboEJuSJPBNSVtG7_K"
+              },
+              {
+                "nome": "QUADRA_24-10-2025_14-20-57.mp4",
+                "url": "https://drive.google.com/file/d/1659nvZ-lKWRhGTB8gCdravRxMpdgJnPm/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1659nvZ-lKWRhGTB8gCdravRxMpdgJnPm"
+              },
+              {
                 "nome": "QUADRA_24-10-2025_14-10-52.mp4",
                 "url": "https://drive.google.com/file/d/1B0YrDuDmk3eKJCdK2YGdNsqamt7eRKqA/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1B0YrDuDmk3eKJCdK2YGdNsqamt7eRKqA"
@@ -3384,6 +3394,25 @@
           }
         },
         "AREIA 1": {
+          "24-10-2025": {
+            "14h": [
+              {
+                "nome": "QUADRA_24-10-2025_14-12-58.mp4",
+                "url": "https://drive.google.com/file/d/1p7i8bOSj4-khJ6HkdmNwPKjucyRahtYp/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1p7i8bOSj4-khJ6HkdmNwPKjucyRahtYp"
+              },
+              {
+                "nome": "QUADRA_24-10-2025_14-11-21.mp4",
+                "url": "https://drive.google.com/file/d/1UtcgZeTRJYi5UUdLdPF4_2LYXkp0rCud/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1UtcgZeTRJYi5UUdLdPF4_2LYXkp0rCud"
+              },
+              {
+                "nome": "QUADRA_24-10-2025_14-05-37.mp4",
+                "url": "https://drive.google.com/file/d/1aktwfz6xPq_-pi6qP1h0Rymwazwblr-s/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1aktwfz6xPq_-pi6qP1h0Rymwazwblr-s"
+              }
+            ]
+          },
           "23-10-2025": {
             "20h": [
               {

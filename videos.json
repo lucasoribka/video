@@ -1843,6 +1843,16 @@
           "24-10-2025": {
             "18h": [
               {
+                "nome": "QUADRA_24-10-2025_18-46-15.mp4",
+                "url": "https://drive.google.com/file/d/1bmflUoWiNjPP-dNQ8K4GW_efMGm_FztP/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1bmflUoWiNjPP-dNQ8K4GW_efMGm_FztP"
+              },
+              {
+                "nome": "QUADRA_24-10-2025_18-43-46.mp4",
+                "url": "https://drive.google.com/file/d/1yZ59ZCgzTYjSi5cjJKj6amZLioLZ0F5t/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1yZ59ZCgzTYjSi5cjJKj6amZLioLZ0F5t"
+              },
+              {
                 "nome": "QUADRA_24-10-2025_18-39-50.mp4",
                 "url": "https://drive.google.com/file/d/1ET9KM54Tde09BmbITnA_GerdR6OsbvpF/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ET9KM54Tde09BmbITnA_GerdR6OsbvpF"
@@ -2211,6 +2221,21 @@
         "TRAVE 2": {
           "24-10-2025": {
             "18h": [
+              {
+                "nome": "QUADRA_24-10-2025_18-47-06.mp4",
+                "url": "https://drive.google.com/file/d/1J1i4x3hKfKtNPbLNoIvq48sCULsT8oS6/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1J1i4x3hKfKtNPbLNoIvq48sCULsT8oS6"
+              },
+              {
+                "nome": "QUADRA_24-10-2025_18-45-44.mp4",
+                "url": "https://drive.google.com/file/d/1G9XQ0Zohk25uLhwR5P86Zc7Hbnw6Of4m/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1G9XQ0Zohk25uLhwR5P86Zc7Hbnw6Of4m"
+              },
+              {
+                "nome": "QUADRA_24-10-2025_18-41-28.mp4",
+                "url": "https://drive.google.com/file/d/10U19h7m-b1M08VqoEisi92KugJ1ZwI6z/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=10U19h7m-b1M08VqoEisi92KugJ1ZwI6z"
+              },
               {
                 "nome": "QUADRA_24-10-2025_18-39-18.mp4",
                 "url": "https://drive.google.com/file/d/1ViNBh9qjU6aXDcGg3d_LIpz3-jwbiNgB/preview",
@@ -3468,6 +3493,9 @@
     "RIO NEGRO-PR": {
       "ARENA PASSA TRÊS": {
         "TRAVE 2": {
+          "24-10-2025": {
+            "18h": []
+          },
           "23-10-2025": {
             "20h": [
               {

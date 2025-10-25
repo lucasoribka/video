@@ -744,7 +744,13 @@
         },
         "Quadra Truck Center": {
           "25-10-2025": {
-            "11h": []
+            "11h": [
+              {
+                "nome": "QUADRA_25-10-2025_11-36-52.mp4",
+                "url": "https://drive.google.com/file/d/1sOI2_zLHRHEwB46H1ErA47tAe7Boavpn/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1sOI2_zLHRHEwB46H1ErA47tAe7Boavpn"
+              }
+            ]
           },
           "24-10-2025": {
             "21h": [

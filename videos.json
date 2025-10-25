@@ -1327,7 +1327,13 @@
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
           "25-10-2025": {
-            "10h": []
+            "10h": [
+              {
+                "nome": "QUADRA_25-10-2025_10-59-11.mp4",
+                "url": "https://drive.google.com/file/d/1d7GZ_3HQuFqKCE6QsSBqrCmZraiX2N0h/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1d7GZ_3HQuFqKCE6QsSBqrCmZraiX2N0h"
+              }
+            ]
           },
           "24-10-2025": {
             "21h": [
@@ -2087,6 +2093,7 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "25-10-2025": {
+            "11h": [],
             "08h": [
               {
                 "nome": "QUADRA_25-10-2025_08-37-23.mp4",

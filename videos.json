@@ -4,7 +4,13 @@
       "ATL PADEL": {
         "QUADRA 1": {
           "25-10-2025": {
-            "16h": [],
+            "16h": [
+              {
+                "nome": "QUADRA_25-10-2025_16-12-15.mp4",
+                "url": "https://drive.google.com/file/d/1QEGnk8DWGzRxEjT6lysNYZ3Ws5KwUG6W/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1QEGnk8DWGzRxEjT6lysNYZ3Ws5KwUG6W"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_25-10-2025_15-35-14.mp4",
@@ -3875,6 +3881,15 @@
     "PAPANDUVA-SC": {
       "RAVENNA": {
         "QUADRA": {
+          "25-10-2025": {
+            "16h": [
+              {
+                "nome": "QUADRA_25-10-2025_16-20-03.mp4",
+                "url": "https://drive.google.com/file/d/1ftDW8mmDgRLxb9yi33j3JaI6zJCxdgJe/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ftDW8mmDgRLxb9yi33j3JaI6zJCxdgJe"
+              }
+            ]
+          },
           "24-10-2025": {
             "20h": [
               {
@@ -5955,6 +5970,7 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "25-10-2025": {
+            "16h": [],
             "15h": [
               {
                 "nome": "QUADRA_25-10-2025_15-58-25.mp4",

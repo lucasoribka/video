@@ -1411,6 +1411,11 @@
           "25-10-2025": {
             "16h": [
               {
+                "nome": "QUADRA_25-10-2025_16-26-24.mp4",
+                "url": "https://drive.google.com/file/d/1emFmfyrrbMWIFqWSdMi22i7u46aMg2P7/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1emFmfyrrbMWIFqWSdMi22i7u46aMg2P7"
+              },
+              {
                 "nome": "QUADRA_25-10-2025_16-11-25.mp4",
                 "url": "https://drive.google.com/file/d/1hayqe28P2qq5n-Aq-pgRAftKu7MWdqbL/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1hayqe28P2qq5n-Aq-pgRAftKu7MWdqbL"
@@ -3884,6 +3889,21 @@
           "25-10-2025": {
             "16h": [
               {
+                "nome": "QUADRA_25-10-2025_16-27-12.mp4",
+                "url": "https://drive.google.com/file/d/1zO_wYL3HIF-e84Z1K14lm1X6VaJvsuEf/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1zO_wYL3HIF-e84Z1K14lm1X6VaJvsuEf"
+              },
+              {
+                "nome": "QUADRA_25-10-2025_16-26-34.mp4",
+                "url": "https://drive.google.com/file/d/1-uU82cGflIb6RTYZbtUKZ07Ai7SZV0J0/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1-uU82cGflIb6RTYZbtUKZ07Ai7SZV0J0"
+              },
+              {
+                "nome": "QUADRA_25-10-2025_16-24-35.mp4",
+                "url": "https://drive.google.com/file/d/1FG0l0zDBVipl3NxNZrdH5oq9bs0Bw7U1/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1FG0l0zDBVipl3NxNZrdH5oq9bs0Bw7U1"
+              },
+              {
                 "nome": "QUADRA_25-10-2025_16-20-03.mp4",
                 "url": "https://drive.google.com/file/d/1ftDW8mmDgRLxb9yi33j3JaI6zJCxdgJe/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ftDW8mmDgRLxb9yi33j3JaI6zJCxdgJe"
@@ -5970,7 +5990,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "25-10-2025": {
-            "16h": [],
+            "16h": [
+              {
+                "nome": "QUADRA_25-10-2025_16-22-14.mp4",
+                "url": "https://drive.google.com/file/d/13hUH8UexdWhGAymAuraUOBHZTU2rrmTz/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=13hUH8UexdWhGAymAuraUOBHZTU2rrmTz"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_25-10-2025_15-58-25.mp4",

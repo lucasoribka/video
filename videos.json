@@ -191,6 +191,13 @@
         },
         "QUADRA 2": {
           "25-10-2025": {
+            "15h": [
+              {
+                "nome": "QUADRA_25-10-2025_15-24-39.mp4",
+                "url": "https://drive.google.com/file/d/1zE8ppX9zdbZazpakqtHAO7X2f-xRt0kn/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1zE8ppX9zdbZazpakqtHAO7X2f-xRt0kn"
+              }
+            ],
             "09h": [
               {
                 "nome": "QUADRA_25-10-2025_09-40-14.mp4",
@@ -753,7 +760,18 @@
         },
         "Quadra Truck Center": {
           "25-10-2025": {
-            "15h": [],
+            "15h": [
+              {
+                "nome": "QUADRA_25-10-2025_15-20-03.mp4",
+                "url": "https://drive.google.com/file/d/1KYBqqAB3jrXrwBiI72tlEwkFmp3vvecd/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1KYBqqAB3jrXrwBiI72tlEwkFmp3vvecd"
+              },
+              {
+                "nome": "QUADRA_25-10-2025_15-17-24.mp4",
+                "url": "https://drive.google.com/file/d/1sQMQq9BdR8w7n3vHsGBAfSiwL5IOPnwW/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1sQMQq9BdR8w7n3vHsGBAfSiwL5IOPnwW"
+              }
+            ],
             "11h": [
               {
                 "nome": "QUADRA_25-10-2025_11-36-52.mp4",
@@ -1245,6 +1263,11 @@
         "Quadra Caminho do Saber": {
           "25-10-2025": {
             "15h": [
+              {
+                "nome": "QUADRA_25-10-2025_15-24-31.mp4",
+                "url": "https://drive.google.com/file/d/1uq56PzChAyiIswxzpG8XgpwrYRfXI91B/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1uq56PzChAyiIswxzpG8XgpwrYRfXI91B"
+              },
               {
                 "nome": "QUADRA_25-10-2025_15-10-53.mp4",
                 "url": "https://drive.google.com/file/d/1B4S3JP73zR_ULEbmjCiF7j3jt0Ti6G8j/preview",
@@ -2177,6 +2200,11 @@
         "TRAVE 1": {
           "25-10-2025": {
             "15h": [
+              {
+                "nome": "QUADRA_25-10-2025_15-25-37.mp4",
+                "url": "https://drive.google.com/file/d/1w-gJZtQnzWe96DUVdjXGQuwqHA2ORJef/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1w-gJZtQnzWe96DUVdjXGQuwqHA2ORJef"
+              },
               {
                 "nome": "QUADRA_25-10-2025_15-15-04.mp4",
                 "url": "https://drive.google.com/file/d/1UStW17xNgPABQ-XF2y9cnoe2vwYMQc-6/preview",

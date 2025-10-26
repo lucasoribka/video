@@ -724,7 +724,18 @@
         },
         "Quadra Manchester": {
           "26-10-2025": {
-            "16h": []
+            "16h": [
+              {
+                "nome": "QUADRA_26-10-2025_16-14-28.mp4",
+                "url": "https://drive.google.com/file/d/19Zxm4gP-rUqp8Jzcn3VmNY42u-B6Tnma/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=19Zxm4gP-rUqp8Jzcn3VmNY42u-B6Tnma"
+              },
+              {
+                "nome": "QUADRA_26-10-2025_16-13-47.mp4",
+                "url": "https://drive.google.com/file/d/1tjcRsgS-y68tIEuO2wV43JQnOw3HhrjJ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1tjcRsgS-y68tIEuO2wV43JQnOw3HhrjJ"
+              }
+            ]
           },
           "25-10-2025": {
             "17h": [
@@ -2551,6 +2562,11 @@
         "QUADRA": {
           "26-10-2025": {
             "16h": [
+              {
+                "nome": "QUADRA_26-10-2025_16-16-43.mp4",
+                "url": "https://drive.google.com/file/d/1WEsLr8hZGJcgA9y8Ur9n5jy208BB-thH/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1WEsLr8hZGJcgA9y8Ur9n5jy208BB-thH"
+              },
               {
                 "nome": "QUADRA_26-10-2025_16-13-07.mp4",
                 "url": "https://drive.google.com/file/d/1klzF0vwuFodcrb7JBghJWDMUJk5PaAog/preview",

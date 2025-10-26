@@ -642,6 +642,13 @@
         },
         "Quadra Truck Center": {
           "26-10-2025": {
+            "17h": [
+              {
+                "nome": "QUADRA_26-10-2025_17-35-05.mp4",
+                "url": "https://drive.google.com/file/d/1wgKsObBYV_4_uDOlicpPEt_Zkv2hxmlM/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1wgKsObBYV_4_uDOlicpPEt_Zkv2hxmlM"
+              }
+            ],
             "09h": [
               {
                 "nome": "QUADRA_26-10-2025_09-53-49.mp4",
@@ -3309,6 +3316,16 @@
         "QUADRA": {
           "26-10-2025": {
             "17h": [
+              {
+                "nome": "QUADRA_26-10-2025_17-35-34.mp4",
+                "url": "https://drive.google.com/file/d/14JWdtciy-LI5xHKQ-LaTcUNIhou-DToy/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=14JWdtciy-LI5xHKQ-LaTcUNIhou-DToy"
+              },
+              {
+                "nome": "QUADRA_26-10-2025_17-33-25.mp4",
+                "url": "https://drive.google.com/file/d/1om2hxU0mK7V4MWxWh_M-_k1D7o_ShP6X/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1om2hxU0mK7V4MWxWh_M-_k1D7o_ShP6X"
+              },
               {
                 "nome": "QUADRA_26-10-2025_17-32-50.mp4",
                 "url": "https://drive.google.com/file/d/1fHEGdRdhSjQ8ouYFFHDtPfsCSuORPJlJ/preview",

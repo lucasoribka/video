@@ -1107,6 +1107,13 @@
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
           "27-10-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_27-10-2025_19-18-59.mp4",
+                "url": "https://drive.google.com/file/d/1r4SGfD3unhwLaSSoyHR7LyiL5-yLrpSr/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1r4SGfD3unhwLaSSoyHR7LyiL5-yLrpSr"
+              }
+            ],
             "16h": [
               {
                 "nome": "QUADRA_27-10-2025_16-55-29.mp4",
@@ -3433,6 +3440,9 @@
     "RIO NEGRO-PR": {
       "ARENA PASSA TRÊS": {
         "TRAVE 2": {
+          "27-10-2025": {
+            "19h": []
+          },
           "24-10-2025": {
             "18h": [
               {

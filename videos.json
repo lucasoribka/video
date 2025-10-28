@@ -4,7 +4,24 @@
       "ATL PADEL": {
         "QUADRA 1": {
           "28-10-2025": {
+            "08h": [
+              {
+                "nome": "QUADRA_28-10-2025_08-02-59.mp4",
+                "url": "https://drive.google.com/file/d/1bpXzgK3McUg1iCIS82xWCL3LpPcZdR6F/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1bpXzgK3McUg1iCIS82xWCL3LpPcZdR6F"
+              },
+              {
+                "nome": "QUADRA_28-10-2025_08-00-35.mp4",
+                "url": "https://drive.google.com/file/d/1IRSaX6iUX5ihivwgm6ek8EUhWAhjEEEp/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1IRSaX6iUX5ihivwgm6ek8EUhWAhjEEEp"
+              }
+            ],
             "07h": [
+              {
+                "nome": "QUADRA_28-10-2025_07-56-02.mp4",
+                "url": "https://drive.google.com/file/d/1Ox_7J8hqcEq99C2gowP5YW0hUGcHYLzV/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Ox_7J8hqcEq99C2gowP5YW0hUGcHYLzV"
+              },
               {
                 "nome": "QUADRA_28-10-2025_07-47-49.mp4",
                 "url": "https://drive.google.com/file/d/1aT8Dh7lSI90NuHi5KURVpE6MF-MiteI0/preview",
@@ -855,6 +872,15 @@
           }
         },
         "Quadra Manchester": {
+          "28-10-2025": {
+            "07h": [
+              {
+                "nome": "QUADRA_28-10-2025_07-59-54.mp4",
+                "url": "https://drive.google.com/file/d/1vV3vWgcVc-B_mxf56PGijrU__x9xBzn6/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1vV3vWgcVc-B_mxf56PGijrU__x9xBzn6"
+              }
+            ]
+          },
           "26-10-2025": {
             "16h": [
               {

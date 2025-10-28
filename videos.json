@@ -2810,7 +2810,24 @@
       "RAVENNA": {
         "QUADRA": {
           "27-10-2025": {
+            "22h": [
+              {
+                "nome": "QUADRA_27-10-2025_22-02-48.mp4",
+                "url": "https://drive.google.com/file/d/1r8OFh9Sj9RMnXEeyIlL04skfB1r3u9UV/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1r8OFh9Sj9RMnXEeyIlL04skfB1r3u9UV"
+              },
+              {
+                "nome": "QUADRA_27-10-2025_22-01-16.mp4",
+                "url": "https://drive.google.com/file/d/1NAX8KgZLYQh7Rzqt6ZBwYhPmEisdX_cU/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1NAX8KgZLYQh7Rzqt6ZBwYhPmEisdX_cU"
+              }
+            ],
             "21h": [
+              {
+                "nome": "QUADRA_27-10-2025_21-59-15.mp4",
+                "url": "https://drive.google.com/file/d/15ic53ueSAzWJjC-gmmfwykb0vJNsa4Rd/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=15ic53ueSAzWJjC-gmmfwykb0vJNsa4Rd"
+              },
               {
                 "nome": "QUADRA_27-10-2025_21-56-32.mp4",
                 "url": "https://drive.google.com/file/d/1MlJprAXTFL4WrUCF52UuSROsgHjIE_-O/preview",
@@ -4431,6 +4448,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "27-10-2025": {
+            "21h": [
+              {
+                "nome": "QUADRA_27-10-2025_21-59-44.mp4",
+                "url": "https://drive.google.com/file/d/1Ph1_GPIg-M__APwAFXlYHLg8cKZ5dS1n/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Ph1_GPIg-M__APwAFXlYHLg8cKZ5dS1n"
+              }
+            ],
             "20h": [
               {
                 "nome": "QUADRA_27-10-2025_20-13-13.mp4",

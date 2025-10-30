@@ -6,6 +6,11 @@
           "30-10-2025": {
             "16h": [
               {
+                "nome": "QUADRA_30-10-2025_16-07-04.mp4",
+                "url": "https://drive.google.com/file/d/1o3lTqDzzJ3QSekRnWkb1ZJSgg-yrkrzv/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1o3lTqDzzJ3QSekRnWkb1ZJSgg-yrkrzv"
+              },
+              {
                 "nome": "QUADRA_30-10-2025_16-02-00.mp4",
                 "url": "https://drive.google.com/file/d/1QJiCRej0t9KiQ7K1oprsynoaLnh3LAmS/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1QJiCRej0t9KiQ7K1oprsynoaLnh3LAmS"
@@ -1175,6 +1180,15 @@
     "MAFRA-SC": {
       "RIOMAFRA PADEL": {
         "QUADRA 4": {
+          "30-10-2025": {
+            "16h": [
+              {
+                "nome": "QUADRA_30-10-2025_16-09-14.mp4",
+                "url": "https://drive.google.com/file/d/1jG5IzyeDBkyA4fK-5AFQYIfpqy1hIUTm/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1jG5IzyeDBkyA4fK-5AFQYIfpqy1hIUTm"
+              }
+            ]
+          },
           "29-10-2025": {
             "19h": [
               {

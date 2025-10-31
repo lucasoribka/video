@@ -391,6 +391,11 @@
           "31-10-2025": {
             "19h": [
               {
+                "nome": "QUADRA_31-10-2025_19-29-03.mp4",
+                "url": "https://drive.google.com/file/d/1FARxC0wYcVeFbZvXr1YsAS9ffYPx7kk0/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1FARxC0wYcVeFbZvXr1YsAS9ffYPx7kk0"
+              },
+              {
                 "nome": "QUADRA_31-10-2025_19-14-52.mp4",
                 "url": "https://drive.google.com/file/d/1pb2pxnsaFr7VRpq9DykNpM0DTYv47neG/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1pb2pxnsaFr7VRpq9DykNpM0DTYv47neG"
@@ -1554,6 +1559,15 @@
           }
         },
         "Quadra Caminho do Saber": {
+          "31-10-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_31-10-2025_19-32-35.mp4",
+                "url": "https://drive.google.com/file/d/1rhLmE6oxTq-vQ6wWa9wUeeVL3WQY8RCa/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1rhLmE6oxTq-vQ6wWa9wUeeVL3WQY8RCa"
+              }
+            ]
+          },
           "30-10-2025": {
             "20h": [
               {
@@ -3346,6 +3360,21 @@
         "TRAVE 2": {
           "31-10-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_31-10-2025_19-33-28.mp4",
+                "url": "https://drive.google.com/file/d/1cWymnZIskQ4AcMbPeEdydXxGAN4OxeC5/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1cWymnZIskQ4AcMbPeEdydXxGAN4OxeC5"
+              },
+              {
+                "nome": "QUADRA_31-10-2025_19-30-19.mp4",
+                "url": "https://drive.google.com/file/d/1rTBFE1eScNU947QGXtLQoiSVd3gF8MT7/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1rTBFE1eScNU947QGXtLQoiSVd3gF8MT7"
+              },
+              {
+                "nome": "QUADRA_31-10-2025_19-28-05.mp4",
+                "url": "https://drive.google.com/file/d/1oOCmGUa2Vq1Tc6HskZVXdH7PfphqE4zS/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1oOCmGUa2Vq1Tc6HskZVXdH7PfphqE4zS"
+              },
               {
                 "nome": "QUADRA_31-10-2025_19-21-02.mp4",
                 "url": "https://drive.google.com/file/d/1cyDQbgVmiIrW6GZEOCx2vxy0fS9r5fHo/preview",
@@ -6050,6 +6079,9 @@
       },
       "ARENA MAIDL": {
         "QUADRA": {
+          "31-10-2025": {
+            "19h": []
+          },
           "30-10-2025": {
             "21h": [
               {

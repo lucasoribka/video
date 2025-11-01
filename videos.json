@@ -1578,7 +1578,13 @@
         },
         "Quadra Manchester": {
           "01-11-2025": {
-            "17h": [],
+            "17h": [
+              {
+                "nome": "QUADRA_01-11-2025_17-16-12.mp4",
+                "url": "https://drive.google.com/file/d/1bJpUTyUmgyTNHvbUUp7v1vYcFzziP9AT/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1bJpUTyUmgyTNHvbUUp7v1vYcFzziP9AT"
+              }
+            ],
             "16h": [
               {
                 "nome": "QUADRA_01-11-2025_16-24-06.mp4",
@@ -1772,6 +1778,13 @@
         },
         "Quadra Caminho do Saber": {
           "01-11-2025": {
+            "17h": [
+              {
+                "nome": "QUADRA_01-11-2025_17-22-12.mp4",
+                "url": "https://drive.google.com/file/d/1vi0qfhku_1MTRqR1cCnUwwXQgDzDQGZc/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1vi0qfhku_1MTRqR1cCnUwwXQgDzDQGZc"
+              }
+            ],
             "10h": [
               {
                 "nome": "QUADRA_01-11-2025_10-51-24.mp4",
@@ -2657,6 +2670,7 @@
         },
         "QUADRA 2": {
           "01-11-2025": {
+            "17h": [],
             "15h": [
               {
                 "nome": "QUADRA_01-11-2025_15-41-08.mp4",
@@ -3876,6 +3890,18 @@
         },
         "TRAVE 2": {
           "01-11-2025": {
+            "17h": [
+              {
+                "nome": "QUADRA_01-11-2025_17-24-01.mp4",
+                "url": "https://drive.google.com/file/d/1B97nCmal92_ROOaMMQV7xU_6G6YOYFNM/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1B97nCmal92_ROOaMMQV7xU_6G6YOYFNM"
+              },
+              {
+                "nome": "QUADRA_01-11-2025_17-18-16.mp4",
+                "url": "https://drive.google.com/file/d/1FJ7TMVHJ2heorRH8M3KjngYgBv19fbXE/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1FJ7TMVHJ2heorRH8M3KjngYgBv19fbXE"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_01-11-2025_15-49-50.mp4",
@@ -5024,6 +5050,11 @@
         "AREIA 1": {
           "01-11-2025": {
             "17h": [
+              {
+                "nome": "QUADRA_01-11-2025_17-19-57.mp4",
+                "url": "https://drive.google.com/file/d/1RwsMZoJDnKMtxDklFOow6J3UcyToZc2m/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1RwsMZoJDnKMtxDklFOow6J3UcyToZc2m"
+              },
               {
                 "nome": "QUADRA_01-11-2025_17-15-46.mp4",
                 "url": "https://drive.google.com/file/d/1AH9KO-6pL407bjZEKOuUHCkCrc2EAh3b/preview",

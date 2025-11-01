@@ -4,6 +4,13 @@
       "ATL PADEL": {
         "QUADRA 1": {
           "01-11-2025": {
+            "17h": [
+              {
+                "nome": "QUADRA_01-11-2025_17-48-37.mp4",
+                "url": "https://drive.google.com/file/d/14Qn0TwFRXLOppLrFuC-KAuogWYJRZYiG/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=14Qn0TwFRXLOppLrFuC-KAuogWYJRZYiG"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_01-11-2025_15-32-08.mp4",
@@ -1786,6 +1793,11 @@
         "Quadra Caminho do Saber": {
           "01-11-2025": {
             "17h": [
+              {
+                "nome": "QUADRA_01-11-2025_17-47-02.mp4",
+                "url": "https://drive.google.com/file/d/13xsqtmUlnuTwVs-ynr3rOrgC2hDfKQOI/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=13xsqtmUlnuTwVs-ynr3rOrgC2hDfKQOI"
+              },
               {
                 "nome": "QUADRA_01-11-2025_17-22-12.mp4",
                 "url": "https://drive.google.com/file/d/1vi0qfhku_1MTRqR1cCnUwwXQgDzDQGZc/preview",
@@ -3904,6 +3916,21 @@
         "TRAVE 2": {
           "01-11-2025": {
             "17h": [
+              {
+                "nome": "QUADRA_01-11-2025_17-49-52.mp4",
+                "url": "https://drive.google.com/file/d/1dFbcF4lmszMLV2UZNpTbOf68m2CgqGw9/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1dFbcF4lmszMLV2UZNpTbOf68m2CgqGw9"
+              },
+              {
+                "nome": "QUADRA_01-11-2025_17-47-03.mp4",
+                "url": "https://drive.google.com/file/d/1Y8tt_Ubmno74MlSpUWNlyel2jSuUnqd6/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1Y8tt_Ubmno74MlSpUWNlyel2jSuUnqd6"
+              },
+              {
+                "nome": "QUADRA_01-11-2025_17-41-42.mp4",
+                "url": "https://drive.google.com/file/d/1OVpcvTiCYf-JV36IJ5aVwpkMBeaHWRS_/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1OVpcvTiCYf-JV36IJ5aVwpkMBeaHWRS_"
+              },
               {
                 "nome": "QUADRA_01-11-2025_17-37-04.mp4",
                 "url": "https://drive.google.com/file/d/1A9QPiEB2brr91jrvoSbKsJ8SsG54KRmg/preview",
@@ -7300,6 +7327,9 @@
           }
         },
         "TRAVE 1": {
+          "01-11-2025": {
+            "17h": []
+          },
           "30-10-2025": {
             "19h": [
               {

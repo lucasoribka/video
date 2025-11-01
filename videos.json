@@ -1578,6 +1578,7 @@
         },
         "Quadra Manchester": {
           "01-11-2025": {
+            "17h": [],
             "16h": [
               {
                 "nome": "QUADRA_01-11-2025_16-24-06.mp4",
@@ -5022,6 +5023,13 @@
         },
         "AREIA 1": {
           "01-11-2025": {
+            "17h": [
+              {
+                "nome": "QUADRA_01-11-2025_17-15-46.mp4",
+                "url": "https://drive.google.com/file/d/1AH9KO-6pL407bjZEKOuUHCkCrc2EAh3b/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1AH9KO-6pL407bjZEKOuUHCkCrc2EAh3b"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_01-11-2025_15-09-06.mp4",
@@ -8887,6 +8895,13 @@
       "CENTRAL ARENA": {
         "QUADRA": {
           "01-11-2025": {
+            "17h": [
+              {
+                "nome": "QUADRA_01-11-2025_17-09-46.mp4",
+                "url": "https://drive.google.com/file/d/1QdbRCawBf3Kr1642r0LYIgd-cIEguTrc/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1QdbRCawBf3Kr1642r0LYIgd-cIEguTrc"
+              }
+            ],
             "16h": [
               {
                 "nome": "QUADRA_01-11-2025_16-53-52.mp4",

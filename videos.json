@@ -1322,6 +1322,13 @@
         },
         "Quadra Truck Center": {
           "01-11-2025": {
+            "17h": [
+              {
+                "nome": "QUADRA_01-11-2025_17-28-49.mp4",
+                "url": "https://drive.google.com/file/d/1uySUM2ZH_IT_HwfRP37iybnP5bs6BJDJ/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1uySUM2ZH_IT_HwfRP37iybnP5bs6BJDJ"
+              }
+            ],
             "16h": [
               {
                 "nome": "QUADRA_01-11-2025_16-57-59.mp4",
@@ -2670,7 +2677,13 @@
         },
         "QUADRA 2": {
           "01-11-2025": {
-            "17h": [],
+            "17h": [
+              {
+                "nome": "QUADRA_01-11-2025_17-25-00.mp4",
+                "url": "https://drive.google.com/file/d/1fAnOdiVDXAGQiXCoZsgSuh42ACEbphhi/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1fAnOdiVDXAGQiXCoZsgSuh42ACEbphhi"
+              }
+            ],
             "15h": [
               {
                 "nome": "QUADRA_01-11-2025_15-41-08.mp4",
@@ -7089,6 +7102,15 @@
     "RIO NEGRO-PR": {
       "ARENA PASSA TRÊS": {
         "TRAVE 2": {
+          "01-11-2025": {
+            "17h": [
+              {
+                "nome": "QUADRA_01-11-2025_17-31-25.mp4",
+                "url": "https://drive.google.com/file/d/1eH9cdz353t8uCr3QCrP2RHSRictNC4jS/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1eH9cdz353t8uCr3QCrP2RHSRictNC4jS"
+              }
+            ]
+          },
           "30-10-2025": {
             "19h": [
               {

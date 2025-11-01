@@ -3484,7 +3484,13 @@
         },
         "TRAVE 2": {
           "31-10-2025": {
-            "23h": [],
+            "23h": [
+              {
+                "nome": "QUADRA_31-10-2025_23-13-28.mp4",
+                "url": "https://drive.google.com/file/d/1ymqCWwJKtAxwx7tJzZeEP2KdPiQGJ1Mp/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ymqCWwJKtAxwx7tJzZeEP2KdPiQGJ1Mp"
+              }
+            ],
             "21h": [
               {
                 "nome": "QUADRA_31-10-2025_21-34-59.mp4",

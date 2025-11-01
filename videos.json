@@ -3318,6 +3318,13 @@
       "JR03 - RAFINHA": {
         "TRAVE 1": {
           "01-11-2025": {
+            "19h": [
+              {
+                "nome": "QUADRA_01-11-2025_19-46-28.mp4",
+                "url": "https://drive.google.com/file/d/1CT0f6_V-dP28ebYm804c3s1DAPytx8sm/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1CT0f6_V-dP28ebYm804c3s1DAPytx8sm"
+              }
+            ],
             "18h": [
               {
                 "nome": "QUADRA_01-11-2025_18-25-51.mp4",
@@ -5526,6 +5533,11 @@
           "01-11-2025": {
             "19h": [
               {
+                "nome": "QUADRA_01-11-2025_19-42-34.mp4",
+                "url": "https://drive.google.com/file/d/1F3LyCnzdeW2u9z3A4E_541vXYdJM4ncN/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1F3LyCnzdeW2u9z3A4E_541vXYdJM4ncN"
+              },
+              {
                 "nome": "QUADRA_01-11-2025_19-35-49.mp4",
                 "url": "https://drive.google.com/file/d/1ZkGRGGVv1hBx58co0AISk425tunHGUzk/preview",
                 "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1ZkGRGGVv1hBx58co0AISk425tunHGUzk"
@@ -7656,6 +7668,16 @@
         "QUADRA": {
           "01-11-2025": {
             "19h": [
+              {
+                "nome": "QUADRA_01-11-2025_19-42-08.mp4",
+                "url": "https://drive.google.com/file/d/16JLMGRvs_eHzsDjjz26odYxKzm4yqSoN/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=16JLMGRvs_eHzsDjjz26odYxKzm4yqSoN"
+              },
+              {
+                "nome": "QUADRA_01-11-2025_19-41-25.mp4",
+                "url": "https://drive.google.com/file/d/1PEZGxjQqX7Tiu1Wi6Q7iim4U9S6jT_XO/preview",
+                "thumbnail": "https://drive.google.com/thumbnail?authuser=0&sz=w320&id=1PEZGxjQqX7Tiu1Wi6Q7iim4U9S6jT_XO"
+              },
               {
                 "nome": "QUADRA_01-11-2025_19-36-00.mp4",
                 "url": "https://drive.google.com/file/d/1r9n9q4pShK-SmyflLIOcG3BAr8XhWM2C/preview",
